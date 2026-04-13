@@ -70,16 +70,16 @@ print(df.head())
 | zero.irish      | available | $9.99     | $27.99        | 112            | 53     | 4      | name.com         |
 | mail.irish      | resell    | —         | —             | 94             | 59     | 4      | Porkbun LLC      |
 | car.irish       | premium   | $260      | $260          | 94             | 46     | 3      | namecheap        |
-| fast.irish      | available | $9.99     | $27.99        | 82             | 53     | 4      | name.com         |
+| fast.irish      | available | $9.99     | $27.99        | 82             | 52     | 4      | name.com         |
 | dot.irish       | resell    | —         | —             | 74             | 58     | 3      | Sav.com, LLC - 9 |
 | insurance.irish | premium   | $520      | $520          | 76             | 44     | 9      | namecheap        |
-| clear.irish     | available | $9.99     | $27.99        | 90             | 49     | 5      | name.com         |
+| simple.irish    | available | $9.99     | $27.99        | 128            | 49     | 6      | name.com         |
 | smart.irish     | resell    | —         | —             | 74             | 57     | 5      | Porkbun LLC      |
 | map.irish       | premium   | $260      | $260          | 78             | 42     | 3      | namecheap        |
-| security.irish  | available | $31.98    | —             | 70             | 49     | 8      | namecheap        |
+| clear.irish     | available | $9.99     | $27.99        | 90             | 49     | 5      | name.com         |
 | wallet.irish    | resell    | —         | —             | 74             | 54     | 6      | Dynadot Inc      |
 | about.irish     | premium   | $250      | $250          | 94             | 37     | 5      | name.com         |
-| simple.irish    | available | $9.99     | $27.99        | 128            | 48     | 6      | name.com         |
+| security.irish  | available | $31.98    | —             | 70             | 49     | 8      | namecheap        |
 | world.irish     | resell    | —         | —             | 88             | 51     | 5      | Sav.com, LLC     |
 | history.irish   | premium   | $260      | $260          | 94             | 36     | 7      | namecheap        |
 | only.irish      | available | $9.99     | $27.99        | 110            | 46     | 4      | name.com         |
