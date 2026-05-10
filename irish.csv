@@ -273,6 +273,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 17ad2e66-5ae7-4375-a0d9-b40ec757b27b,responds.irish,available,9.99,,58,3,8,name.com,,
 17b095d9-fa71-41a5-bccf-3e837d1f4bb6,inthedock.irish,available,9.99,,50,1,11,name.com,,
 17cfa8a9-50cc-4ad2-ad19-01f49f9a230c,chickensoup.irish,available,9.99,,84,4,12,name.com,,
+17de030d-4542-4a54-9ace-a126016bd3da,her.irish,premium,,,68,30,3,,,
 17e25dda-4a90-4f0f-be25-711d2be32e55,havetodo.irish,available,9.99,,56,1,10,name.com,,
 17e44d83-9538-4708-8477-52a816c6150d,footballpools.irish,available,9.99,,46,2,14,name.com,,
 17e5f343-4afe-4afb-ae83-4ffc518e8ca0,revisions.irish,available,9.99,,52,5,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5782f7c9-3850-43d0-b05b-ee45bc7c7b64,criteria.irish,available,9.99,,88,10,8,name.com,,
 57962fde-0ea3-49f2-bcb0-380fc3aa9b18,keepsomeoneposted.irish,available,9.99,,66,0,19,name.com,,
 57a05ad1-8500-4bf2-994e-591f929f37e9,seniorcollege.irish,available,9.99,,67,1,14,name.com,,
-57c551ff-7587-4e8c-9c65-d9980cddc7f2,newsreporter.irish,available,9.99,,46,4,13,name.com,,
