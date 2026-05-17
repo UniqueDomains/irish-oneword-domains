@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .irish one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,286 domains · **Median ask:** $12.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/irish`  
 **Best for:** founders, investors, studios
 
@@ -67,8 +67,8 @@ print(df.head())
 | tips.irish     | available | $9.99     | —             | 80             | 26     | 4      | name.com         |
 | Acup.irish     | available | $31.98    | —             | 80             | 5      | 5      | namecheap        |
 | geton.irish    | available | $9.99     | —             | 82             | 10     | 6      | name.com         |
-| getup.irish    | available | $9.99     | —             | 82             | 14     | 6      | name.com         |
-| popup.irish    | available | $9.99     | —             | 84             | 29     | 6      | name.com         |
+| getup.irish    | available | $9.99     | —             | 82             | 15     | 6      | name.com         |
+| popup.irish    | available | $9.99     | —             | 84             | 28     | 6      | name.com         |
 | useit.irish    | available | $9.99     | —             | 94             | 7      | 6      | name.com         |
 | dogsit.irish   | available | $9.99     | —             | 96             | 2      | 6      | name.com         |
 | gearup.irish   | available | $9.99     | —             | 80             | 16     | 7      | name.com         |
@@ -80,10 +80,10 @@ print(df.head())
 | skills.irish   | available | $9.99     | —             | 58             | 47     | 6      | name.com         |
 | online.irish   | resell    | —         | —             | 70             | 62     | 7      | Porkbun LLC      |
 | girls.irish    | premium   | $500      | —             | 83             | 23     | 5      | name.com         |
-| Tools.irish    | available | $31.98    | —             | 56             | 40     | 5      | namecheap        |
+| whynot.irish   | available | $9.99     | —             | 74             | 44     | 7      | name.com         |
 | lets.irish     | resell    | —         | —             | 77             | 39     | 4      | GoDaddy.com, LLC |
 | holidays.irish | premium   | $242      | $242          | 78             | 23     | 8      | namesilo         |
-| whynot.irish   | available | $9.99     | —             | 74             | 39     | 7      | name.com         |
+| Tools.irish    | available | $31.98    | —             | 56             | 40     | 5      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
