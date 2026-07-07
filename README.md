@@ -1,10 +1,10 @@
-# Available .IRISH One-Word Domains (12,285)
+# Available .IRISH One-Word Domains (12,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C285%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .irish one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,285 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,285 domains · **Median ask:** $12.81 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,286 domains · **Median ask:** $11.79 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/irish`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/irish`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .IRISH one-word domain
 
 ### Files
 
-- `irish.csv` — public CSV extract (1,000 rows)
-- `irish.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `irish.csv`, public CSV extract (1,000 rows)
+- `irish.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
-| tips.irish     | available | $9.99     | —             | 80             | 26     | 4      | name.com                |
-| Acup.irish     | available | $31.98    | —             | 80             | 5      | 5      | namecheap               |
-| geton.irish    | available | $9.99     | —             | 82             | 10     | 6      | name.com                |
-| getup.irish    | available | $9.99     | —             | 82             | 15     | 6      | name.com                |
-| popup.irish    | available | $9.99     | —             | 84             | 28     | 6      | name.com                |
-| useit.irish    | available | $9.99     | —             | 94             | 7      | 6      | name.com                |
-| dogsit.irish   | available | $9.99     | —             | 96             | 2      | 6      | name.com                |
-| gearup.irish   | available | $9.99     | —             | 80             | 16     | 7      | name.com                |
-| playon.irish   | available | $9.99     | —             | 80             | 14     | 7      | name.com                |
-| hangon.irish   | available | $9.99     | —             | 82             | 6      | 7      | name.com                |
-| pierogi.irish  | available | $9.99     | —             | 82             | 7      | 7      | name.com                |
-| watches.irish  | available | $9.99     | —             | 84             | 19     | 7      | name.com                |
-| getlife.irish  | available | $9.99     | —             | 80             | 5      | 8      | name.com                |
-| skills.irish   | available | $9.99     | —             | 58             | 47     | 6      | name.com                |
-| lets.irish     | resell    | —         | —             | 77             | 39     | 4      | GoDaddy.com, LLC        |
-| girls.irish    | premium   | $500      | —             | 83             | 23     | 5      | name.com                |
-| whynot.irish   | available | $9.99     | —             | 74             | 44     | 7      | name.com                |
-| loans.irish    | resell    | —         | —             | 58             | 24     | 5      | Unstoppable Domains Inc |
-| holidays.irish | premium   | $242      | $242          | 78             | 23     | 8      | namesilo                |
-| Tools.irish    | available | $31.98    | —             | 56             | 40     | 5      | namecheap               |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
+| Ava.irish         | available | $9.99     | —             | high           | medium | 3      | name.com                           |
+| tip.irish         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                        |
+| one.irish         | premium   | $500      | $500          | high           | medium | 3      | name.com                           |
+| but.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
+| cloud.irish       | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                        |
+| social.irish      | premium   | $242      | $242          | high           | medium | 6      | namesilo                           |
+| cut.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                           |
+| study.irish       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                   |
+| amazing.irish     | premium   | $242      | $242          | high           | low    | 7      | namesilo                           |
+| dig.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
+| credit.irish      | resell    | —         | —             | medium         | low    | 6      | Unstoppable Domains Inc            |
+| history.irish     | premium   | $260      | $260          | high           | low    | 7      | namecheap                          |
+| dry.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                           |
+| health.irish      | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 12                  |
+| photography.irish | premium   | $250      | —             | medium         | low    | 11     | name.com                           |
+| egg.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
+| company.irish     | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                   |
+| err.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
+| connect.irish     | resell    | —         | —             | high           | medium | 7      | Blacknight Internet Solutions Ltd. |
+| few.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,285 live domains                        |
+| 1,000-row public sample | 12,286 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names on the .irish extension. The set spans plain dictionary terms, category words, and short brandable constructions such as tips.irish, finals.irish, ladies.irish, and geton.irish. With a median ask of 12.81, the main decision is usually not entry price but whether the word is strong enough to justify long-term renewal and real-world use. Founders should favor words that are easy to say, spell, and remember. Investors should focus on commercial clarity, resale relevance, and whether a term has credible buyer overlap without obvious trademark pressure from highly specific branded meanings.
+This list gathers one-word domain names registered under the .irish extension — Ireland's national top-level domain. It spans plain nouns, compound words, and proper-noun style names, from bedframe.irish to restassured.irish, offering a broad view of what's available across this country-coded suffix. Updated daily, the set is useful for comparing wording style, length, and asking price across a single, consistent extension.
 
-- Favor clean dictionary words over obscure spellings
-- Check if the word is easy to say and recall
-- Weigh low ask against long-term renewal exposure
-- Be careful with brand-like terms such as Trex or WiFi
+- 12,286 one-word .irish domain names in this selection
+- Median asking price: $11.79
+- Everyday vocabulary style: bedframe, hightech, restassured
+- A distinct national extension for Ireland-focused brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
