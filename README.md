@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .irish one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,128 domains · **Median ask:** $9.44 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/irish`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                          |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------------------- |
-| Ava.irish         | available | $9.99     | —             | high           | medium | 3      | name.com                           |
-| tip.irish         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC                        |
-| one.irish         | premium   | $500      | $500          | high           | medium | 3      | name.com                           |
-| but.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
-| cloud.irish       | resell    | —         | —             | high           | medium | 5      | Dynadot Inc                        |
-| social.irish      | premium   | $242      | $242          | high           | medium | 6      | namesilo                           |
-| ccc.irish         | available | $5.98     | $31.98        | low            | medium | 3      | namecheap                          |
-| study.irish       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                   |
-| amazing.irish     | premium   | $242      | $242          | high           | low    | 7      | namesilo                           |
-| cut.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                           |
-| credit.irish      | resell    | —         | —             | medium         | low    | 6      | Unstoppable Domains Inc            |
-| history.irish     | premium   | $260      | $260          | high           | low    | 7      | namecheap                          |
-| dig.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
-| health.irish      | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 12                  |
-| photography.irish | premium   | $250      | —             | medium         | low    | 11     | name.com                           |
-| dry.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                           |
-| company.irish     | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC                   |
-| egg.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
-| connect.irish     | resell    | —         | —             | high           | medium | 7      | Blacknight Internet Solutions Ltd. |
-| err.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                           |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar               |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
+| okay.irish        | available | $9.99     | $27.99        | high           | low    | 4      | name.com                |
+| sorry.irish       | available | $9.99     | $27.99        | high           | low    | 5      | name.com                |
+| one.irish         | premium   | $500      | $500          | high           | medium | 3      | name.com                |
+| room.irish        | available | $9.99     | —             | high           | low    | 4      | name.com                |
+| cut.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                |
+| Ava.irish         | available | $9.99     | —             | high           | medium | 3      | name.com                |
+| tip.irish         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC             |
+| but.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                |
+| cloud.irish       | resell    | —         | —             | high           | medium | 5      | Dynadot Inc             |
+| social.irish      | premium   | $242      | $242          | high           | medium | 6      | namesilo                |
+| ccc.irish         | available | $5.98     | $31.98        | low            | medium | 3      | namecheap               |
+| study.irish       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC        |
+| amazing.irish     | premium   | $242      | $242          | high           | low    | 7      | namesilo                |
+| credit.irish      | resell    | —         | —             | medium         | low    | 6      | Unstoppable Domains Inc |
+| history.irish     | premium   | $260      | $260          | high           | low    | 7      | namecheap               |
+| dig.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                |
+| health.irish      | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC - 12       |
+| photography.irish | premium   | $250      | —             | medium         | low    | 11     | name.com                |
+| dry.irish         | available | $9.99     | $27.99        | high           | low    | 3      | name.com                |
+| company.irish     | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
