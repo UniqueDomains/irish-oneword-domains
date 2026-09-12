@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .irish one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 21,820 domains · **Median ask:** $8.69 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/irish`
 **Best for:** founders, investors, studios
 
@@ -66,9 +66,9 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------- |
 | okay.irish        | available | $9.99     | $27.99        | high           | low    | 4      | name.com                |
 | sorry.irish       | available | $9.99     | $27.99        | high           | low    | 5      | name.com                |
+| one.irish         | premium   | $500      | $500          | high           | medium | 3      | name.com                |
 | Ava.irish         | available | $9.99     | —             | high           | medium | 3      | name.com                |
 | tip.irish         | resell    | —         | —             | high           | low    | 3      | Porkbun LLC             |
-| one.irish         | premium   | $500      | $500          | high           | medium | 3      | name.com                |
 | but.irish         | available | $9.99     | —             | high           | low    | 3      | name.com                |
 | cloud.irish       | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc             |
 | social.irish      | premium   | $242      | $242          | medium         | medium | 6      | namesilo                |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .IRISH One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
