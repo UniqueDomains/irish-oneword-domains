@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-5af20cdf-9e84-42bc-a552-0349e1b035a7,phony.irish,available,5.98,31.98,low,low,5,namecheap,,,08/08/2026 23:09
-219c7c63-a3dc-4558-bbd0-ac60ef8fc917,axonal.irish,available,5.98,31.98,low,low,6,namecheap,,,08/08/2026 02:01
-89e526d1-8d7b-4faa-bb9c-0e435b53f219,breathalizer.irish,available,9.99,,medium,low,12,name.com,,,
+5af20cdf-9e84-42bc-a552-0349e1b035a7,phony.irish,available,5.98,31.98,high,low,5,namecheap,,,08/08/2026 23:09
+219c7c63-a3dc-4558-bbd0-ac60ef8fc917,axonal.irish,available,5.98,31.98,medium,low,6,namecheap,,,08/08/2026 02:01
 1beb9e59-5863-4303-9ef4-2ab4f7b8d01c,occur.irish,available,9.99,,high,low,5,name.com,,,
 4c3dcf25-76a7-44b9-9e09-9997e0413b0b,child.irish,available,9.99,,high,low,5,name.com,,,
-b5d37ead-14b1-42f8-86d0-5e5265bef14a,wagon.irish,available,9.99,,medium,low,5,name.com,,,
-7d08659c-b702-4dd4-a602-86c4f1092d60,foreigner.irish,available,5.98,31.98,low,low,9,namecheap,,,
-50ab19cc-324c-41bf-ba36-b4a6b39487b2,petalless.irish,available,5.98,31.98,low,low,9,namecheap,,,05/08/2026 22:41
-f156c363-ab96-4c91-94cb-2027e2d4cbf0,iwanttoknow.irish,available,9.99,,medium,low,14,name.com,,,
-f0f12f9e-b748-445c-8817-b313680a3e9f,enthralled.irish,available,5.98,31.98,low,low,10,namecheap,,,09/08/2026 10:06
-bbbc7bca-d072-4537-8299-123ff7e415bb,aliquot.irish,available,5.98,31.98,low,low,7,namecheap,,,
-d0aaefad-8f58-4a71-86d0-d5ad165df575,engrossing.irish,available,5.98,31.98,low,low,10,namecheap,,,
-07557896-c3fb-43ae-84a6-612978a5f379,difficulty.irish,available,9.99,,medium,low,10,name.com,,,
-eb90def3-5fb3-4234-b60b-d8492bc4a92c,after.irish,available,7.49,22.49,medium,low,5,namesilo,,,21/09/2026 22:16
-ad7caabc-d13e-43ba-ae5a-b9970e58839b,maze.irish,available,9.99,,medium,low,4,name.com,,,
+b5d37ead-14b1-42f8-86d0-5e5265bef14a,wagon.irish,available,9.99,,high,low,5,name.com,,,
+7d08659c-b702-4dd4-a602-86c4f1092d60,foreigner.irish,available,5.98,31.98,high,low,9,namecheap,,,
+f0f12f9e-b748-445c-8817-b313680a3e9f,enthralled.irish,available,5.98,31.98,medium,low,10,namecheap,,,09/08/2026 10:06
+bbbc7bca-d072-4537-8299-123ff7e415bb,aliquot.irish,available,5.98,31.98,high,low,7,namecheap,,,
+d0aaefad-8f58-4a71-86d0-d5ad165df575,engrossing.irish,available,5.98,31.98,high,low,10,namecheap,,,
+07557896-c3fb-43ae-84a6-612978a5f379,difficulty.irish,available,9.99,,high,low,10,name.com,,,
+ad7caabc-d13e-43ba-ae5a-b9970e58839b,maze.irish,available,9.99,,high,low,4,name.com,,,
 9a94c52c-5cd8-4021-ab56-d435c06862b1,situation.irish,available,9.99,,high,low,9,name.com,,,
-599f4cc0-19ff-466d-b8fa-b586b3383e91,araneidal.irish,available,5.98,31.98,low,low,9,namecheap,,,06/08/2026 12:18
-39d54e29-b85a-4145-9cec-3b938d6dc413,tyrannic.irish,available,5.98,31.98,low,low,8,namecheap,,,07/08/2026 19:03
 2792854c-5f19-4178-83d1-03aaad656e25,quest.irish,available,9.99,,high,medium,5,name.com,,,
 25f20307-6095-4bf1-a871-34a6fd6dbb43,vocal.irish,available,9.99,,high,low,5,name.com,,,
 641c94d8-e823-4782-b432-5f8eadd6bdfd,invented.irish,available,9.99,,high,low,8,name.com,,,
-19832571-b137-495d-a324-ec44974b2697,auroral.irish,available,5.98,31.98,low,low,7,namecheap,,,22/09/2026 13:08
-771beffe-2e62-414e-bb5a-efb9840e355d,which.irish,available,,,medium,low,5,,,,
-b8b274c8-9c26-4e54-92b7-24358549e82f,profitmargin.irish,available,9.99,,high,low,13,name.com,,,
+771beffe-2e62-414e-bb5a-efb9840e355d,which.irish,available,,,high,low,5,,,,
 08219a37-9b9c-4346-bbad-38409e5ef78e,facility.irish,available,9.99,,high,low,8,name.com,,,
 4d4d1774-def4-4939-8474-6064dc92f322,rigid.irish,available,9.99,,high,low,5,name.com,,,
 d1c2cf34-c8cd-4a9d-9cc5-9dd8d5f074a2,controlling.irish,available,9.99,,high,low,11,name.com,,,
-8ddfa713-a206-4946-89e3-693c35c9e16a,presssecretary.irish,available,9.99,,high,low,15,name.com,,,
-3a4672d5-9a3c-4da6-a26b-e98520e7fee5,delicious.irish,available,9.99,27.99,high,low,9,name.com,,,
-f18fb976-3c9f-4e82-a57d-41d1ca624bf6,kept.irish,available,9.99,,medium,low,4,name.com,,,
+f18fb976-3c9f-4e82-a57d-41d1ca624bf6,kept.irish,available,9.99,,high,low,4,name.com,,,
 d23a922e-30b7-4738-9491-c116e22cd062,but.irish,available,9.99,,high,low,3,name.com,,,
 5119f7a9-7fbe-441b-8016-d8ea24df220b,ava.irish,available,9.99,,high,medium,3,name.com,,,
 b50fccb9-9860-4e85-b9a3-21893213bab1,encouraging.irish,available,9.99,,high,low,11,name.com,,,
-fb2bed29-39e4-4c5d-96e7-6b3f009af324,articulary.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 23:31
-b0957d6e-6b87-4dd7-8edd-804a9d899da6,fanclub.irish,available,9.99,,high,low,8,name.com,,,
-9e766322-ccca-4a0f-95f0-017194c22b8b,financialcrisis.irish,available,9.99,,medium,low,16,name.com,,,
 384b9934-6cf1-4a4f-b0f8-23899c5e1a86,strawberry.irish,available,9.99,,high,low,10,name.com,,,
-e47d9a1d-b03b-46c3-a878-f731dfad66fe,amendatory.irish,available,5.98,31.98,low,low,10,namecheap,,,
 64c88ce9-6e47-4ead-ab48-1b143458f10e,wrongful.irish,available,9.99,,medium,low,8,name.com,,,
-f7e23d41-fd6c-4311-b4f4-82b3abc8eaae,acropetal.irish,available,5.98,31.98,low,low,9,namecheap,,,
-640d9ee3-0208-4875-998f-492008d64c1f,quint.irish,available,5.98,31.98,low,low,5,namecheap,,,
-cb17ccc2-883f-40e0-ba22-7ba7447df73d,lettertelegram.irish,available,9.99,,medium,low,15,name.com,,,
+f7e23d41-fd6c-4311-b4f4-82b3abc8eaae,acropetal.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+640d9ee3-0208-4875-998f-492008d64c1f,quint.irish,available,5.98,31.98,high,low,5,namecheap,,,
 a34a8ccd-f43d-4ea2-b0c6-8671e234b302,law.irish,available,9.99,,high,medium,3,name.com,,,
-f416a7c1-3877-4718-abe5-900ae6dee63d,accidental.irish,available,5.98,31.98,medium,low,10,namecheap,,,
-f9682f70-6ac9-487a-91f4-84263e0961ce,inc.irish,available,9.99,,medium,low,3,name.com,,,
-b7947d76-3b9f-4899-88c5-5570688eba19,debased.irish,available,5.98,31.98,low,low,7,namecheap,,,
+f416a7c1-3877-4718-abe5-900ae6dee63d,accidental.irish,available,5.98,31.98,high,low,10,namecheap,,,
+f9682f70-6ac9-487a-91f4-84263e0961ce,inc.irish,available,9.99,,high,low,3,name.com,,,
+b7947d76-3b9f-4899-88c5-5570688eba19,debased.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 01fe9a89-8481-411a-98d6-ef8e26eb035b,journey.irish,available,9.99,,high,low,7,name.com,,,
-286ac6d4-34f0-4427-9a4d-f93c02c1285f,admittible.irish,available,5.98,31.98,low,low,10,namecheap,,,
 1e184e3f-39bf-4498-ac72-fe60a11a468c,yall.irish,available,9.99,,medium,low,4,name.com,,,
-20d3dc06-074c-48e9-b6c4-92f90e4f90e0,mile.irish,available,9.99,,medium,low,4,name.com,,,
-f028b94b-4463-4a4e-8d6d-a1a9502521ae,awful.irish,available,5.98,31.98,low,low,5,namecheap,,,22/09/2026 15:06
-17b62c85-80fb-4d81-a9fc-7dd911356f81,anabatic.irish,available,5.98,31.98,low,low,8,namecheap,,,
-ab77c827-740e-4359-b8ab-aed9ecadf49d,generalknowledge.irish,available,9.99,,high,low,17,name.com,,,
-728910d1-0ce2-417e-9d39-3f4d8bb7b124,fran.irish,available,9.99,,medium,low,4,name.com,,,
-41e1a080-9070-4d58-8e4c-9868bfdc1d05,astheysay.irish,available,9.99,,medium,low,11,name.com,,,
+20d3dc06-074c-48e9-b6c4-92f90e4f90e0,mile.irish,available,9.99,,high,low,4,name.com,,,
+17b62c85-80fb-4d81-a9fc-7dd911356f81,anabatic.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+728910d1-0ce2-417e-9d39-3f4d8bb7b124,fran.irish,available,9.99,,high,low,4,name.com,,,
 aa431a16-c56b-415e-ac5d-34b9810a9ffa,monitoring.irish,available,9.99,,high,low,10,name.com,,,
-14f6f783-f27e-4f2f-8ded-8f656bf62a58,letterofintent.irish,available,9.99,,high,low,16,name.com,,,
-faf41b0b-b44c-4aea-81e2-270008ff7aec,ashgrey.irish,available,5.98,31.98,low,low,8,namecheap,,,07/08/2026 01:54
-88f7ead6-a4d2-4456-ac95-886b292484ed,moveover.irish,available,9.99,,medium,low,9,name.com,,,
-04729313-aaef-45f8-b1f1-d9753bd57bd4,vitamin.irish,available,5.98,31.98,medium,low,7,namecheap,,,08/09/2026 14:16
-9c85bfb4-6540-4585-a0cf-1bfe48785487,individual.irish,available,7.49,22.49,medium,low,10,namesilo,,,23/09/2026 13:06
-77d1b047-07ae-44ec-8b10-21bbfbfcc2eb,waytoo.irish,available,9.99,,low,low,7,name.com,,,
-0351a36a-af9a-4522-9a54-6fc0d8679bdf,doubling.irish,available,9.99,,medium,low,8,name.com,,,
-c6cbb36d-d3fb-4f39-b9d9-e0bfb52a765f,pokeabout.irish,available,9.99,,low,low,10,name.com,,,
-71ab7488-d199-447a-a39b-4718299e53a2,thankful.irish,available,9.99,,high,low,8,name.com,,,
-349fdc47-069b-4773-96dd-65fc7ab7bfd8,graspable.irish,available,5.98,31.98,low,low,9,namecheap,,,06/08/2026 08:18
+04729313-aaef-45f8-b1f1-d9753bd57bd4,vitamin.irish,available,5.98,31.98,high,low,7,namecheap,,,08/09/2026 14:16
+0351a36a-af9a-4522-9a54-6fc0d8679bdf,doubling.irish,available,9.99,,high,low,8,name.com,,,
+349fdc47-069b-4773-96dd-65fc7ab7bfd8,graspable.irish,available,5.98,31.98,medium,low,9,namecheap,,,06/08/2026 08:18
 84dc310f-b11b-491c-b4be-c2fc0eefe2cb,case.irish,available,9.99,,high,low,4,name.com,,,
-60d5429d-c5c0-4c9b-b837-d7f7804d8ae7,loose.irish,available,7.49,22.49,low,low,5,namesilo,,,22/09/2026 10:42
-1e127624-bc65-4f5f-8d16-67411d8b1218,brave.irish,available,7.49,22.49,medium,low,5,namesilo,,,22/09/2026 12:10
-1397ebe9-d567-43ca-ad24-4109f3e013ee,genial.irish,available,7.49,22.49,medium,low,6,namesilo,,,21/09/2026 21:42
-06289257-38c5-4d10-9d8c-5b0d084d4f55,thinkup.irish,available,9.99,,high,low,8,name.com,,,
-d1c0969e-174b-437a-ae50-0cb61d98af0a,vast.irish,available,7.49,22.49,medium,low,4,namesilo,,,23/09/2026 09:06
-bba1dccc-23de-4b34-9cd0-8405a7c3f409,blackthursday.irish,available,9.99,,medium,low,14,name.com,,,
-ffe63a8e-91f7-40ac-878b-9f766d68f8e3,oneyearold.irish,available,9.99,,high,low,12,name.com,,,
-be101452-8b5e-4434-926e-5865fa0aa21a,devices.irish,available,7.49,22.49,medium,low,7,namesilo,,,23/09/2026 04:05
-36884a91-b145-4b12-8042-bd49a5f56fd3,enliven.irish,available,5.98,31.98,medium,low,7,namecheap,,,22/09/2026 04:56
-6c7c07c0-a7a4-4e1a-b0c2-70ea156e4f98,furthest.irish,available,9.99,,medium,low,8,name.com,,,
-672aaf03-2a6d-46c8-aff9-235938036879,nowthat.irish,available,9.99,,low,low,8,name.com,,,
 823f448c-a3b2-4375-9404-29dcb655bd2f,background.irish,available,9.99,,high,low,10,name.com,,,
-2c3a1689-f013-4905-a91f-6ae13ad13cd0,atilt.irish,available,5.98,31.98,low,low,5,namecheap,,,07/08/2026 13:13
+2c3a1689-f013-4905-a91f-6ae13ad13cd0,atilt.irish,available,5.98,31.98,medium,low,5,namecheap,,,07/08/2026 13:13
 f4e0ac66-84e9-4413-ad81-0cecc300ac90,grandpa.irish,available,9.99,,high,low,7,name.com,,,
 3c116c35-492c-45ce-b0ab-afc3ed3f0396,context.irish,available,9.99,,high,medium,7,name.com,,,
-fcd29259-f2de-4a9c-89ec-c497165f3f56,achromatic.irish,available,5.98,31.98,low,low,10,namecheap,,,
+fcd29259-f2de-4a9c-89ec-c497165f3f56,achromatic.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 83b24a6a-a6bd-46ed-aaeb-888473349c6f,xmas.irish,available,9.99,,high,low,4,name.com,,,
 2a2f45f2-d260-4278-b9a6-42c89cbb59ee,prominent.irish,available,9.99,,high,low,9,name.com,,,
-b45edf55-6baf-4dad-90d7-9602871fd84b,angered.irish,available,5.98,31.98,low,low,7,namecheap,,,
+b45edf55-6baf-4dad-90d7-9602871fd84b,angered.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 4a5f1a79-0f6a-4a22-91f5-81ad773f2daf,bahamas.irish,available,,,high,low,7,,,,
 fae8f86e-d581-4b49-9b8a-e3a3729f0d93,memorize.irish,available,9.99,,high,low,8,name.com,,,
-afa7e5c5-e74a-46e3-8caa-66b0124ef234,abactinal.irish,available,5.98,31.98,low,low,9,namecheap,,,
-c148c42f-5de7-4ee6-b78e-d9673d59ae98,musthave.irish,available,9.99,,high,low,9,name.com,,,
-4c9fc8d0-6229-4c2b-82d8-d67ff1ec5757,howgoesthebattle.irish,available,9.99,,medium,low,19,name.com,,,
-16a4b12d-748d-4be8-96ec-afc106ef9963,manythanks.irish,available,9.99,,high,low,11,name.com,,,
-4e462d33-1f3a-497e-9ef0-a328263f7d84,ring.irish,available,9.99,,medium,low,4,name.com,,,
+afa7e5c5-e74a-46e3-8caa-66b0124ef234,abactinal.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+4e462d33-1f3a-497e-9ef0-a328263f7d84,ring.irish,available,9.99,,high,low,4,name.com,,,
 fda60013-714c-4565-880e-cf195a1d3180,howso.irish,available,9.99,,medium,low,6,name.com,,,
-bf02555b-2add-4eaf-9fdc-b48702331427,spongecake.irish,available,9.99,,medium,low,11,name.com,,,
-f174f327-92c4-4938-a2fe-70a82b704782,risen.irish,available,9.99,,medium,low,5,name.com,,,
-38df06a1-1906-4540-a070-da52b41c52fd,alley.irish,available,9.99,,medium,low,5,name.com,,,
+f174f327-92c4-4938-a2fe-70a82b704782,risen.irish,available,9.99,,high,low,5,name.com,,,
+38df06a1-1906-4540-a070-da52b41c52fd,alley.irish,available,9.99,,high,low,5,name.com,,,
 03a9d4c2-5110-400f-b78f-4cbd5c69f7a6,reversible.irish,available,9.99,,high,low,10,name.com,,,
 59592030-7e0c-4547-8200-b532117e9378,daytime.irish,available,9.99,,high,low,7,name.com,,,
-e8164551-1929-4a38-a438-437091616f3b,bouncing.irish,available,7.49,22.49,medium,low,8,namesilo,,,23/09/2026 01:19
-5d956699-1901-47ff-8446-c8a88220971d,boattrip.irish,available,9.99,,high,low,9,name.com,,,
-c0a3adf6-bda7-40e2-8d3a-461d20014cb3,offhand.irish,available,5.98,31.98,low,low,7,namecheap,,,
-e036df0d-f843-4a99-b5de-51b0749800f1,tears.irish,available,7.49,22.49,low,low,5,namesilo,,,24/09/2026 02:29
-ca58b9ac-6ef2-44b8-a5c4-3e5e9817f48e,groups.irish,available,9.99,,medium,low,6,name.com,,,
-a080b2b9-8a68-43bc-97d3-eb7d749fd118,tercet.irish,available,5.98,31.98,low,low,6,namecheap,,,
-af21ac12-01b0-41a4-9111-d77465176ce9,closeofbusiness.irish,available,9.99,,high,low,17,name.com,,,
+c0a3adf6-bda7-40e2-8d3a-461d20014cb3,offhand.irish,available,5.98,31.98,high,low,7,namecheap,,,
+ca58b9ac-6ef2-44b8-a5c4-3e5e9817f48e,groups.irish,available,9.99,,high,low,6,name.com,,,
+a080b2b9-8a68-43bc-97d3-eb7d749fd118,tercet.irish,available,5.98,31.98,high,low,6,namecheap,,,
 739a2471-7096-4cdd-a19a-ea664fe4e67a,abaft.irish,available,5.98,31.98,low,low,5,namecheap,,,
-1efba3ee-eb82-4022-9ec2-13946d703404,rag.irish,available,9.99,27.99,medium,low,3,name.com,,,
-3fb6fa0f-465e-4a31-8c61-93f151ecbdb4,voluntarily.irish,available,9.99,,medium,low,11,name.com,,,
+3fb6fa0f-465e-4a31-8c61-93f151ecbdb4,voluntarily.irish,available,9.99,,high,low,11,name.com,,,
 b5011a59-6338-43da-ab0b-045dd2c79382,teacher.irish,available,9.99,,high,low,7,name.com,,,
-824e12e7-23f8-4acb-bccb-442b42be6b76,sealed.irish,available,9.99,,medium,low,6,name.com,,,
+824e12e7-23f8-4acb-bccb-442b42be6b76,sealed.irish,available,9.99,,high,low,6,name.com,,,
 11606893-1a92-4627-a706-5a43a1a6857c,exhaust.irish,available,9.99,,high,low,7,name.com,,,
 a55c4a67-ebcb-4c89-89f7-f30e11af1b08,quilting.irish,available,9.99,,high,low,8,name.com,,,
-4df75be2-b191-44ff-a61d-dabb87464f9d,analogical.irish,available,5.98,31.98,low,low,10,namecheap,,,
+4df75be2-b191-44ff-a61d-dabb87464f9d,analogical.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 5f68cd00-0d05-485a-8a19-ad8a6e743881,gate.irish,available,9.99,,high,low,4,name.com,,,
-2a99360c-a9f4-4942-ac60-57d6e0c8c967,dragrace.irish,available,9.99,,high,low,9,name.com,,,
-95a42983-d524-4264-89ac-110ff37b1c63,ifthat.irish,available,9.99,,medium,low,7,name.com,,,
 99ef3148-12c0-4bdf-a6e3-eb5f4619b687,variety.irish,available,9.99,,high,low,7,name.com,,,
-e37eb1ee-d402-4e36-8824-7405aedfd8bc,saler.irish,available,9.99,,medium,low,5,name.com,,,
-c5e71a8b-793c-45ab-aedc-5802a4e60a84,sloping.irish,available,5.98,31.98,low,low,7,namecheap,,,08/09/2026 05:27
-3ce93273-4696-48f3-a43e-1e7ce8534bf6,pressrelease.irish,available,9.99,,medium,low,13,name.com,,,
+e37eb1ee-d402-4e36-8824-7405aedfd8bc,saler.irish,available,9.99,,high,low,5,name.com,,,
 742e35b5-55d7-410f-b6a2-02feb2a2ef71,group.irish,available,9.99,,high,low,5,name.com,,,
-c5fe167b-b0c0-4168-8b9b-658b25e8d11e,meddle.irish,available,9.99,,medium,low,6,name.com,,,
+c5fe167b-b0c0-4168-8b9b-658b25e8d11e,meddle.irish,available,9.99,,high,low,6,name.com,,,
 83e8297d-7672-466e-9932-1e71e3725112,hybrid.irish,available,9.99,,high,low,6,name.com,,,
-273f62fd-40c9-4aca-a85e-e6764ac6a3d7,regulate.irish,available,9.99,,medium,low,8,name.com,,,
-40eb8deb-6486-4264-a611-a4b82a9d9c82,twohanded.irish,available,5.98,31.98,low,low,10,namecheap,,,
-045b1e19-0523-490d-8fa9-d0a1fc611c9a,normandy.irish,available,9.99,,medium,low,8,name.com,,,
-0a826e17-9dc9-40c9-badb-267b62348ba9,airborne.irish,available,5.98,31.98,low,low,8,namecheap,,,
+273f62fd-40c9-4aca-a85e-e6764ac6a3d7,regulate.irish,available,9.99,,high,low,8,name.com,,,
+045b1e19-0523-490d-8fa9-d0a1fc611c9a,normandy.irish,available,9.99,,high,low,8,name.com,,,
+0a826e17-9dc9-40c9-badb-267b62348ba9,airborne.irish,available,5.98,31.98,high,low,8,namecheap,,,
 46ae5825-bcb6-40ec-9bd4-46150c157d18,outlet.irish,available,9.99,,high,low,6,name.com,,,
 fd44abdc-e9d0-423d-ba9f-437ee49de2a3,seagull.irish,available,9.99,,high,low,7,name.com,,,
 330526e4-c061-47de-9775-fb08c4b79b13,pizzeria.irish,available,9.99,,high,low,8,name.com,,,
-acbcdc50-1e4c-4af8-b4f8-f36ed73d09b3,nightsky.irish,available,9.99,,high,low,9,name.com,,,
-68f4f71c-c2dd-4a54-a42c-4c0f0f1a5e13,secondguess.irish,available,9.99,,medium,low,12,name.com,,,
-2c4ae9a8-f7ef-45e7-893e-aa9c8a301039,ihavenomoney.irish,available,9.99,,medium,low,15,name.com,,,
 c99e368b-4675-40e1-b266-95f41f9ae827,retarded.irish,available,9.99,,medium,low,8,name.com,,,
-065f5f5d-baa0-4416-8257-ac56dccb6c5c,apheretic.irish,available,5.98,31.98,low,low,9,namecheap,,,05/08/2026 22:50
-c1564e29-9c12-446d-a96f-3054db7e5a5f,jealous.irish,available,7.49,22.49,low,low,7,namesilo,,,24/09/2026 01:04
-7579f341-578b-4eb4-8773-22328375cf35,tow.irish,available,9.99,,medium,low,3,name.com,,,
+7579f341-578b-4eb4-8773-22328375cf35,tow.irish,available,9.99,,high,low,3,name.com,,,
 c626c6df-3c86-4a53-88ab-01f8d2078362,premier.irish,available,9.99,,high,low,7,name.com,,,
-9802b40c-389c-4533-85db-2f57a24a6d37,gray.irish,available,9.99,,medium,low,4,name.com,,,
-dc642141-5407-47c4-8389-a99e3635a01a,airphoto.irish,available,9.99,,high,low,9,name.com,,,
-7d92892a-aa1d-4205-a6a5-18717251617c,aeriform.irish,available,5.98,31.98,low,low,8,namecheap,,,
-193c8f5e-9a10-4dbf-a4b2-1fe0f2c33d21,howldown.irish,available,9.99,,medium,low,9,name.com,,,
-b554a49a-e19f-433f-ab0d-e6738ff635cc,prosecution.irish,available,9.99,,low,low,11,name.com,,,
-595451b7-1322-45fc-ab77-0d27902376ed,covering.irish,available,9.99,,medium,low,8,name.com,,,
-b2d2b73d-ea3b-40df-8edb-df8ad50018b8,whale.irish,available,,,medium,low,5,,,,
-80a6734d-9faa-474a-8e32-908489d108f0,spoken.irish,available,9.99,,medium,low,6,name.com,,,
-8f7867ab-06d3-44b2-bfa0-9d615d0c52e7,spf.irish,available,5.98,31.98,medium,low,3,namecheap,,,23/09/2026 05:17
+7d92892a-aa1d-4205-a6a5-18717251617c,aeriform.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+b554a49a-e19f-433f-ab0d-e6738ff635cc,prosecution.irish,available,9.99,,high,low,11,name.com,,,
+595451b7-1322-45fc-ab77-0d27902376ed,covering.irish,available,9.99,,high,low,8,name.com,,,
+b2d2b73d-ea3b-40df-8edb-df8ad50018b8,whale.irish,available,,,high,low,5,,,,
+80a6734d-9faa-474a-8e32-908489d108f0,spoken.irish,available,9.99,,high,low,6,name.com,,,
 66d5a56a-abfe-4d96-a864-d3b822fcbe5e,majority.irish,available,9.99,,high,low,8,name.com,,,
 498f361b-6fb4-4231-922c-f81fad5081ad,jimmy.irish,available,9.99,,high,low,5,name.com,,,
-96f222dc-cce9-4a15-a6e2-9cb8461a389f,barreled.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 20:46
-3e81a5ed-5b85-4053-9339-2df108082de3,heard.irish,available,9.99,,medium,low,5,name.com,,,
-2023bc59-803a-4a53-aa85-c609893ef760,extempore.irish,available,5.98,31.98,low,low,9,namecheap,,,
-a4bdde76-2d7c-494d-a475-1808a533043b,allegiant.irish,available,5.98,31.98,low,low,9,namecheap,,,
+96f222dc-cce9-4a15-a6e2-9cb8461a389f,barreled.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/08/2026 20:46
+2023bc59-803a-4a53-aa85-c609893ef760,extempore.irish,available,5.98,31.98,high,low,9,namecheap,,,
+a4bdde76-2d7c-494d-a475-1808a533043b,allegiant.irish,available,5.98,31.98,high,low,9,namecheap,,,
 bf5547c0-41ec-4fd3-80a7-337c8246968e,ride.irish,available,9.99,,high,low,4,name.com,,,
-8a409a7a-0118-495d-a509-dcf502f8bc0e,anosmatic.irish,available,5.98,31.98,low,low,9,namecheap,,,
-21ce20a6-7b39-4ff2-9fe3-76b8affb3fa3,heatwave.irish,available,9.99,,medium,low,9,name.com,,,
-59f39959-1eb7-42c4-a774-8a4a21a114e6,stone.irish,available,5.98,31.98,low,low,5,namecheap,,,19/09/2026 11:54
-16bae96f-fe42-4636-997c-546f2da55a29,aspectual.irish,available,5.98,31.98,low,low,9,namecheap,,,07/08/2026 04:41
-6d31b4a7-5db0-4928-92aa-70070a7f175d,anorectal.irish,available,5.98,31.98,low,low,9,namecheap,,,
+6d31b4a7-5db0-4928-92aa-70070a7f175d,anorectal.irish,available,5.98,31.98,medium,low,9,namecheap,,,
 eb05c659-13f9-4307-a1c3-c5732a55dc18,portuguese.irish,available,9.99,,high,low,10,name.com,,,
 94ee6ca5-b6fa-492a-96c8-318cd8d69271,compete.irish,available,9.99,,high,low,7,name.com,,,
-12a93744-bca0-442a-b1bc-07b608a13af3,complete.irish,available,5.98,31.98,medium,low,8,namecheap,,,19/09/2026 19:02
 f500bad0-201f-4142-b0e2-abd929b1f82b,finally.irish,available,9.99,,high,low,7,name.com,,,
-6283aaf7-34a1-4462-8e83-8dd1b64f25d2,personally.irish,available,9.99,,medium,low,10,name.com,,,
-d0648c6c-d706-4a8e-be42-32d40402f955,janedoe.irish,available,9.99,,medium,low,8,name.com,,,
-7355d6ae-9f45-483a-9843-9ef993c247c9,antemortem.irish,available,5.98,31.98,low,low,10,namecheap,,,
-07a1e5b5-42e2-4b30-b1e9-6adcfa6122d4,becoming.irish,available,,,medium,low,8,,,,
+6283aaf7-34a1-4462-8e83-8dd1b64f25d2,personally.irish,available,9.99,,high,low,10,name.com,,,
+7355d6ae-9f45-483a-9843-9ef993c247c9,antemortem.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+07a1e5b5-42e2-4b30-b1e9-6adcfa6122d4,becoming.irish,available,,,high,low,8,,,,
 8e102c9d-54e4-409f-ae15-0546520be3e4,prevent.irish,available,9.99,,high,low,7,name.com,,,
 cede15ec-4025-4182-81b0-8ff0985d0e2a,deputy.irish,available,9.99,,high,low,6,name.com,,,
-9d656815-9961-475b-b76e-6898bd67eeee,comparable.irish,available,7.49,22.49,medium,low,10,namesilo,,,23/09/2026 16:34
-e7f6c03b-5016-4ee0-83c0-3d5267fb1eac,howmuchisit.irish,available,9.99,,medium,low,14,name.com,,,
-940385eb-c386-48ec-a1d4-426003db8a17,actively.irish,available,9.99,,medium,low,8,name.com,,,
+940385eb-c386-48ec-a1d4-426003db8a17,actively.irish,available,9.99,,high,low,8,name.com,,,
 ab66b81d-b8ad-47e7-8fd4-20c573983650,jabber.irish,available,9.99,,high,low,6,name.com,,,
 4f40658f-0dfa-4407-8d1d-1661a591f21e,polo.irish,available,,,high,low,4,,,,
 50dd3a08-0c53-4238-8933-ad489c855fb1,discuss.irish,available,9.99,,high,low,7,name.com,,,
-a5fa43f5-eea9-435d-a95c-7d2459999205,diplomatic.irish,available,9.99,27.99,high,low,10,name.com,,,
-8fa32a77-4514-4488-9959-25772267a83c,payment.irish,available,7.49,22.49,medium,low,7,namesilo,,,23/09/2026 10:58
-4c0327e1-d598-405e-8369-70681f7b7e0d,midships.irish,available,5.98,31.98,low,low,8,namecheap,,,
 c51fe251-64f1-41e5-98b0-350c7f89d1ed,whilst.irish,available,9.99,,medium,low,6,name.com,,,
-369bbf41-c555-40f9-ae94-1721ed4f1f8c,employ.irish,available,5.98,31.98,medium,low,6,namecheap,,,08/09/2026 13:39
-9e6b2e96-f1d2-4c4b-ae4e-9071933f034b,border.irish,available,7.49,22.49,low,low,6,namesilo,,,23/09/2026 00:10
-39bcbfed-8c0c-4475-b346-f021dfecd403,quickwitted.irish,available,9.99,,medium,low,12,name.com,,,
-e07b08a1-6aa6-48b2-b7d5-072469f7765c,dismaying.irish,available,5.98,31.98,low,low,9,namecheap,,,06/08/2026 04:36
-cccc5081-adb2-430c-bda9-499db3e9321a,divine.irish,available,5.98,31.98,medium,low,6,namecheap,,,
-3bc51769-8cc4-4750-86dc-eb962f53c98f,workfare.irish,available,9.99,,low,low,8,name.com,,,
-7b0a7636-6110-4276-8610-62229ae6f84d,astragalar.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 09:54
+369bbf41-c555-40f9-ae94-1721ed4f1f8c,employ.irish,available,5.98,31.98,high,low,6,namecheap,,,08/09/2026 13:39
+cccc5081-adb2-430c-bda9-499db3e9321a,divine.irish,available,5.98,31.98,high,low,6,namecheap,,,
+3bc51769-8cc4-4750-86dc-eb962f53c98f,workfare.irish,available,9.99,,high,low,8,name.com,,,
 97deedee-9725-4bd4-a900-55bb126dbce5,currency.irish,available,9.99,,high,low,8,name.com,,,
-b000f3a6-22a2-433f-88a2-2e57b62f1f0a,visual.irish,available,5.98,31.98,medium,low,6,namecheap,,,19/09/2026 17:59
-ffafc986-fabf-4d8c-af43-028ce7071f43,souse.irish,available,5.98,31.98,low,low,5,namecheap,,,
-77ebab1d-d473-46ae-abe2-a29acad9fc86,xlii.irish,available,5.98,31.98,low,low,4,namecheap,,,
+ffafc986-fabf-4d8c-af43-028ce7071f43,souse.irish,available,5.98,31.98,medium,low,5,namecheap,,,
+77ebab1d-d473-46ae-abe2-a29acad9fc86,xlii.irish,available,5.98,31.98,high,low,4,namecheap,,,
 2590f91a-253f-46a3-a1b4-fc68b0ce4932,witty.irish,available,9.99,,high,low,5,name.com,,,
-afb1cf00-3158-4b01-9e0d-9cbbbed247dd,auriculate.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 17:51
-097cdd94-7e45-4539-b87f-e99fba8a254d,amused.irish,available,5.98,31.98,low,low,6,namecheap,,,
-0ae953fe-b0f9-4b6e-8081-2632f13e0ebc,adiabatic.irish,available,5.98,31.98,low,low,9,namecheap,,,
+097cdd94-7e45-4539-b87f-e99fba8a254d,amused.irish,available,5.98,31.98,high,low,6,namecheap,,,
+0ae953fe-b0f9-4b6e-8081-2632f13e0ebc,adiabatic.irish,available,5.98,31.98,medium,low,9,namecheap,,,
 72665a34-d234-41ae-b333-5799e9b5fbe8,systematically.irish,available,9.99,,medium,low,14,name.com,,,
-84440a46-87eb-4315-8c8d-4c6587a3bf58,hurt.irish,available,9.99,,medium,low,4,name.com,,,
-9ecdb1be-ccde-4b9e-99b3-ed6893ed4e6a,seemly.irish,available,5.98,31.98,low,low,6,namecheap,,,09/08/2026 06:27
-cd470be9-3e76-4b0d-95c5-75f45b61c456,satfat.irish,available,9.99,,medium,low,7,name.com,,,
-78b5e8ed-8a2d-4e9e-a66a-34e334039263,asthecrowflies.irish,available,9.99,,medium,low,17,name.com,,,
+84440a46-87eb-4315-8c8d-4c6587a3bf58,hurt.irish,available,9.99,,high,low,4,name.com,,,
+9ecdb1be-ccde-4b9e-99b3-ed6893ed4e6a,seemly.irish,available,5.98,31.98,medium,low,6,namecheap,,,09/08/2026 06:27
 7f2e4735-a08a-468e-ae64-530a828c8860,strengthen.irish,available,9.99,,high,low,10,name.com,,,
-a4b4da0a-a18a-4471-b0a7-a05695f75f66,glass.irish,available,9.99,,medium,low,5,name.com,,,
-4607f29e-ee60-409a-b185-8fe2ea2bcd18,annoyance.irish,available,5.98,31.98,low,low,9,namecheap,,,
+a4b4da0a-a18a-4471-b0a7-a05695f75f66,glass.irish,available,9.99,,high,low,5,name.com,,,
+4607f29e-ee60-409a-b185-8fe2ea2bcd18,annoyance.irish,available,5.98,31.98,high,low,9,namecheap,,,
 1d7e1ae2-bffa-4f6f-9096-16808c6e39f6,guilt.irish,available,9.99,,high,low,5,name.com,,,
 5b7ab328-4f0f-4b70-aa2d-4ac1de779c4e,nyt.irish,available,9.99,,high,low,3,name.com,,,
 c8a71ec3-c28e-417c-be51-b82ecb6a9708,omega.irish,available,,,high,low,5,,,,
-2cbb4761-6f8a-451d-a841-f9a9c5368084,matrix.irish,available,9.99,,medium,medium,6,name.com,,,
-56006c34-99e8-4948-812f-64808955d883,process.irish,available,5.98,31.98,medium,low,7,namecheap,,,23/09/2026 09:17
+2cbb4761-6f8a-451d-a841-f9a9c5368084,matrix.irish,available,9.99,,high,medium,6,name.com,,,
 8f266d09-4c4d-43f2-a3e1-b1cef1364d56,categorical.irish,available,9.99,,high,low,11,name.com,,,
 3e71e304-129d-4c02-899a-5734687a78be,text.irish,available,9.99,,high,medium,4,name.com,,,
-505fd663-5e87-440f-8b36-fea3ad01ddee,applicable.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 07:06
+505fd663-5e87-440f-8b36-fea3ad01ddee,applicable.irish,available,5.98,31.98,high,low,10,namecheap,,,06/08/2026 07:06
 9c430f3e-1229-4816-8868-1ceee334d1eb,invisible.irish,available,9.99,,high,low,9,name.com,,,
-58a828b3-a462-400a-8f22-8bc01d8d7d0e,onfoot.irish,available,9.99,,low,low,7,name.com,,,
-dbc46587-d29f-496c-b894-161e12a2af8f,core.irish,available,9.99,,medium,medium,4,name.com,,,
-1c1aff21-7fdb-4e54-8d0b-d711adc04356,justmyluck.irish,available,9.99,,medium,low,12,name.com,,,
+dbc46587-d29f-496c-b894-161e12a2af8f,core.irish,available,9.99,,high,medium,4,name.com,,,
 2be86e9a-ee11-44c7-b282-9ad2bd54fff3,protest.irish,available,9.99,,high,low,7,name.com,,,
 77c2f684-f919-4483-9596-b0dcca4c3581,tracing.irish,available,9.99,,high,low,7,name.com,,,
-0782d3f0-b861-4cdd-849e-ed81699864cf,lxxxii.irish,available,5.98,31.98,low,low,6,namecheap,,,
-72865464-1ca6-47dc-9e3a-281f5ffe632a,material.irish,available,7.49,22.49,medium,low,8,namesilo,,,23/09/2026 23:27
-3bff19ec-207a-442a-8f6c-f2a31414388b,participating.irish,available,9.99,,low,low,13,name.com,,,
-c1d6ffd9-69c1-4dbe-a1a9-b4e733085c58,focalpoint.irish,available,9.99,,high,low,11,name.com,,,
-f9601ceb-2b52-42c5-b43b-e1bba74df163,secret.irish,available,7.49,22.49,medium,low,6,namesilo,,,23/09/2026 14:41
+0782d3f0-b861-4cdd-849e-ed81699864cf,lxxxii.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+3bff19ec-207a-442a-8f6c-f2a31414388b,participating.irish,available,9.99,,medium,low,13,name.com,,,
 f499f857-d311-4117-9c96-83df9106aa1d,precise.irish,available,9.99,,high,low,7,name.com,,,
 61c224bf-0161-4296-ad02-94713171fcb9,nicole.irish,available,9.99,,high,low,6,name.com,,,
-f580b5da-8a96-41ba-a604-f482a3b83614,allnighter.irish,available,9.99,,medium,low,11,name.com,,,
-c14b6bdf-e5c3-453b-b7e9-311b89907e72,playbyear.irish,available,9.99,,medium,low,11,name.com,,,
 729c14b1-5810-4788-a374-a84438a9c113,peace.irish,available,9.99,,high,low,5,name.com,,,
 852c6f77-45f7-4804-bfae-3cd3044a8d93,orca.irish,available,9.99,,high,medium,4,name.com,,,
-647ff981-61e7-43f5-9867-7c85eba88e7d,revolved.irish,available,9.99,,medium,low,8,name.com,,,
-64a3f4f3-5c36-4f2f-b0c5-ea6f90ede99c,whacky.irish,available,5.98,31.98,low,low,6,namecheap,,,06/08/2026 21:32
-16708c9c-287a-45ad-927f-016a0bcc9434,abuse.irish,available,5.98,31.98,medium,low,5,namecheap,,,08/09/2026 12:39
+647ff981-61e7-43f5-9867-7c85eba88e7d,revolved.irish,available,9.99,,high,low,8,name.com,,,
+64a3f4f3-5c36-4f2f-b0c5-ea6f90ede99c,whacky.irish,available,5.98,31.98,medium,low,6,namecheap,,,06/08/2026 21:32
+16708c9c-287a-45ad-927f-016a0bcc9434,abuse.irish,available,5.98,31.98,high,low,5,namecheap,,,08/09/2026 12:39
 670e49ab-cbc7-4e5f-9464-59a8a3701e13,strategic.irish,available,9.99,,high,low,9,name.com,,,
-fd5250db-67e7-4dee-96d0-95e3ad6eaa0d,see.irish,available,9.99,,high,low,3,name.com,,,
 a19387c7-8629-4edf-9393-629c530604ab,impression.irish,available,9.99,,high,low,10,name.com,,,
-e6724a1b-e0b6-4ace-86fa-850c62f172cc,androgenic.irish,available,5.98,31.98,low,low,10,namecheap,,,
-f9889964-4102-4a89-bba2-1f2f9c5263e0,harm.irish,available,5.98,31.98,medium,low,4,namecheap,,,08/09/2026 07:44
-78188bba-8de5-4b8a-b37e-26c857766d3d,folicacid.irish,available,9.99,,high,low,10,name.com,,,
-10900882-cf5c-4426-8c90-5bf4c7b207b0,getinto.irish,available,9.99,,high,low,8,name.com,,,
-e2d53055-6ba7-4753-8177-3da09328c6bf,beechen.irish,available,5.98,31.98,low,low,7,namecheap,,,09/08/2026 07:39
-ef66af26-19f4-4a19-a0c5-bb30f903b68f,animated.irish,available,7.49,22.49,medium,low,8,namesilo,,,22/09/2026 05:00
-0f112ebb-db08-47c4-8c86-7194c990cf6b,golfgame.irish,available,9.99,,high,low,9,name.com,,,
-cc494599-cae3-4404-91ff-7af061b48a21,disposed.irish,available,9.99,,medium,low,8,name.com,,,
-f1143cd8-830e-4757-ab57-249b361212cb,scummy.irish,available,5.98,31.98,low,low,6,namecheap,,,
-12d9ac21-6c78-40ef-ba9d-8773c51355a2,ashy.irish,available,5.98,31.98,low,low,4,namecheap,,,07/08/2026 02:04
-d6217bf5-16f0-423c-a086-98620c444245,consistently.irish,available,9.99,,medium,low,12,name.com,,,
-0315ec4b-e91e-49e9-9024-5709131cda4b,onlytoo.irish,available,5.98,31.98,low,low,8,namecheap,,,13/09/2026 19:01
-4b86ef48-5996-430d-ab6f-b6671c01a816,crisp.irish,available,7.49,22.49,low,low,5,namesilo,,,24/09/2026 01:53
+e6724a1b-e0b6-4ace-86fa-850c62f172cc,androgenic.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+f9889964-4102-4a89-bba2-1f2f9c5263e0,harm.irish,available,5.98,31.98,high,low,4,namecheap,,,08/09/2026 07:44
+cc494599-cae3-4404-91ff-7af061b48a21,disposed.irish,available,9.99,,high,low,8,name.com,,,
+f1143cd8-830e-4757-ab57-249b361212cb,scummy.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+12d9ac21-6c78-40ef-ba9d-8773c51355a2,ashy.irish,available,5.98,31.98,high,low,4,namecheap,,,07/08/2026 02:04
+d6217bf5-16f0-423c-a086-98620c444245,consistently.irish,available,9.99,,high,low,12,name.com,,,
 7601811b-f0d1-43ff-bc3a-e52a0a0f6f71,woops.irish,available,9.99,,high,low,5,name.com,,,
-892b218b-f155-410a-bd81-a2d3fda7a253,allylic.irish,available,5.98,31.98,low,low,7,namecheap,,,
-9976279d-d522-4a05-8164-1e72b77e5175,disclosure.irish,available,9.99,,medium,low,10,name.com,,,
-5f8da6a2-6a8a-4c97-8214-f87e73f68cb2,aboral.irish,available,5.98,31.98,low,low,6,namecheap,,,
+892b218b-f155-410a-bd81-a2d3fda7a253,allylic.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+9976279d-d522-4a05-8164-1e72b77e5175,disclosure.irish,available,9.99,,high,low,10,name.com,,,
+5f8da6a2-6a8a-4c97-8214-f87e73f68cb2,aboral.irish,available,5.98,31.98,medium,low,6,namecheap,,,
 54fcf112-fc55-4637-9add-07990e6cf4bd,kilogram.irish,available,9.99,,high,low,8,name.com,,,
-eb14461c-8656-4277-8225-d558c33e6977,saveface.irish,available,9.99,,medium,low,9,name.com,,,
-e3db0c40-f312-4f7e-bd53-9837e6ce9a26,inthegreen.irish,available,9.99,,medium,low,12,name.com,,,
 09e943a7-39ff-4f4d-bec4-dad849184abb,pepsi.irish,available,9.99,,high,low,5,name.com,,,
 36dbd5a3-7605-4756-bea5-d17000b4cbb5,relevance.irish,available,9.99,,high,low,9,name.com,,,
-8d98174d-3d4f-4189-b492-6ae3cda43c5f,gofor.irish,available,5.98,31.98,medium,low,6,namecheap,,,19/09/2026 19:53
-d8a107f7-e984-4ced-8aa0-1544d24ded7f,commonly.irish,available,9.99,,medium,low,8,name.com,,,
+d8a107f7-e984-4ced-8aa0-1544d24ded7f,commonly.irish,available,9.99,,high,low,8,name.com,,,
 71cd3a32-d03f-4a08-bad7-861519c2cef4,recap.irish,available,9.99,,high,low,5,name.com,,,
-764c5000-4f74-4a3e-8bd1-2c5b436e99bf,doit.irish,available,9.99,,high,low,5,name.com,,,
 f58dc139-74ca-45c9-b315-6d72d1860463,verse.irish,available,9.99,,high,low,5,name.com,,,
 278d426c-526b-452c-b270-8a981a36d051,recipient.irish,available,9.99,,high,low,9,name.com,,,
-7d164886-55cb-4f68-a52e-0909f61d3bdb,pressed.irish,available,9.99,,medium,low,7,name.com,,,
+7d164886-55cb-4f68-a52e-0909f61d3bdb,pressed.irish,available,9.99,,high,low,7,name.com,,,
 1f28aa15-7417-4ab1-8fe4-2b801bae55fe,otherwise.irish,available,9.99,,high,low,9,name.com,,,
-d83133a8-f7db-4b47-94f6-57548a82a82c,scurrilous.irish,available,5.98,31.98,low,low,10,namecheap,,,
-536a1d8e-afd7-43e5-a7ba-2927926fb518,amygdaline.irish,available,5.98,31.98,low,low,10,namecheap,,,
-682b673f-2989-47d1-8bfb-e288b9409ff3,vice.irish,available,9.99,,medium,low,4,name.com,,,
-9a39629d-44c0-42de-93bd-6d8aea3e4bb3,dock.irish,available,7.49,22.49,low,low,4,namesilo,,,22/09/2026 23:34
-80af517f-4bdc-477b-a4e6-ca4ab764e315,darkages.irish,available,9.99,,low,low,9,name.com,,,
-b9baf56a-f0a7-42db-91d8-0c23244d3054,dignified.irish,available,9.99,27.99,medium,low,9,name.com,,,
-0568a452-2140-4756-8ab8-4f06fe460be0,inplaceof.irish,available,9.99,,medium,low,11,name.com,,,
-7b2c66b7-c1d6-45bf-a558-de4f48988ed6,gooutside.irish,available,9.99,,high,low,10,name.com,,,
-a5fc3f1f-34bb-4098-a6f5-b7d6ac6bc798,lxxxv.irish,available,5.98,31.98,low,low,5,namecheap,,,
-c79125fd-2d85-405e-89b6-52be6528caf9,basidial.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 22:06
+d83133a8-f7db-4b47-94f6-57548a82a82c,scurrilous.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+682b673f-2989-47d1-8bfb-e288b9409ff3,vice.irish,available,9.99,,high,low,4,name.com,,,
+a5fc3f1f-34bb-4098-a6f5-b7d6ac6bc798,lxxxv.irish,available,5.98,31.98,medium,low,5,namecheap,,,
 6a8cbb04-e78f-438c-8083-bbc7cab5ed17,melancholy.irish,available,9.99,,high,low,10,name.com,,,
 6f1610c9-2465-4f8c-acb7-bbd70da6756a,sufficient.irish,available,9.99,,high,low,10,name.com,,,
-a9363cca-2feb-4fbb-83d0-58fb3e168e31,brown.irish,available,7.49,22.49,medium,low,5,namesilo,,,23/09/2026 10:03
 f26c3db1-03e4-48dc-b97e-f39578cb8812,misses.irish,available,9.99,,high,low,6,name.com,,,
-ee1b9e23-3d2b-409f-9f55-41a5c3de729d,acetylenic.irish,available,5.98,31.98,low,low,10,namecheap,,,
 f7267e77-d2c6-4b2a-8c78-9a6455c5e06c,liable.irish,available,9.99,,high,low,6,name.com,,,
-61e6fb5e-f171-4a78-aff4-2bcf8809f09c,sparkly.irish,available,5.98,31.98,low,low,7,namecheap,,,
-6eddcf5c-2d03-4e84-97f8-b046d864f9a8,anicteric.irish,available,5.98,31.98,low,low,9,namecheap,,,
+61e6fb5e-f171-4a78-aff4-2bcf8809f09c,sparkly.irish,available,5.98,31.98,high,low,7,namecheap,,,
 f0d80a0c-07c8-403e-9e6d-421e02f14f1e,experimental.irish,available,9.99,,high,low,12,name.com,,,
 66fcada3-6ab1-40e1-a194-ff8c78bfeade,fiber.irish,available,9.99,,high,low,5,name.com,,,
-8b4adcb2-b6b4-4263-9df9-5bea7dec717d,corn.irish,available,9.99,,medium,low,4,name.com,,,
-925f8ac3-1819-4e94-95f7-c527c5e0a29d,specialized.irish,available,9.99,,medium,low,11,name.com,,,
+8b4adcb2-b6b4-4263-9df9-5bea7dec717d,corn.irish,available,9.99,,high,low,4,name.com,,,
+925f8ac3-1819-4e94-95f7-c527c5e0a29d,specialized.irish,available,9.99,,high,low,11,name.com,,,
 508e0ec7-9fd8-463c-adbb-fee0c935f029,coefficient.irish,available,9.99,,high,low,11,name.com,,,
 53c0518e-23c5-4ee7-8cf0-2877edf0eb00,commentate.irish,available,9.99,,high,low,10,name.com,,,
-87c5a774-18eb-40ab-9730-49ac9ebde85e,existing.irish,available,9.99,,medium,low,8,name.com,,,
 cd814ac9-f723-4e19-9cc9-ef92bbb9c554,lgbtq.irish,available,9.99,,high,low,5,name.com,,,
-0c039108-f3f8-499e-b160-d8e068031398,cerulean.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/08/2026 03:10
-6e94c543-8848-489d-91bb-09a7b0b1c9e1,younameit.irish,available,9.99,,medium,low,11,name.com,,,
-c2a40464-636e-4660-a775-407d49afb371,system.irish,available,7.49,22.49,medium,low,6,namesilo,,,23/09/2026 06:54
-8c592224-87d1-492f-a395-609a692bf3e4,sixtyfour.irish,available,5.98,31.98,low,low,10,namecheap,,,
+0c039108-f3f8-499e-b160-d8e068031398,cerulean.irish,available,5.98,31.98,high,low,8,namecheap,,,08/08/2026 03:10
 361d24a7-24ff-4a44-bfd3-3a01b379d55e,unimportant.irish,available,9.99,,medium,low,11,name.com,,,
-8974fa43-68e6-4d77-a127-f08a6cb3ed31,prank.irish,available,5.98,31.98,medium,low,5,namecheap,,,22/09/2026 06:23
-f2b91a8a-8b03-4914-b0b0-78330b51d92a,crimson.irish,available,7.49,22.49,medium,low,7,namesilo,,,22/09/2026 22:28
-a2bf6829-b394-4c15-a53f-b3aa997ebb2f,putitabout.irish,available,9.99,,low,low,12,name.com,,,
-8d4def78-6848-4e64-ba7d-b3621d8ccd14,achaian.irish,available,5.98,31.98,low,low,7,namecheap,,,
-f8069e37-1491-45bc-92a6-b90fb97cffb9,mindless.irish,available,5.98,31.98,low,low,8,namecheap,,,07/08/2026 02:48
-81d688a3-9cce-4c28-b191-b48ddcddbaf2,waters.irish,available,9.99,,medium,low,6,name.com,,,
-2a5c003f-3dc4-4eff-b8c3-ae4eaaf85f91,wasteland.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 21:11
+f8069e37-1491-45bc-92a6-b90fb97cffb9,mindless.irish,available,5.98,31.98,medium,low,8,namecheap,,,07/08/2026 02:48
+81d688a3-9cce-4c28-b191-b48ddcddbaf2,waters.irish,available,9.99,,high,low,6,name.com,,,
+2a5c003f-3dc4-4eff-b8c3-ae4eaaf85f91,wasteland.irish,available,5.98,31.98,medium,low,9,namecheap,,,08/08/2026 21:11
 0aa19b2f-2ef5-49f8-aae9-ddc1ae3dd6e4,sauna.irish,available,9.99,,high,low,5,name.com,,,
-274ce91c-075a-44b9-9277-70d9bd7790e1,ilxxx.irish,available,5.98,31.98,low,low,5,namecheap,,,
-1e75af3a-8d76-45da-80ad-6be22162be5a,flop.irish,available,5.98,31.98,low,low,4,namecheap,,,23/09/2026 12:03
+274ce91c-075a-44b9-9277-70d9bd7790e1,ilxxx.irish,available,5.98,31.98,medium,low,5,namecheap,,,
 bacb85c8-41b4-4d90-b969-85380d00b848,baneful.irish,available,5.98,31.98,low,low,7,namecheap,,,08/08/2026 09:44
 80a8645a-a7ad-415a-b806-72a70e9d314b,latitude.irish,available,9.99,,high,low,8,name.com,,,
-3e330616-7726-4f1d-a46f-48b538331edd,ogdoad.irish,available,5.98,31.98,low,low,6,namecheap,,,
-782a2aae-af8f-4e9c-af1d-a3f836df808e,engineer.irish,available,7.49,22.49,medium,low,8,namesilo,,,23/09/2026 17:26
-57e710fb-f3b2-4a11-afb1-426337a269f3,aldehydic.irish,available,5.98,31.98,low,low,9,namecheap,,,
-4bda23a0-b829-4a7e-8353-164aef6cfe36,bendystraw.irish,available,9.99,,high,low,11,name.com,,,
-4e838d31-9982-4f1d-9bb2-ae2d8a1f35ec,agonising.irish,available,5.98,31.98,low,low,9,namecheap,,,
-4f6f332b-2ff5-4824-b708-e44bdae4fea5,port.irish,available,9.99,,medium,low,4,name.com,,,
+4e838d31-9982-4f1d-9bb2-ae2d8a1f35ec,agonising.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+4f6f332b-2ff5-4824-b708-e44bdae4fea5,port.irish,available,9.99,,high,low,4,name.com,,,
 3f697f09-57db-4f01-aeed-7eedaf37f37b,goodenough.irish,available,9.99,,high,low,11,name.com,,,
-3429a596-2d27-481b-91f6-dd7ab0b93434,electric.irish,available,9.99,27.99,high,low,8,name.com,,,
-cedce44c-ee72-47db-afed-c1fb55fb2f52,workoff.irish,available,9.99,,medium,low,8,name.com,,,
-273bdca7-edab-4b54-bf97-cfe355c1a4c1,eyeofthebeholder.irish,available,9.99,,high,low,19,name.com,,,
-6af59fba-9b4f-4344-bf98-44cc23dcea68,howto.irish,available,9.99,,high,low,6,name.com,,,
-5ca2c614-4a97-4961-98bd-da7c58fd0cde,enticing.irish,available,7.49,22.49,medium,low,8,namesilo,,,22/09/2026 01:41
-b4b45e93-86a5-445a-b6f9-7d6a17416572,difficult.irish,available,9.99,27.99,high,low,9,name.com,,,
-544d8eec-703e-429f-b375-f69253df9a5b,cost.irish,available,9.99,,medium,low,4,name.com,,,
-2ddd19e7-8920-4a56-964f-9945dc735afb,rear.irish,available,5.98,31.98,medium,low,4,namecheap,,,22/09/2026 19:06
-da5480c5-f4a6-4dca-9052-362fb3b2285d,antenatal.irish,available,7.49,22.49,medium,low,9,namesilo,,,22/09/2026 05:59
-996f5287-cc82-4ae2-87e6-28c5870c85c1,anabolic.irish,available,5.98,31.98,low,low,8,namecheap,,,
-54c6aaed-aa38-4f6c-b3ba-1900efec3858,cherryblossom.irish,available,9.99,,high,low,14,name.com,,,
-a31600d2-d8e4-4733-8c7d-e4329a49f5e6,brand.irish,available,7.49,22.49,low,low,5,namesilo,,,20/09/2026 03:17
-71824116-4c8c-42f2-9beb-0374bab435a8,compound.irish,available,5.98,31.98,medium,low,8,namecheap,,,23/09/2026 17:56
-1aa76a08-de85-42cd-a331-a2e78d9c5f0d,accusation.irish,available,9.99,,low,low,10,name.com,,,
+544d8eec-703e-429f-b375-f69253df9a5b,cost.irish,available,9.99,,high,low,4,name.com,,,
+996f5287-cc82-4ae2-87e6-28c5870c85c1,anabolic.irish,available,5.98,31.98,high,low,8,namecheap,,,
+1aa76a08-de85-42cd-a331-a2e78d9c5f0d,accusation.irish,available,9.99,,high,low,10,name.com,,,
 5467cf7e-753a-4fe9-83f1-d9c12c34a410,disk.irish,available,9.99,,high,low,4,name.com,,,
-b15cc91b-3dba-494c-bec9-819d5cdbb422,togetherwith.irish,available,9.99,,low,low,13,name.com,,,
-00a99af3-3275-4f3d-9afb-6f7dba2dc302,awfully.irish,available,7.49,22.49,low,low,7,namesilo,,,22/09/2026 15:26
-c61a4e53-1bfc-40c3-b661-766064db2b66,health.irish,resell,,,medium,low,6,"Sav.com, LLC - 12",18/09/2025 15:16,18/09/2027 15:16,23/09/2026 08:29
 e89c0369-b0ce-41cc-8931-6ff78245bb3f,hamburger.irish,available,9.99,,high,low,9,name.com,,,
-12923bec-4e7e-47bb-a3e9-b8840beb6a76,moveback.irish,available,9.99,,high,low,9,name.com,,,
 be783121-3100-4236-a2b7-f722e0e50899,july.irish,available,9.99,,high,low,4,name.com,,,
 9cb2ffe3-a72b-4f17-ba2f-5fe4cdd8fd97,tide.irish,available,9.99,,high,low,4,name.com,,,
-06d1e895-ce65-4375-a270-a17884d91326,curiously.irish,available,9.99,,medium,low,9,name.com,,,
+06d1e895-ce65-4375-a270-a17884d91326,curiously.irish,available,9.99,,high,low,9,name.com,,,
 ba9da528-8773-4417-b7b2-03c60ea46e53,although.irish,available,9.99,,medium,low,8,name.com,,,
-435ff0cc-c263-4dcc-978e-34546cfeac7b,peppermintoil.irish,available,9.99,,low,low,14,name.com,,,
-3357910f-f86c-4b85-9960-c3bdf2a9ea9f,schmaltzy.irish,available,5.98,31.98,low,low,9,namecheap,,,09/08/2026 01:04
-d64fd52a-bb33-4d3b-9eb6-c3806ffc3427,rotten.irish,available,7.49,22.49,low,low,6,namesilo,,,24/09/2026 01:35
-d738d0de-8850-4653-b4b0-72f2e66c6c9b,eliminate.irish,available,9.99,,medium,low,9,name.com,,,
-c9dd687a-d241-4663-b7db-019dc582cb11,middle.irish,available,7.49,22.49,medium,low,6,namesilo,,,23/09/2026 13:24
-4f9dd95e-8ca2-4950-965f-ef46329cb8da,beguiling.irish,available,7.49,22.49,medium,low,9,namesilo,,,22/09/2026 01:38
-58c50102-a33c-4d94-9157-7f637a870e81,onceforall.irish,available,9.99,,low,low,12,name.com,,,
-0da17cdc-ea58-4741-b355-633c5b09c13f,infrared.irish,available,5.98,31.98,low,low,9,namecheap,,,04/09/2026 07:52
-9683c718-c277-45ce-bab9-5a3abd8f9449,aqueous.irish,available,5.98,31.98,low,low,7,namecheap,,,06/08/2026 10:50
+d738d0de-8850-4653-b4b0-72f2e66c6c9b,eliminate.irish,available,9.99,,high,low,9,name.com,,,
+0da17cdc-ea58-4741-b355-633c5b09c13f,infrared.irish,available,5.98,31.98,high,low,9,namecheap,,,04/09/2026 07:52
+9683c718-c277-45ce-bab9-5a3abd8f9449,aqueous.irish,available,5.98,31.98,medium,low,7,namecheap,,,06/08/2026 10:50
 38ebf969-aa71-4204-b642-d57471be866c,today.irish,available,9.99,,high,low,5,name.com,,,
-495bd1cb-a2ca-4446-8c21-9aa74330724e,consider.irish,available,9.99,27.99,high,low,8,name.com,,,
-b4bec406-bcc5-415d-a4e3-50d9d03b11f7,aspirer.irish,available,5.98,31.98,low,low,7,namecheap,,,07/08/2026 05:12
-49ae5afa-5eab-4b7b-98be-ae775a578e44,audacious.irish,available,5.98,31.98,medium,low,9,namecheap,,,22/09/2026 12:06
-751bdd42-6543-4103-acb5-6bf7cfb32d09,licensed.irish,available,7.49,22.49,low,low,8,namesilo,,,19/09/2026 16:56
-c6336785-92c4-4bd5-b9e8-d7099f542bf6,voicemessage.irish,available,9.99,,high,low,13,name.com,,,
+b4bec406-bcc5-415d-a4e3-50d9d03b11f7,aspirer.irish,available,5.98,31.98,medium,low,7,namecheap,,,07/08/2026 05:12
 38b9a716-c4da-44d8-bc27-094444ee4ed5,want.irish,available,9.99,,high,low,4,name.com,,,
-26d56b8a-fd25-4cd9-a490-589beb192a17,amazing.irish,premium,242,242,medium,low,7,namesilo,,,22/09/2026 03:51
-e40ec7dd-0689-4270-aa21-76d0a65d7a53,enterinto.irish,available,9.99,,medium,low,10,name.com,,,
 2b59cdd9-829e-46a6-bc59-4c5b6bd938f5,slim.irish,available,9.99,,high,low,4,name.com,,,
-0615c612-391f-46e8-82ec-88d741f45d41,marginal.irish,available,7.49,22.49,low,low,8,namesilo,,,23/09/2026 00:04
-f6eb172b-6a09-4ad0-a8d8-57c01e61fd57,fictive.irish,available,5.98,31.98,low,low,7,namecheap,,,07/08/2026 07:55
+f6eb172b-6a09-4ad0-a8d8-57c01e61fd57,fictive.irish,available,5.98,31.98,medium,low,7,namecheap,,,07/08/2026 07:55
 59dbf055-5f47-40ee-9198-6474eb418ae5,oversight.irish,available,9.99,,high,low,9,name.com,,,
-f69b0897-a733-49fd-8f1b-991b25d99398,sushibar.irish,available,9.99,,high,low,9,name.com,,,
-36a912c9-987a-459f-99cf-d471a5b8ddc9,toneofvoice.irish,available,9.99,,low,low,13,name.com,,,
-362f25b6-f172-43a8-bd65-6035e61c0afd,plaguey.irish,available,5.98,31.98,low,low,7,namecheap,,,
-65843959-358f-4928-abb7-719a21789fef,reverse.irish,available,7.49,22.49,medium,low,7,namesilo,,,23/09/2026 22:34
-1672a2a8-427a-40d4-9d7b-83a9eb9a1070,crucial.irish,available,7.49,22.49,medium,low,7,namesilo,,,22/09/2026 00:39
+362f25b6-f172-43a8-bd65-6035e61c0afd,plaguey.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 a2512033-2238-405a-91df-8d4fedba57fe,sausage.irish,available,9.99,,high,low,7,name.com,,,
-24a8d832-9bef-4e26-92f8-a16d055114c2,horseback.irish,available,5.98,31.98,medium,low,9,namecheap,,,21/09/2026 23:38
-707aaf2b-3aac-4f78-a082-c5152dda67fe,mawkish.irish,available,5.98,31.98,low,low,7,namecheap,,,09/08/2026 00:48
-66b6d6ec-0f7b-40ea-8ce0-d4f9b082ace1,untoward.irish,available,5.98,31.98,low,low,8,namecheap,,,
-a0b24a2b-1a68-4b6b-88e9-62a158f2974d,marooned.irish,available,9.99,,medium,low,8,name.com,,,
-3475c864-422c-4d13-aa8c-c8227316ec90,generalofthearmy.irish,available,9.99,,high,low,19,name.com,,,
-d98b6b4f-6565-47c4-a03e-1f16fa8bc152,blackplague.irish,available,9.99,,low,low,12,name.com,,,
-f9cc1059-47e1-46a1-b3f1-035502ce2e65,execution.irish,available,9.99,,medium,low,9,name.com,,,
-de39ad31-0bfd-40bc-93aa-e07f2ea53e1f,gutfeeling.irish,available,9.99,,high,low,11,name.com,,,
-e0ad36ee-030c-41db-81cc-f7f562f80221,lithuania.irish,available,,,medium,low,9,,,,
-43a0fd40-2248-4cc9-955c-45cb7a89e376,pustulate.irish,available,5.98,31.98,low,low,9,namecheap,,,
-3f71a43b-374c-4be7-b362-3f163226f54d,backless.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 05:48
+a0b24a2b-1a68-4b6b-88e9-62a158f2974d,marooned.irish,available,9.99,,high,low,8,name.com,,,
+f9cc1059-47e1-46a1-b3f1-035502ce2e65,execution.irish,available,9.99,,high,low,9,name.com,,,
+e0ad36ee-030c-41db-81cc-f7f562f80221,lithuania.irish,available,,,high,low,9,,,,
+3f71a43b-374c-4be7-b362-3f163226f54d,backless.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/08/2026 05:48
 2224b093-0ab4-4f7c-87dc-9ff32283af0d,someone.irish,available,9.99,,high,low,7,name.com,,,
-12e69659-60f4-4529-9425-cee3bc508e59,bringin.irish,available,9.99,,high,low,8,name.com,,,
 73a063e1-ea57-4621-91d4-a6b41a6a3eae,college.irish,available,9.99,,high,low,7,name.com,,,
-802e5c4d-8b24-4c0b-9ab4-8b07669da776,airworthy.irish,available,5.98,31.98,low,low,9,namecheap,,,
-3b8ff024-f7c9-4d41-a98e-f20ddc4997e5,ache.irish,available,5.98,31.98,low,low,4,namecheap,,,
-5adc7789-6bc6-4343-8231-7356c55ac5ed,corner.irish,available,9.99,,medium,low,6,name.com,,,
-0809de67-d48f-49ab-9190-006e6351af4e,aperiodic.irish,available,5.98,31.98,low,low,9,namecheap,,,05/08/2026 22:30
+802e5c4d-8b24-4c0b-9ab4-8b07669da776,airworthy.irish,available,5.98,31.98,high,low,9,namecheap,,,
+3b8ff024-f7c9-4d41-a98e-f20ddc4997e5,ache.irish,available,5.98,31.98,high,low,4,namecheap,,,
+5adc7789-6bc6-4343-8231-7356c55ac5ed,corner.irish,available,9.99,,high,low,6,name.com,,,
+0809de67-d48f-49ab-9190-006e6351af4e,aperiodic.irish,available,5.98,31.98,medium,low,9,namecheap,,,05/08/2026 22:30
 bfcfd1c1-f1cd-4662-8396-ada78bace29c,songbird.irish,available,9.99,,high,low,8,name.com,,,
-eddaaf07-f025-46f4-a112-494e3378bfde,hallwaymonitor.irish,available,9.99,,medium,low,15,name.com,,,
-bb32cbfd-05ba-47f8-a833-46d6545781bc,sumbuddy.irish,available,9.99,,medium,low,8,name.com,,,
-0107b43a-e158-4659-8b94-e0a8dfe94b7c,auriferous.irish,available,7.49,22.49,low,low,10,namesilo,,,22/09/2026 13:02
+bb32cbfd-05ba-47f8-a833-46d6545781bc,sumbuddy.irish,available,9.99,,low,low,8,name.com,,,
 a97254b3-da17-4cc3-b0a4-75af2d03bfd8,provider.irish,available,9.99,,high,low,8,name.com,,,
-1eb66dc2-94b3-4db2-baba-a809458a2336,featured.irish,available,9.99,,medium,low,8,name.com,,,
-63c76287-d9f7-4d66-a25b-5668dcdebaa3,domesticworker.irish,available,9.99,,high,low,15,name.com,,,
 034af851-278a-45d9-a809-b59dbfae3385,audi.irish,available,,,high,low,4,,,,
 121dbafb-0b44-4151-9379-036a1090a5b7,exhibition.irish,available,9.99,,high,low,10,name.com,,,
 6de70f83-5e2b-4752-a58b-2105fd78b55a,history.irish,premium,260,260,high,low,7,namecheap,,,
-915e3ea5-84df-44d7-9b7c-c5c74ef98e50,futile.irish,available,7.49,22.49,low,low,6,namesilo,,,22/09/2026 23:49
-34f3d46d-397d-480b-a545-72b606447a3f,tuesdays.irish,available,9.99,,low,low,8,name.com,,,
-89ffb328-c3af-4461-8575-8c6850359b4b,intwominds.irish,available,9.99,,medium,low,12,name.com,,,
-4bdb1566-e717-48ac-9573-5732d914d7b6,ruined.irish,available,9.99,,medium,low,6,name.com,,,
-e8b5b75f-69b2-4d61-a467-4989deb1113d,palliative.irish,available,5.98,31.98,low,low,10,namecheap,,,
+34f3d46d-397d-480b-a545-72b606447a3f,tuesdays.irish,available,9.99,,high,low,8,name.com,,,
+4bdb1566-e717-48ac-9573-5732d914d7b6,ruined.irish,available,9.99,,high,low,6,name.com,,,
+e8b5b75f-69b2-4d61-a467-4989deb1113d,palliative.irish,available,5.98,31.98,high,low,10,namecheap,,,
 a05e2c0a-3468-432a-a63b-c6e984c13dbb,had.irish,available,9.99,,high,low,3,name.com,,,
-c4291e7d-0bf4-4521-99b8-85bf39502c93,nowhearthis.irish,available,9.99,,low,low,13,name.com,,,
-295337cc-24c3-4db5-ad1e-ce16a8b3d53b,iamafraidofthis.irish,available,9.99,,medium,low,19,name.com,,,
-18df33b3-eaab-4380-b188-237711c8d739,cxxv.irish,available,,,medium,low,4,,,,
-8a14fdf8-09a9-413b-a667-33306da8a3e7,agelong.irish,available,5.98,31.98,low,low,7,namecheap,,,
-2f3c24d5-531d-4f93-a84f-e9e0db4d2388,bauxitic.irish,available,5.98,31.98,low,low,8,namecheap,,,09/08/2026 01:55
+8a14fdf8-09a9-413b-a667-33306da8a3e7,agelong.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 f8fb0045-e202-45d3-945b-c3f27652f3a8,minute.irish,available,9.99,,high,low,6,name.com,,,
-3b000bce-1fc9-4bdd-8df4-175283be9e36,limitless.irish,available,7.49,22.49,medium,low,9,namesilo,,,23/09/2026 01:44
-02ad3b46-7d13-48b3-9001-d3729fbce5d2,amended.irish,available,5.98,31.98,low,low,7,namecheap,,,
-e4ca3fe6-cb62-4299-85e8-192efdfe5bbe,workout.irish,available,9.99,,medium,low,7,name.com,,,
-68efcde8-1a33-44cb-b3e9-e69b31357453,ladiesfirst.irish,available,9.99,,medium,low,12,name.com,,,
-ed570baa-e90c-436f-915f-54738ebc7314,amebic.irish,available,5.98,31.98,low,low,6,namecheap,,,
-30595d92-7c5a-423d-b7ec-ed99bdc157ba,mahfucker.irish,available,9.99,,medium,low,9,name.com,,,
-ed82bb87-880b-438c-a5c3-be66f7d5f185,teenage.irish,available,5.98,31.98,low,low,8,namecheap,,,11/09/2026 10:07
-69711bd8-6f91-4068-a935-d308bbcb857d,smashing.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 12:53
+02ad3b46-7d13-48b3-9001-d3729fbce5d2,amended.irish,available,5.98,31.98,high,low,7,namecheap,,,
+e4ca3fe6-cb62-4299-85e8-192efdfe5bbe,workout.irish,available,9.99,,high,low,7,name.com,,,
+ed82bb87-880b-438c-a5c3-be66f7d5f185,teenage.irish,available,5.98,31.98,high,low,8,namecheap,,,11/09/2026 10:07
+69711bd8-6f91-4068-a935-d308bbcb857d,smashing.irish,available,5.98,31.98,high,low,8,namecheap,,,08/08/2026 12:53
 a1574185-6704-47b5-a7ef-10934a9542a7,inviting.irish,available,9.99,,high,low,8,name.com,,,
 7054d779-1005-47b8-9139-1d8430cb9bc5,theme.irish,available,9.99,,high,low,5,name.com,,,
 d789b440-f333-4057-8aec-bdc4c4370929,been.irish,available,9.99,,medium,low,4,name.com,,,
-c6c317d2-dc7c-4fec-933e-4cdd4656b0a6,fling.irish,available,9.99,,medium,low,5,name.com,,,
+c6c317d2-dc7c-4fec-933e-4cdd4656b0a6,fling.irish,available,9.99,,high,low,5,name.com,,,
 ddb42bb4-28bd-4395-86d8-991be45be9a7,racing.irish,available,9.99,,high,low,6,name.com,,,
-1e45aa29-1837-4ed7-9f27-995786f96d0f,credit.irish,resell,,,medium,low,6,Unstoppable Domains Inc,20/03/2017 02:03,20/03/2027 02:03,
-67a67a36-bb97-47ba-9047-f6396f3e2f67,pauliii.irish,available,9.99,,medium,low,8,name.com,,,
-2c347a21-84dc-4ab2-b428-5b7ecd8ce82c,opal.irish,available,9.99,,medium,low,4,name.com,,,
-52ffe257-3f21-4bf5-9dbe-a23e5fd3ef45,enginehouse.irish,available,9.99,,medium,low,12,name.com,,,
-0c720900-5d3a-41d2-8df8-f2705641ac62,personal.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/09/2026 03:45
+1e45aa29-1837-4ed7-9f27-995786f96d0f,credit.irish,resell,,,high,low,6,Unstoppable Domains Inc,20/03/2017 02:03,20/03/2027 02:03,
+2c347a21-84dc-4ab2-b428-5b7ecd8ce82c,opal.irish,available,9.99,,high,low,4,name.com,,,
 81cb2f07-4c00-4cc8-8f9e-2c79d2970769,lookup.irish,available,9.99,,high,low,7,name.com,,,
-116b9484-156f-474f-9f5c-f2cf58d7407e,delay.irish,available,9.99,,medium,low,5,name.com,,,
-c9a548e1-26b4-4df3-bf6d-62fbb6c81a17,rhythmic.irish,available,9.99,,medium,low,8,name.com,,,
-5c98379b-9006-482c-a569-e6f0a1dca886,closest.irish,available,9.99,,medium,low,7,name.com,,,
-d83900d3-5682-4fdd-a0c2-1faba85fd03c,afroasian.irish,available,5.98,31.98,low,low,10,namecheap,,,
+116b9484-156f-474f-9f5c-f2cf58d7407e,delay.irish,available,9.99,,high,low,5,name.com,,,
+c9a548e1-26b4-4df3-bf6d-62fbb6c81a17,rhythmic.irish,available,9.99,,high,low,8,name.com,,,
+5c98379b-9006-482c-a569-e6f0a1dca886,closest.irish,available,9.99,,high,low,7,name.com,,,
 bcadee5c-97a8-4e62-b592-df6ec9eefb7e,adventure.irish,available,9.99,,high,medium,9,name.com,,,
 5adf9ff4-5bd6-43e0-8f58-64019623fd52,recent.irish,available,9.99,,high,low,6,name.com,,,
-c2db4a97-d911-40b5-ae5b-7691887e05fb,undirected.irish,available,5.98,31.98,low,low,10,namecheap,,,
-6d66329f-f77d-4b1e-b862-60cc04d688a1,quick.irish,available,5.98,31.98,low,low,5,namecheap,,,21/09/2026 23:09
-b55c6e45-2998-46b9-ad9f-a7f657a42426,ended.irish,available,5.98,31.98,low,low,5,namecheap,,,
-0282eaef-e542-45fd-bc21-f0e72bf4a330,iwould.irish,available,9.99,,medium,low,7,name.com,,,
+b55c6e45-2998-46b9-ad9f-a7f657a42426,ended.irish,available,5.98,31.98,high,low,5,namecheap,,,
 5f94426e-7b55-46f2-973c-093b691e308b,swing.irish,available,9.99,,high,low,5,name.com,,,
-98dd36bf-77d8-4256-baba-685b675e21e5,nuts.irish,available,7.49,22.49,medium,low,4,namesilo,,,22/09/2026 08:20
-7dd1676d-b97d-423b-9269-24f3929503ea,allantoid.irish,available,5.98,31.98,low,low,9,namecheap,,,
 c02b6779-b701-4968-b213-68862f58e8a2,vivid.irish,available,9.99,,high,low,5,name.com,,,
-342a8ca0-1c1b-4e12-98c5-a55164117acd,readmylips.irish,available,9.99,,low,low,12,name.com,,,
-3d288288-7974-416f-802e-9ad0445dcb71,blacktea.irish,available,7.49,22.49,low,low,9,namesilo,,,24/09/2026 01:47
 29f85c91-2024-432f-986e-fa5646faac1c,obvious.irish,available,9.99,,high,low,7,name.com,,,
-0fd0aeb6-d7e0-4e69-9221-98e480cafd12,worldfair.irish,available,9.99,,low,low,10,name.com,,,
 208f48f2-2167-4327-8cd3-6eff07bdd596,dignity.irish,available,9.99,,high,low,7,name.com,,,
-3b0de6b5-0990-461f-b85a-60cf06ffa6f2,acoustic.irish,available,5.98,31.98,medium,low,8,namecheap,,,
-04cac4f4-e26f-4d50-a8ba-3a45b1aacbf8,curative.irish,available,7.49,22.49,medium,low,8,namesilo,,,22/09/2026 02:19
-97c7f235-455c-4231-92c7-4db8fc4e6963,godgiven.irish,available,9.99,,medium,low,9,name.com,,,
-f72ca237-ec90-4d91-b96a-9d55f743e374,advisable.irish,available,5.98,31.98,low,low,9,namecheap,,,
+3b0de6b5-0990-461f-b85a-60cf06ffa6f2,acoustic.irish,available,5.98,31.98,high,low,8,namecheap,,,
+f72ca237-ec90-4d91-b96a-9d55f743e374,advisable.irish,available,5.98,31.98,high,low,9,namecheap,,,
 a47e9a16-f96b-4922-b8e7-87b319f8f3bf,hahaha.irish,available,9.99,,high,low,6,name.com,,,
-23bd23ae-b7b9-4d27-b3f0-e52aa36c7988,anaemic.irish,available,5.98,31.98,low,low,7,namecheap,,,
 43463ad0-a827-4c68-abcc-d7096edd5878,egg.irish,available,9.99,,high,low,3,name.com,,,
-c623e9a6-eee3-4b73-b9a0-c6c980ac94bb,baked.irish,available,5.98,31.98,low,low,5,namecheap,,,
-2c40a928-414b-4cc7-9f79-315836ff7a95,newyorkstate.irish,available,9.99,,medium,low,14,name.com,,,
-341c5171-efc8-4db8-905b-cd1731596059,arching.irish,available,5.98,31.98,low,low,7,namecheap,,,06/08/2026 14:39
-c2904aee-c2d7-4c55-8dd4-762d272d1728,linkup.irish,available,5.98,31.98,medium,low,7,namecheap,,,07/08/2026 07:13
-3941ef7d-72c3-4667-9a07-ca5c60e35087,range.irish,available,9.99,,medium,low,5,name.com,,,
-8a638620-83e7-4f25-a910-d73d83ffe817,agnatic.irish,available,5.98,31.98,low,low,7,namecheap,,,
-e4d42f65-d0cc-4e6a-b14c-b0c989f88ef0,hockeyplayer.irish,available,9.99,,high,low,13,name.com,,,
-d2c7b0b4-2905-4612-83f4-ce65ed967210,dowhat.irish,available,9.99,,medium,low,7,name.com,,,
+c623e9a6-eee3-4b73-b9a0-c6c980ac94bb,baked.irish,available,5.98,31.98,high,low,5,namecheap,,,
+341c5171-efc8-4db8-905b-cd1731596059,arching.irish,available,5.98,31.98,medium,low,7,namecheap,,,06/08/2026 14:39
+3941ef7d-72c3-4667-9a07-ca5c60e35087,range.irish,available,9.99,,high,low,5,name.com,,,
+8a638620-83e7-4f25-a910-d73d83ffe817,agnatic.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 6ff043aa-7f48-4749-b8bc-8f8deda6ad30,anniversary.irish,available,9.99,,high,low,11,name.com,,,
-35937062-1c32-4d7b-9388-c2eb9ddb211d,howsayyou.irish,available,9.99,,medium,low,11,name.com,,,
 10afed18-e10e-4477-9968-e77f552f6b7d,vegetable.irish,available,9.99,,high,low,9,name.com,,,
-7ef959f4-f90e-4b6b-bbf3-e79e0fd26895,voicecall.irish,available,9.99,,high,low,10,name.com,,,
-6b8ef915-b605-4e75-8fbf-908d3689ed49,study.irish,resell,,,medium,low,5,"GoDaddy.com, LLC",14/07/2023 00:04,14/07/2027 00:04,20/09/2026 03:18
-314860d8-a11e-4c2b-9f0c-393466f4acdd,alaskan.irish,available,5.98,31.98,low,low,7,namecheap,,,
+314860d8-a11e-4c2b-9f0c-393466f4acdd,alaskan.irish,available,5.98,31.98,high,low,7,namecheap,,,
 36f631c4-fe12-46e3-9772-fd7e0aa7c133,gore.irish,available,9.99,,medium,low,4,name.com,,,
-14e20890-f849-4432-a18f-1790c730bb2e,gardensalad.irish,available,9.99,,high,low,12,name.com,,,
-879ad41a-37c8-4703-81b1-bdbb51e20a93,slow.irish,available,7.49,22.49,medium,low,4,namesilo,,,23/09/2026 00:28
-47c874e0-2775-4571-90eb-c82c9b07cd7e,circular.irish,available,7.49,22.49,medium,low,8,namesilo,,,23/09/2026 09:44
 b340883e-4a51-4dc7-8c84-56f75560206e,pull.irish,available,9.99,,high,low,4,name.com,,,
-82766350-933b-4606-85a3-4762759a52f4,aural.irish,available,7.49,22.49,low,low,5,namesilo,,,22/09/2026 12:49
-47651a51-de76-46f2-900e-20a868c10aaf,bared.irish,available,7.49,22.49,low,low,5,namesilo,,,22/09/2026 17:24
-0b460874-35b4-4ba3-bfb6-032fa51cb748,familybusiness.irish,available,9.99,,high,low,15,name.com,,,
 6cf0296f-fd96-4fc8-8482-fcd3e4971e97,snippet.irish,available,9.99,,high,low,7,name.com,,,
 70155e36-0a05-4107-8c8b-f168e1c2906c,amongst.irish,available,9.99,,medium,low,7,name.com,,,
-c87c32ee-4b95-4b03-b93c-405b9ee7a13c,softly.irish,available,9.99,,medium,low,6,name.com,,,
+c87c32ee-4b95-4b03-b93c-405b9ee7a13c,softly.irish,available,9.99,,high,low,6,name.com,,,
 03f01884-ddb9-4465-9b71-b8bae328f90d,requirement.irish,available,9.99,,high,low,11,name.com,,,
 87af0e9f-f62d-4db9-ad82-3e1d843ef389,tangle.irish,available,9.99,,high,low,6,name.com,,,
 5802e52b-0e2a-418b-80c5-bed0dc89235c,past.irish,available,9.99,,high,low,4,name.com,,,
-81e9a88e-21a2-4ea3-8638-23cf9413a9b7,briefly.irish,available,9.99,,medium,low,7,name.com,,,
+81e9a88e-21a2-4ea3-8638-23cf9413a9b7,briefly.irish,available,9.99,,high,low,7,name.com,,,
 4c6b69ea-5f61-4e5e-bd13-c5a2c2213e73,invalid.irish,available,,,high,low,7,,,,
-e2f7e3e2-fc56-4d90-af60-0e200a3cc264,newglasgow.irish,available,9.99,,medium,low,11,name.com,,,
-cca14a25-5746-4222-b16c-62f19fe2ed45,getthebetterof.irish,available,9.99,,high,low,17,name.com,,,
-3ce3fab6-8df4-498e-99b0-58fe2ecdaeaa,dakotacity.irish,available,9.99,,medium,low,11,name.com,,,
-d8b05ce4-9611-46a7-a425-f7a1d9c95b75,oldgeezer.irish,available,5.98,31.98,low,low,10,namecheap,,,05/08/2026 19:25
-2593471b-9bf3-4d6e-a32b-21326c0c49a6,comical.irish,available,7.49,22.49,medium,low,7,namesilo,,,23/09/2026 15:19
-f8097976-a374-4bd1-b1ca-daa37b6b6c60,noble.irish,available,5.98,31.98,medium,low,5,namecheap,,,08/08/2026 20:18
-78840e6c-c521-41b9-8367-b8711bd745fe,ammoniac.irish,available,5.98,31.98,low,low,8,namecheap,,,
-beb3d2c6-f330-46c9-b31a-1404c4b72e39,handmedown.irish,available,9.99,,high,low,12,name.com,,,
-6fd7f917-57f0-488b-9c48-69902c506a73,plunkfor.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 05:28
-799bb1f5-4347-44ef-b833-114285455e9b,hardwork.irish,available,9.99,,high,low,9,name.com,,,
+f8097976-a374-4bd1-b1ca-daa37b6b6c60,noble.irish,available,5.98,31.98,high,low,5,namecheap,,,08/08/2026 20:18
+78840e6c-c521-41b9-8367-b8711bd745fe,ammoniac.irish,available,5.98,31.98,medium,low,8,namecheap,,,
 36058586-3f34-4f29-9d37-c3e42507ae45,exist.irish,available,9.99,,high,low,5,name.com,,,
-8beadba5-554e-4f0d-beae-e3c69c84f14a,rolling.irish,available,7.49,22.49,low,low,7,namesilo,,,19/09/2026 06:51
-2a2484b7-f200-45d6-953d-ac76c8ef476d,shootingstar.irish,available,9.99,,high,low,13,name.com,,,
-2ae4b813-3fcb-41ba-88e2-3730cfdd71e6,needy.irish,available,9.99,27.99,medium,low,5,name.com,,,
-401ab068-5247-4d43-bba0-f247bf1b6c45,regurgitate.irish,available,9.99,,high,low,11,name.com,,,
-eee56919-f926-4b03-a4f8-f654c70727e9,silly.irish,available,5.98,31.98,low,low,5,namecheap,,,21/09/2026 23:43
 5a7f35cc-49a7-4b1e-a703-add879d205b6,stability.irish,available,9.99,,high,low,9,name.com,,,
-7257b8cf-09ab-4428-be9d-9f107f4d2f1c,algonquian.irish,available,5.98,31.98,low,low,10,namecheap,,,
 64dd2741-bafa-4de1-b615-e19b71a30c0e,err.irish,available,9.99,,high,low,3,name.com,,,
-ffd99c64-ff59-43e9-9112-1d8fc8d8a011,whatitis.irish,available,9.99,,low,low,10,name.com,,,
-0e028e1c-4d9e-4eed-8ac1-52cbd94f4daf,sorry.irish,available,9.99,27.99,high,low,5,name.com,,,
-827a3a3a-56c9-4e9a-9194-03a1669f9e63,thehell.irish,available,9.99,,high,low,8,name.com,,,
-dc918d1a-add4-4319-a8a6-a90b596388b9,sensationally.irish,available,9.99,,medium,low,13,name.com,,,
-61f900cf-ee58-41af-a9e0-c35261f21508,manyatimes.irish,available,9.99,,medium,low,12,name.com,,,
-132db0f5-d3df-4b7c-ac3a-658c0ec77b21,photography.irish,premium,250,,medium,low,11,name.com,,,
-8b0e5956-3b7a-4b8b-98c8-309994639ea1,fellowtravel.irish,available,9.99,,medium,low,13,name.com,,,
-5b76f59f-1680-4ec1-8945-422cd19eb11a,slept.irish,available,9.99,,low,low,5,name.com,,,
-afc2d2f4-0006-440d-829f-d48fbcc5590f,painful.irish,available,5.98,31.98,low,low,7,namecheap,,,
-183da1a6-5a11-4b44-8e51-556071b88632,antitypic.irish,available,5.98,31.98,low,low,9,namecheap,,,05/08/2026 20:00
-3fd10c7f-b6ec-4141-a1b4-f8b14295c7f7,working.irish,available,7.49,22.49,medium,low,7,namesilo,,,19/09/2026 07:09
+132db0f5-d3df-4b7c-ac3a-658c0ec77b21,photography.irish,premium,250,,high,low,11,name.com,,,
+5b76f59f-1680-4ec1-8945-422cd19eb11a,slept.irish,available,9.99,,medium,low,5,name.com,,,
+afc2d2f4-0006-440d-829f-d48fbcc5590f,painful.irish,available,5.98,31.98,high,low,7,namecheap,,,
 99430f4e-e389-4860-a5b5-36e4f4a38d7a,hopefully.irish,available,9.99,,high,low,9,name.com,,,
-e74fd4de-610f-49c7-bb1d-bb37f6e4eed0,bareheaded.irish,available,5.98,31.98,low,low,10,namecheap,,,08/08/2026 18:49
-2f912e60-c4e2-495e-8a46-e2e15e83a2ea,wearoff.irish,available,9.99,,low,low,8,name.com,,,
-e29fd06d-5e21-42a2-8152-f5df4fbe1226,apish.irish,available,5.98,31.98,low,low,5,namecheap,,,06/08/2026 00:12
-3ae4d938-200f-47e7-9508-e3fb891fb0c9,iamenglish.irish,available,9.99,,medium,low,12,name.com,,,
+e29fd06d-5e21-42a2-8152-f5df4fbe1226,apish.irish,available,5.98,31.98,medium,low,5,namecheap,,,06/08/2026 00:12
 05b035af-a180-4ad7-b9d2-3bac1816d665,request.irish,available,9.99,,high,low,7,name.com,,,
-7d7ca1da-a37c-4e24-9045-84f49543ccf5,agaze.irish,available,5.98,31.98,low,low,5,namecheap,,,
 454ba8f4-2e77-4350-95b7-a996ee5bf533,ahuh.irish,available,9.99,,high,low,4,name.com,,,
 0fe2b4c5-7da1-427e-a2ed-627378c49937,playfield.irish,available,9.99,,high,low,9,name.com,,,
-be321ae1-d7df-41e7-a6be-9c42888ff91a,anatomical.irish,available,5.98,31.98,low,low,10,namecheap,,,
+be321ae1-d7df-41e7-a6be-9c42888ff91a,anatomical.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 876b248f-b24a-4a73-a70e-55242f0eb193,overwhelm.irish,available,9.99,,high,low,9,name.com,,,
-f6ffeaa0-a235-4656-9d8e-79bef649e049,lower.irish,available,9.99,,medium,low,5,name.com,,,
-d58e3cc2-5deb-4484-a655-52f26d6ce956,alcoholic.irish,available,5.98,31.98,low,low,9,namecheap,,,
-ed4a2b7e-b5a6-4e41-a67e-3469a03f2c96,barbarian.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 15:26
-00f4b40f-9448-4ea4-bbab-0bdd4dd3eaac,incidence.irish,available,9.99,,medium,low,9,name.com,,,
-f641a29f-0e23-44e7-b509-76711eab7f90,barshaped.irish,available,5.98,31.98,low,low,10,namecheap,,,08/08/2026 15:16
+f6ffeaa0-a235-4656-9d8e-79bef649e049,lower.irish,available,9.99,,high,low,5,name.com,,,
+d58e3cc2-5deb-4484-a655-52f26d6ce956,alcoholic.irish,available,5.98,31.98,high,low,9,namecheap,,,
+ed4a2b7e-b5a6-4e41-a67e-3469a03f2c96,barbarian.irish,available,5.98,31.98,high,low,9,namecheap,,,08/08/2026 15:26
+00f4b40f-9448-4ea4-bbab-0bdd4dd3eaac,incidence.irish,available,9.99,,high,low,9,name.com,,,
 4c14e217-6e7b-4ba9-80d7-bee6377246a9,legion.irish,available,9.99,,high,low,6,name.com,,,
 cf812de1-f454-4341-a526-ae1f8389e5e0,deliver.irish,available,9.99,,high,low,7,name.com,,,
-35dfd975-f9c7-43fa-8e77-816bcd38eef5,unquestionably.irish,available,9.99,,medium,low,14,name.com,,,
-ebff3f12-2891-4bd8-97af-41cd8bc93aab,speculation.irish,available,9.99,,low,low,11,name.com,,,
-0a7f46a6-17f2-46a5-ba1a-42100658be3f,deepdishpizza.irish,available,9.99,,high,low,15,name.com,,,
-1c18b5a7-f391-4b2c-9e93-af1554256dcc,hairwax.irish,available,9.99,,high,low,8,name.com,,,
-ab899628-5662-430f-a19d-820d767b2b8f,advective.irish,available,5.98,31.98,low,low,9,namecheap,,,
-f3e99e8b-ade2-4a30-bdbc-c52c96d2c8bb,jehovah.irish,available,5.98,31.98,low,low,7,namecheap,,,
-f2f2002b-f012-43d2-8427-af620cb23df2,earlike.irish,available,5.98,31.98,low,low,8,namecheap,,,07/08/2026 18:07
-00f914a6-bfd3-43ae-8bcb-57db0e2f39ed,eleven.irish,available,7.49,22.49,medium,low,6,namesilo,,,21/09/2026 11:20
+ebff3f12-2891-4bd8-97af-41cd8bc93aab,speculation.irish,available,9.99,,high,low,11,name.com,,,
+f3e99e8b-ade2-4a30-bdbc-c52c96d2c8bb,jehovah.irish,available,5.98,31.98,high,low,7,namecheap,,,
 74f9682c-7486-4be0-bae5-ddc1468c93fb,rice.irish,available,,,high,low,4,,,,
 7ad3110e-f3ae-4a7e-9433-ee7b222ea276,limit.irish,available,9.99,,high,low,5,name.com,,,
-15fc86ef-1831-45d8-9a4d-1b7ceba7b7e4,teenager.irish,available,9.99,27.99,low,low,8,name.com,,,21/09/2026 19:08
-8be80d0f-3a24-402c-a09c-3107a6f5831c,abovewritten.irish,available,9.99,,low,low,13,name.com,,,
-3f9792c2-724f-405a-a373-668cc30272de,dig.irish,available,9.99,,high,low,3,name.com,,,
-43b578f1-d04f-4c6f-85f7-128a43ab7c85,condensedmilk.irish,available,9.99,,high,low,14,name.com,,,
-1c140461-bf7d-45dc-937c-57260bf308f4,ccc.irish,available,5.98,31.98,low,medium,3,namecheap,,,
-f725f7cf-a79c-4f2c-a192-839d224ddf42,agile.irish,available,7.49,22.49,medium,low,5,namesilo,,,21/09/2026 23:00
+1c140461-bf7d-45dc-937c-57260bf308f4,ccc.irish,available,5.98,31.98,high,medium,3,namecheap,,,
 6ac8aeb6-1772-4e64-9171-6f93995fdbe9,shrimp.irish,available,9.99,,high,low,6,name.com,,,
-ff381cd6-c5c3-4e94-8421-44de13d30de8,thief.irish,available,9.99,,medium,low,5,name.com,,,
+ff381cd6-c5c3-4e94-8421-44de13d30de8,thief.irish,available,9.99,,high,low,5,name.com,,,
 c1bf1643-1013-4f40-a3b4-0b3e5e55ac5b,night.irish,available,9.99,,high,low,5,name.com,,,
 ca336c9f-9cc2-4651-b26b-579840b71270,analogy.irish,available,9.99,,high,low,7,name.com,,,
-0f424d78-5206-46ee-bf30-07867da3fa21,bacillary.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 04:56
-9cc6b724-db9a-464e-a1b2-c0dc3bd6e06b,groves.irish,available,9.99,,medium,low,6,name.com,,,
+9cc6b724-db9a-464e-a1b2-c0dc3bd6e06b,groves.irish,available,9.99,,high,low,6,name.com,,,
 0bf1dbe5-f95d-478d-a30f-cb05a057c3cc,examine.irish,available,9.99,,high,low,7,name.com,,,
-f98f2dba-db84-432f-bc70-cd43adc4bf37,riskcapital.irish,available,9.99,,low,low,12,name.com,,,
-722cd4ae-1b56-4768-8387-a0c2d3ead041,analgesic.irish,available,5.98,31.98,low,low,9,namecheap,,,
+722cd4ae-1b56-4768-8387-a0c2d3ead041,analgesic.irish,available,5.98,31.98,high,low,9,namecheap,,,
 e3d110e2-6c79-4b15-9660-0157d1cd2304,laziness.irish,available,9.99,,medium,low,8,name.com,,,
-12247df9-0265-4a64-bedc-b47fcbd3d2c1,getridof.irish,available,9.99,,high,low,10,name.com,,,
 db751703-d120-44ff-900d-ede91668d6ad,resounding.irish,available,9.99,,high,low,10,name.com,,,
-f75724a4-f6c9-4de8-b3ed-52907b3698f7,reinforced.irish,available,7.49,22.49,medium,low,10,namesilo,,,23/09/2026 10:25
-1ad624a7-e6a5-45c9-ad4a-c2e1c72cd862,billion.irish,available,7.49,22.49,medium,low,7,namesilo,,,22/09/2026 20:43
-c5d68d1e-9aeb-43f8-997f-26e8850caf96,told.irish,available,9.99,,low,low,4,name.com,,,
-50d7059b-276f-4626-b011-5bba1650eddd,arrhythmic.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 21:53
+c5d68d1e-9aeb-43f8-997f-26e8850caf96,told.irish,available,9.99,,medium,low,4,name.com,,,
 8391bb17-08bf-4a8f-9820-1f2ac6a8e49d,slip.irish,available,9.99,,high,low,4,name.com,,,
 e7ceffef-f99c-4b15-9cf1-7c9e2b9c213a,coconut.irish,available,9.99,,high,low,7,name.com,,,
-c1fcdc46-b5ac-41b9-be50-a22e34dba9f2,buttocks.irish,available,5.98,31.98,low,low,8,namecheap,,,09/08/2026 10:25
-4e38e7ee-cd54-4ec4-a4e4-e9c44a853f54,initiative.irish,available,7.49,22.49,medium,low,10,namesilo,,,19/09/2026 04:32
-73a26711-2929-435c-b244-475c46489aa2,pasta.irish,available,9.99,,medium,low,5,name.com,,,
-f881d3a5-c97f-4a58-bc9b-947784eb971d,busted.irish,available,5.98,31.98,low,low,6,namecheap,,,23/09/2026 12:06
-ec60febc-5ab7-4007-b303-88006cc1af1a,septenary.irish,available,5.98,31.98,low,low,9,namecheap,,,
-0884eabc-ce63-4fbf-a0f6-7e4bdf805f2a,rotfl.irish,available,9.99,,low,low,5,name.com,,,
-576de4eb-c099-48ae-b132-953f4ed47322,spellcheck.irish,available,9.99,,high,low,11,name.com,,,
-512eeb47-a5b8-46e2-aa8d-51c495317417,death.irish,available,9.99,27.99,medium,low,5,name.com,,,
+c1fcdc46-b5ac-41b9-be50-a22e34dba9f2,buttocks.irish,available,5.98,31.98,medium,low,8,namecheap,,,09/08/2026 10:25
+73a26711-2929-435c-b244-475c46489aa2,pasta.irish,available,9.99,,high,low,5,name.com,,,
+ec60febc-5ab7-4007-b303-88006cc1af1a,septenary.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+0884eabc-ce63-4fbf-a0f6-7e4bdf805f2a,rotfl.irish,available,9.99,,medium,low,5,name.com,,,
 a574bd9f-6002-4997-bb24-5a8982fc73a4,heal.irish,available,9.99,,high,low,4,name.com,,,
-f9040b47-6a12-49ea-8384-499251b4ef22,crude.irish,available,7.49,22.49,low,low,5,namesilo,,,24/09/2026 02:12
-45888608-9913-4920-a70c-dcf65362484d,skateboarding.irish,available,9.99,,low,low,13,name.com,,,
-822f4959-1644-4800-a11c-118ff1a54888,inadvance.irish,available,5.98,31.98,low,low,10,namecheap,,,09/08/2026 08:47
+45888608-9913-4920-a70c-dcf65362484d,skateboarding.irish,available,9.99,,high,low,13,name.com,,,
 1b3f1d2c-ab08-4351-94a1-9698ec34ac97,change.irish,available,9.99,,high,medium,6,name.com,,,
-d25e3f23-7d97-411f-a94d-ba7e1e9070c5,letmesee.irish,available,9.99,,medium,low,10,name.com,,,
-b0f2a80a-268a-49e8-9b2b-e75572a64c1d,arabian.irish,available,5.98,31.98,low,low,7,namecheap,,,06/08/2026 11:05
-2301ec34-7440-429a-8730-9ec16a2c7e76,worst.irish,available,9.99,,medium,low,5,name.com,,,
-7281456b-eb3a-48b5-835e-39c97639f420,begin.irish,available,5.98,31.98,medium,low,5,namecheap,,,23/09/2026 09:05
-49242229-1f36-402b-b495-aaf70aa2cab1,grouchy.irish,available,5.98,31.98,low,low,7,namecheap,,,08/08/2026 07:52
-a0f90e0a-d381-4f04-895e-5305af4ac10d,westhaven.irish,available,9.99,,low,low,10,name.com,,,
+b0f2a80a-268a-49e8-9b2b-e75572a64c1d,arabian.irish,available,5.98,31.98,high,low,7,namecheap,,,06/08/2026 11:05
+2301ec34-7440-429a-8730-9ec16a2c7e76,worst.irish,available,9.99,,high,low,5,name.com,,,
+49242229-1f36-402b-b495-aaf70aa2cab1,grouchy.irish,available,5.98,31.98,medium,low,7,namecheap,,,08/08/2026 07:52
 ba767f85-fd49-451e-ac34-8589917d9fca,involve.irish,available,9.99,,high,low,7,name.com,,,
-62178489-2287-4205-8225-4e740b3882fa,artless.irish,available,5.98,31.98,low,low,7,namecheap,,,06/08/2026 23:47
-2ee02ce7-6704-4ca8-b5f5-222a85773ade,okay.irish,available,7.49,22.49,medium,low,4,namesilo,,,22/09/2026 01:07
+62178489-2287-4205-8225-4e740b3882fa,artless.irish,available,5.98,31.98,high,low,7,namecheap,,,06/08/2026 23:47
 52b70506-9caf-4f9a-93dd-618101aae38b,china.irish,available,,,high,low,5,,,,
 11e02023-6d31-411f-88ae-1f191df5a267,affiliation.irish,available,9.99,,high,low,11,name.com,,,
 5f71b228-a89d-4cb8-b43d-3bdd4f2799fb,dive.irish,available,9.99,,high,low,4,name.com,,,
 2868dfe4-950a-4f05-8aca-98afaa85ddb5,unlimited.irish,available,9.99,,high,low,9,name.com,,,
-92e259d9-fafb-46fc-99ac-ee7b55943b24,popcornmovie.irish,available,9.99,,high,low,13,name.com,,,
 22a359ba-788c-4a72-a88f-0e09d6af8cfa,mixing.irish,available,9.99,,high,low,6,name.com,,,
-7355d561-db87-4486-b770-dc444d0ca55b,atthebank.irish,available,9.99,,high,low,11,name.com,,,
-112ab0ef-6c6c-4673-a955-92bb4efcb7c3,three.irish,available,7.49,22.49,medium,low,5,namesilo,,,21/09/2026 13:02
 98783a0f-f02d-453c-a0a3-dc198dfdb781,respectively.irish,available,9.99,,medium,low,12,name.com,,,
-359fc3db-97e1-4ab2-ada5-370c7c88778a,aneurismal.irish,available,5.98,31.98,low,low,10,namecheap,,,
 a2208d7c-2041-4e76-a531-4101194d5bd2,trillionaire.irish,available,9.99,,high,low,12,name.com,,,
 0c78bc3f-0d2b-42ef-a2f0-153767da1afc,rubber.irish,available,9.99,,high,low,6,name.com,,,
-cc3132a9-634e-46d8-9390-a5088eb6a9be,slowness.irish,available,9.99,,medium,low,8,name.com,,,
-e4abb90b-77eb-4a8e-bd87-5d7c9c837b77,missionaccomplished.irish,available,9.99,,medium,low,20,name.com,,,
-d5d135ad-0ab0-4d21-89e8-57c9140f8ddd,onceagain.irish,available,5.98,31.98,low,low,10,namecheap,,,13/09/2026 18:06
-d861123a-184e-4f4e-9051-4659d3a99bce,commonera.irish,available,9.99,,medium,low,10,name.com,,,
-2c1d88c1-9932-422e-a121-c27a7365f6a9,few.irish,available,9.99,,high,low,3,name.com,,,
-46a728b9-0b0f-45af-965d-b4f343066e19,silverpolish.irish,available,9.99,,low,low,13,name.com,,,
+cc3132a9-634e-46d8-9390-a5088eb6a9be,slowness.irish,available,9.99,,high,low,8,name.com,,,
 774eec60-bcdb-4120-b18b-8dba33c06e4a,discomfort.irish,available,9.99,,high,low,10,name.com,,,
-1d6d06f3-2d7a-45c7-ad80-32d1acfc36e6,robed.irish,available,5.98,31.98,low,low,5,namecheap,,,06/08/2026 05:03
-20016bc7-4105-4ca0-b964-85abcc036b48,beheaded.irish,available,5.98,31.98,low,low,8,namecheap,,,09/08/2026 10:21
-0f6fbbb9-5b4b-4fb7-9ca7-b9ae392cfb6c,playing.irish,available,5.98,31.98,medium,low,7,namecheap,,,21/09/2026 16:27
-7e32d6b2-aeac-416f-a4ca-24b07c5ecf52,fundament.irish,available,5.98,31.98,low,low,9,namecheap,,,09/08/2026 10:59
+1d6d06f3-2d7a-45c7-ad80-32d1acfc36e6,robed.irish,available,5.98,31.98,medium,low,5,namecheap,,,06/08/2026 05:03
+20016bc7-4105-4ca0-b964-85abcc036b48,beheaded.irish,available,5.98,31.98,medium,low,8,namecheap,,,09/08/2026 10:21
+7e32d6b2-aeac-416f-a4ca-24b07c5ecf52,fundament.irish,available,5.98,31.98,medium,low,9,namecheap,,,09/08/2026 10:59
 6091acbb-6891-4eb1-984f-e65b950d2dc9,city.irish,available,9.99,,high,medium,4,name.com,,,
-e1e5301e-0f22-4f83-8a18-a73e6be4b1ec,backwards.irish,available,7.49,22.49,low,low,9,namesilo,,,22/09/2026 15:55
 6d7b89dd-aa9e-4889-970c-9321a6bf6cfd,prayer.irish,available,9.99,,high,low,6,name.com,,,
-e77a3b2d-f8f1-4b7d-9a05-33d424143184,bodycavity.irish,available,9.99,,medium,low,11,name.com,,,
-ab6394ef-1f9f-4f59-9867-afa6614d0b92,alacritous.irish,available,5.98,31.98,low,low,10,namecheap,,,
-8c7f537d-159e-4d95-a15b-467d956c7b50,standup.irish,available,5.98,31.98,medium,low,8,namecheap,,,10/09/2026 18:33
-dbae4ff8-d923-433c-96c5-6bdc34cb6a3f,closethedoor.irish,available,9.99,,high,low,14,name.com,,,
-d7803215-55a3-4d35-b91a-c19d2fe13d5e,sanative.irish,available,5.98,31.98,low,low,8,namecheap,,,
-1576fb40-c131-40de-af1f-bedd3d758d27,childpornography.irish,available,9.99,,medium,low,17,name.com,,,
-3916941d-7661-4e6e-8d8e-8fa9c8ae1b9c,anapestic.irish,available,5.98,31.98,low,low,9,namecheap,,,
+ab6394ef-1f9f-4f59-9867-afa6614d0b92,alacritous.irish,available,5.98,31.98,high,low,10,namecheap,,,
+d7803215-55a3-4d35-b91a-c19d2fe13d5e,sanative.irish,available,5.98,31.98,medium,low,8,namecheap,,,
 b0e12887-5692-48e9-89c1-f8bb3e0c2c1d,arriving.irish,available,9.99,,medium,low,8,name.com,,,
-ef671c4c-2779-4fcc-8d91-517dd2fbc525,surprisingly.irish,available,9.99,,medium,low,12,name.com,,,
-eddf45ed-ed8f-4359-9327-367afdef2c4d,restrain.irish,available,9.99,,medium,low,8,name.com,,,
+ef671c4c-2779-4fcc-8d91-517dd2fbc525,surprisingly.irish,available,9.99,,high,low,12,name.com,,,
+eddf45ed-ed8f-4359-9327-367afdef2c4d,restrain.irish,available,9.99,,high,low,8,name.com,,,
 9a54bead-5df2-41d9-8d7a-ebdd040492bc,icon.irish,available,9.99,,high,medium,4,name.com,,,
-a7008846-9470-45d8-ac09-1d788573650d,letterofindemnity.irish,available,9.99,,medium,low,19,name.com,,,
-ddf1ce08-c96f-4127-aa9f-1b5b5c0c7825,lemon.irish,available,9.99,,medium,medium,5,name.com,,,
+ddf1ce08-c96f-4127-aa9f-1b5b5c0c7825,lemon.irish,available,9.99,,high,medium,5,name.com,,,
 3e89778b-c84c-406e-a20b-3d1091c0e83b,scheduled.irish,available,9.99,,high,low,9,name.com,,,
-a21c4c67-15e1-424c-a033-488cf1712e03,atsea.irish,available,5.98,31.98,low,low,6,namecheap,,,07/08/2026 12:16
 1259ee03-2968-459d-a12c-e7dbd4a401e6,parliamentary.irish,available,9.99,,medium,low,13,name.com,,,
-f3c1cb54-8d1f-4d2c-914a-2a6df0fcc054,coffeegrinder.irish,available,9.99,,high,low,14,name.com,,,
-a5254ab0-695e-4cea-8c8f-067a333aa23c,anechoic.irish,available,5.98,31.98,low,low,8,namecheap,,,
-0ace160b-c5cc-4785-88a7-c56bf1463bec,alterative.irish,available,5.98,31.98,low,low,10,namecheap,,,
+a5254ab0-695e-4cea-8c8f-067a333aa23c,anechoic.irish,available,5.98,31.98,medium,low,8,namecheap,,,
 851cc859-1227-4460-9ce3-f72f2249867f,ignite.irish,available,9.99,,high,low,6,name.com,,,
-79f66c4a-f408-4b41-9b0b-dcdcb31ecc27,confuse.irish,available,9.99,,medium,low,7,name.com,,,
+79f66c4a-f408-4b41-9b0b-dcdcb31ecc27,confuse.irish,available,9.99,,high,low,7,name.com,,,
 8f5d0ee0-b162-450b-a398-0c56ac583e7a,triple.irish,available,9.99,,high,low,6,name.com,,,
-79ec83ad-d723-4811-8919-f704d444e317,haiti.irish,available,,,medium,low,5,,,,
-4cd45626-990d-483e-a80d-a737d8a267f0,accessary.irish,available,5.98,31.98,low,low,9,namecheap,,,
-ff21eeed-b1a6-4776-af0a-1cf9a538cdc5,reminder.irish,available,9.99,,medium,low,8,name.com,,,
-c9678998-aafd-47f8-b886-6a44f1104aaf,anchoritic.irish,available,5.98,31.98,low,low,10,namecheap,,,
-a6e95b52-acc0-43a5-a8d5-736324341bbe,copewith.irish,available,9.99,,high,low,9,name.com,,,
-4ec1ad0e-f553-49c2-ad9e-e5150e92ce9d,fasttravel.irish,available,9.99,,high,low,11,name.com,,,
-555ffce3-aedc-4f59-8959-bfc648d76e73,ifyouaskme.irish,available,9.99,,medium,low,13,name.com,,,
-b723b26a-081d-4624-88e4-8c5bac0f7079,each.irish,available,9.99,27.99,high,low,4,name.com,,,
-02db333c-acc6-4a96-8fb0-b65209fc9e1b,moneyisnoobject.irish,available,9.99,,medium,low,18,name.com,,,
-2bb7d325-2076-4edf-9a05-6db7d8b8cbc3,stricken.irish,available,5.98,31.98,low,low,8,namecheap,,,
+79ec83ad-d723-4811-8919-f704d444e317,haiti.irish,available,,,high,low,5,,,,
+4cd45626-990d-483e-a80d-a737d8a267f0,accessary.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+ff21eeed-b1a6-4776-af0a-1cf9a538cdc5,reminder.irish,available,9.99,,high,low,8,name.com,,,
+2bb7d325-2076-4edf-9a05-6db7d8b8cbc3,stricken.irish,available,5.98,31.98,high,low,8,namecheap,,,
 7b8b4e30-7c36-420d-b44b-163376f26f14,laptop.irish,available,9.99,,high,low,6,name.com,,,
-b07361db-489f-4dad-9dde-1cc9c49e47d9,oklahoma.irish,available,9.99,,medium,low,8,name.com,,,
-751a698c-dec9-49d6-afd7-403eb8eaab24,twenty.irish,available,7.49,22.49,medium,low,6,namesilo,,,21/09/2026 12:24
+b07361db-489f-4dad-9dde-1cc9c49e47d9,oklahoma.irish,available,9.99,,high,low,8,name.com,,,
 a3c669d0-6fe1-4705-93c3-12830e86f2ea,bluetooth.irish,available,9.99,,high,low,9,name.com,,,
 230dfc98-5c58-4ef7-beea-f5f823f6ab66,increase.irish,available,9.99,,high,low,8,name.com,,,
-bde2513f-ab43-4493-b41f-0692cf3ed5f4,manual.irish,available,9.99,,medium,low,6,name.com,,,
-9b11eb29-90b8-498d-b4fe-738e2eb48f53,idiot.irish,available,7.49,22.49,low,low,5,namesilo,,,23/09/2026 07:42
-969aadf1-cb58-4e19-afb2-1acbf7ebac68,one.irish,premium,520,520,medium,low,3,namecheap,,,21/09/2026 10:37
+bde2513f-ab43-4493-b41f-0692cf3ed5f4,manual.irish,available,9.99,,high,low,6,name.com,,,
 eeee500d-3c7c-4fab-a326-9dddc29129d3,attraction.irish,available,9.99,,high,low,10,name.com,,,
-981dc8e5-f76f-43c2-bdd4-3b7f903615e6,chiefjustice.irish,available,9.99,,medium,low,13,name.com,,,
-d839ed8b-6a1f-48b5-b09e-7e67370e1a6d,pittsburgh.irish,available,9.99,,medium,low,10,name.com,,,
-cff2f625-b993-4016-af03-cb6b18b62f6f,playitsafe.irish,available,9.99,,medium,low,12,name.com,,,
-93e9dea8-086f-4c2d-93f7-76d974048a3e,independenceday.irish,available,9.99,,high,low,16,name.com,,,
-441a3348-7fa4-4a81-8b6a-1c9723538bc0,autoecious.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 19:51
+d839ed8b-6a1f-48b5-b09e-7e67370e1a6d,pittsburgh.irish,available,9.99,,high,low,10,name.com,,,
 63a24029-fa8f-41e6-a3d6-bdbaa224200d,height.irish,available,9.99,,high,low,6,name.com,,,
-b1f3f3e4-cbf2-4b60-b022-641b3b8baa18,autoerotic.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 20:01
+b1f3f3e4-cbf2-4b60-b022-641b3b8baa18,autoerotic.irish,available,5.98,31.98,medium,low,10,namecheap,,,07/08/2026 20:01
 e3853162-e461-4434-b657-768ae2b3131f,safe.irish,available,9.99,,high,medium,4,name.com,,,
 5a4906fa-1906-4ed7-a090-35d9a77d2c56,anything.irish,available,9.99,,high,low,8,name.com,,,
-1e709742-f076-4650-9e67-96bf8e0d42d7,ionlyworkhere.irish,available,9.99,,medium,low,16,name.com,,,
 347a4709-7ef2-4084-9235-305a622d0736,event.irish,available,9.99,,high,medium,5,name.com,,,
-d67d1654-d73a-449a-bae0-9e0b408de55a,anumberof.irish,available,9.99,,medium,low,11,name.com,,,
-5d308c9c-83fc-4eb2-91c2-62eacf52ef33,hecksno.irish,available,9.99,,medium,low,8,name.com,,,
-2417ad89-df50-4c01-aff4-a4d264f5ce6f,cordlesstelephone.irish,available,9.99,,high,low,18,name.com,,,
 d6bb1491-1276-4871-8d84-37d1dd53ab1e,cloth.irish,available,9.99,,high,low,5,name.com,,,
-5e6bbbeb-6382-4988-83bd-899b0137034e,whereabouts.irish,available,9.99,,low,low,11,name.com,,,
-ed7ad9d2-2597-42cd-bf75-01967190828d,frenchrepublic.irish,available,,,medium,low,15,,,,
-047a536a-cbc9-479a-9e4b-d5a180470d39,baptismal.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 15:05
-c08d1db4-2333-46b2-aa7d-b4a39acfe272,appositive.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 08:04
-bc6ddfd4-1d49-4614-abdd-9e9688a24412,anaglyphic.irish,available,5.98,31.98,low,low,10,namecheap,,,
+5e6bbbeb-6382-4988-83bd-899b0137034e,whereabouts.irish,available,9.99,,high,low,11,name.com,,,
+bc6ddfd4-1d49-4614-abdd-9e9688a24412,anaglyphic.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 13191e3a-83c0-4296-843c-3d6d045c6972,didnt.irish,available,9.99,,medium,low,5,name.com,,,
-199f87aa-0e79-4771-8ea0-d594e8d7dc41,sellbydate.irish,available,9.99,,medium,low,12,name.com,,,
-4255b8f3-33c0-47a8-bd23-11a1521e1578,admittable.irish,available,5.98,31.98,low,low,10,namecheap,,,
 28c9c3b8-f377-408d-af3a-5eb8cf57b330,daylight.irish,available,9.99,,high,low,8,name.com,,,
-3e302626-373d-4379-b927-19f415f58304,lvii.irish,available,5.98,31.98,low,low,4,namecheap,,,
-d452ba40-2c87-43df-97d6-425320c8eecc,steamed.irish,available,5.98,31.98,low,low,7,namecheap,,,
-98e05e98-439e-4912-8211-3984d0b6deeb,posterior.irish,available,5.98,31.98,low,low,9,namecheap,,,09/08/2026 11:12
-43fec54c-63e8-4357-af22-f8b9ce535743,bored.irish,available,9.99,27.99,low,low,5,name.com,,,23/09/2026 00:16
-7ff896b7-005e-446d-ace1-aab0b70f6c93,mahfucka.irish,available,9.99,,medium,low,8,name.com,,,
-1eda0b27-f7fc-42a6-bbe1-16a27c64ee43,youknow.irish,available,9.99,,high,low,8,name.com,,,
-9bbfea88-b025-4810-bd9a-2b42f59b4cc9,cathartic.irish,available,5.98,31.98,low,low,9,namecheap,,,05/08/2026 22:20
-9eef204a-aa63-4618-8ce6-3f74d244e7bd,bags.irish,available,9.99,,medium,low,4,name.com,,,
-a1a3e7eb-1c2e-4fe7-8ea1-8f99c6d01803,torturing.irish,available,5.98,31.98,low,low,9,namecheap,,,
-0f23c5d4-df3a-4256-b8fe-4f6f8d55b533,chocolatetruffle.irish,available,9.99,,high,low,17,name.com,,,
-97149262-d45c-4525-b3dc-ed72cf963c73,theabsurd.irish,available,5.98,31.98,low,low,10,namecheap,,,
-afc48328-5809-4707-83b6-d59f5baaea5c,complaint.irish,available,9.99,,medium,low,9,name.com,,,
-39373c05-0579-41d7-a18e-f614db59ffe5,everybit.irish,available,5.98,31.98,low,low,9,namecheap,,,13/09/2026 21:02
-46cb4427-3a07-46c7-8b78-ec432ea3bc65,hearable.irish,available,5.98,31.98,low,low,8,namecheap,,,07/08/2026 16:35
+d452ba40-2c87-43df-97d6-425320c8eecc,steamed.irish,available,5.98,31.98,high,low,7,namecheap,,,
+98e05e98-439e-4912-8211-3984d0b6deeb,posterior.irish,available,5.98,31.98,medium,low,9,namecheap,,,09/08/2026 11:12
+9bbfea88-b025-4810-bd9a-2b42f59b4cc9,cathartic.irish,available,5.98,31.98,high,low,9,namecheap,,,05/08/2026 22:20
+9eef204a-aa63-4618-8ce6-3f74d244e7bd,bags.irish,available,9.99,,high,low,4,name.com,,,
+a1a3e7eb-1c2e-4fe7-8ea1-8f99c6d01803,torturing.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+afc48328-5809-4707-83b6-d59f5baaea5c,complaint.irish,available,9.99,,high,low,9,name.com,,,
+46cb4427-3a07-46c7-8b78-ec432ea3bc65,hearable.irish,available,5.98,31.98,high,low,8,namecheap,,,07/08/2026 16:35
 41a941b3-ebf8-4e4e-9c50-ce8750e3d6fc,idea.irish,available,,,high,low,4,,,,
-aeefa929-74c6-48de-87a5-fb601512d4c4,rockrecord.irish,available,9.99,,high,low,11,name.com,,,
 4de1862b-8696-4977-81d8-a1289e7d0853,nondrinker.irish,available,,,medium,low,10,,,,
-e1258657-b664-4632-b8ca-e66b719c888d,howlatthemoon.irish,available,9.99,,high,low,16,name.com,,,
 f25474d0-ea9c-4f40-9e67-340074d195ab,lighten.irish,available,9.99,,high,low,7,name.com,,,
-449aec93-abc5-487d-9a0c-8fb784aaa5a6,lowly.irish,available,5.98,31.98,low,low,5,namecheap,,,08/08/2026 21:38
+449aec93-abc5-487d-9a0c-8fb784aaa5a6,lowly.irish,available,5.98,31.98,medium,low,5,namecheap,,,08/08/2026 21:38
 264e6d3c-5888-48ec-8f5c-dd286d6e0faf,unexpected.irish,available,9.99,,high,low,10,name.com,,,
-d119b6fa-0616-4309-b7b7-8991849c6c83,exalt.irish,available,5.98,31.98,medium,low,5,namecheap,,,
-5ea7153d-7a40-43e6-acc5-c5b623529b11,ballistic.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 10:31
-32f1ccaa-093e-4418-96dd-2b11ab2dba2d,thirtythree.irish,available,9.99,,high,low,12,name.com,,,
-d1984f55-eb7d-4280-b933-36b775034114,thisevening.irish,available,9.99,,low,low,12,name.com,,,
-42d66057-1b76-46ec-8224-a44493e56119,drinking.irish,available,9.99,,medium,low,8,name.com,,,
-faedb082-d24f-47a1-a728-e6f17ed98167,deskorganizer.irish,available,9.99,,medium,low,14,name.com,,,
-3c5d80c2-ce5e-4868-b427-ba810d637058,relatedto.irish,available,9.99,,medium,low,10,name.com,,,
+d119b6fa-0616-4309-b7b7-8991849c6c83,exalt.irish,available,5.98,31.98,high,low,5,namecheap,,,
+5ea7153d-7a40-43e6-acc5-c5b623529b11,ballistic.irish,available,5.98,31.98,high,low,9,namecheap,,,08/08/2026 10:31
+42d66057-1b76-46ec-8224-a44493e56119,drinking.irish,available,9.99,,high,low,8,name.com,,,
 01dd6dce-e056-4f0c-bccd-948571e551c9,trend.irish,available,9.99,,high,low,5,name.com,,,
-905ab341-dd71-40a7-87db-8605d43175c7,haveseenthismovie.irish,available,9.99,,medium,low,20,name.com,,,
 010450c0-0f55-4c87-9502-1d3b73858419,connect.irish,resell,,,high,medium,7,Blacknight Internet Solutions Ltd.,01/03/2017 19:23,01/03/2026 19:23,
-19f4b204-391c-457c-b1cd-15305c7d9148,annakournikova.irish,available,9.99,,high,low,15,name.com,,,
-a9af3176-359f-4f46-873c-c7eb5371438e,rulesarerules.irish,available,9.99,,medium,low,15,name.com,,,
-8d9f9648-7fbe-4928-89a7-fa22695f109d,havenotimefor.irish,available,9.99,,medium,low,16,name.com,,,
 9eda77cc-334b-4d53-9cc6-d3c422d2dbf2,rihanna.irish,available,9.99,,high,low,7,name.com,,,
-2bfadcb1-9d6d-4aca-8ce3-ce7ab9ed96de,everybodyelse.irish,available,9.99,,medium,low,14,name.com,,,
-7831bafe-75c0-4997-8a50-b3e86afdde5e,grocerylist.irish,available,9.99,,medium,low,12,name.com,,,
-5566c520-f88a-4b44-b2e1-58df748239ea,mainman.irish,available,9.99,,high,low,8,name.com,,,
 04ae7cc6-d82f-453c-b73e-79753e9556d9,junior.irish,available,9.99,,high,low,6,name.com,,,
-bffaad15-3d7d-45c4-8a24-cb2ed10ddf92,insteadof.irish,available,9.99,,medium,low,10,name.com,,,
-57fcde53-af30-498c-abb8-aa718c01f708,feather.irish,available,9.99,,medium,low,7,name.com,,,
-0d9acbe8-86d6-4aaa-ae07-98594db5e1e1,ambivalent.irish,available,5.98,31.98,low,low,10,namecheap,,,
-3b9156c5-8912-4f07-b7a2-6fa3a6dc60a9,affordable.irish,available,7.49,22.49,medium,low,10,namesilo,,,21/09/2026 21:59
+57fcde53-af30-498c-abb8-aa718c01f708,feather.irish,available,9.99,,high,low,7,name.com,,,
+0d9acbe8-86d6-4aaa-ae07-98594db5e1e1,ambivalent.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 4285465e-214d-4147-903a-8866facb356f,political.irish,available,9.99,,high,low,9,name.com,,,
-ea96d956-3197-457f-be2f-46d3cd253701,moviefilm.irish,available,9.99,,high,low,10,name.com,,,
-4d655eca-27fc-49ab-9921-eaf254bde3b6,bethere.irish,available,9.99,,medium,low,8,name.com,,,
-af796719-d8af-4b6c-b652-b1983d8e98d1,facetious.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 14:39
-62370e7b-f09c-49ad-9cff-c5f2ad1edde8,truant.irish,available,5.98,31.98,low,low,6,namecheap,,,08/08/2026 01:41
+af796719-d8af-4b6c-b652-b1983d8e98d1,facetious.irish,available,5.98,31.98,medium,low,9,namecheap,,,08/08/2026 14:39
+62370e7b-f09c-49ad-9cff-c5f2ad1edde8,truant.irish,available,5.98,31.98,high,low,6,namecheap,,,08/08/2026 01:41
 8a4ce7bc-cc47-436d-a50e-e19b3662a28d,fitness.irish,available,9.99,,high,low,7,name.com,,,
-e30bd864-3c36-4af1-a249-237e06f77580,bigger.irish,available,5.98,31.98,medium,low,6,namecheap,,,22/09/2026 20:34
-98fa4dae-6bce-45de-b5d5-3421aeb56358,xii.irish,available,7.49,22.49,low,low,3,namesilo,,,21/09/2026 11:25
-53e9bff3-78c2-4aaa-b09b-e4d7ceb6261c,afrikander.irish,available,5.98,31.98,low,low,10,namecheap,,,
-d3484164-746d-44ae-a90e-50742c1cda7f,westwood.irish,available,9.99,,medium,low,8,name.com,,,
-1fbd897a-0e1f-4b08-ad5b-15b14be11a49,passinggrade.irish,available,9.99,,medium,low,13,name.com,,,
-720acd31-7c81-4e05-8041-4776fecb7a58,admissive.irish,available,5.98,31.98,low,low,9,namecheap,,,
-9ce6dbb8-fa9d-473d-aeaa-4322e69dcbfb,gaspowered.irish,available,9.99,,medium,low,11,name.com,,,
-de2aa888-286c-4e89-95ec-0f774ab83cbf,lettertotheeditor.irish,available,9.99,,high,low,20,name.com,,,
-98730acf-fe17-4633-b140-09f46f39eaf7,discipline.irish,available,7.49,22.49,medium,low,10,namesilo,,,19/09/2026 11:34
-f9fbc758-df54-40bc-be82-db0273d501f9,prenuptial.irish,available,7.49,22.49,medium,low,10,namesilo,,,22/09/2026 06:05
-b450ce16-2e37-4be4-9852-ecbf5192236a,xcv.irish,available,5.98,31.98,low,low,3,namecheap,,,
-afbec2cc-c091-4e20-9f10-cd5c8a4563fe,breezy.irish,available,7.49,22.49,medium,low,6,namesilo,,,22/09/2026 22:40
-ce0fa773-8340-4ab1-b46b-69b7e58fa9d9,rocky.irish,available,5.98,31.98,low,low,5,namecheap,,,23/09/2026 01:13
-5dece455-1f0b-4d9c-a2e9-5fb46b403713,forty.irish,available,5.98,31.98,low,low,5,namecheap,,,
-ec52c01a-27ce-4faa-978a-77173a3f680e,lastminute.irish,available,9.99,,medium,low,11,name.com,,,
-8b1c834f-bfa0-4d5b-834d-951c6635c6cf,searchbox.irish,available,9.99,,high,low,10,name.com,,,
-a61f9162-c82f-4dcf-88e6-f00e179c065f,lock.irish,available,9.99,,medium,low,4,name.com,,,
-ffd06c76-2746-4a1c-8c32-fc0dfb3070d9,low.irish,available,5.98,31.98,low,low,3,namecheap,,,21/09/2026 13:54
-46f191b4-4b2f-488c-8462-a24956331ac6,located.irish,available,9.99,,medium,low,7,name.com,,,
+d3484164-746d-44ae-a90e-50742c1cda7f,westwood.irish,available,9.99,,high,low,8,name.com,,,
+b450ce16-2e37-4be4-9852-ecbf5192236a,xcv.irish,available,5.98,31.98,medium,low,3,namecheap,,,
+5dece455-1f0b-4d9c-a2e9-5fb46b403713,forty.irish,available,5.98,31.98,high,low,5,namecheap,,,
+a61f9162-c82f-4dcf-88e6-f00e179c065f,lock.irish,available,9.99,,high,low,4,name.com,,,
+46f191b4-4b2f-488c-8462-a24956331ac6,located.irish,available,9.99,,high,low,7,name.com,,,
 54daaeb8-3af9-4dc4-a0cf-bab957e521cd,possess.irish,available,9.99,,high,low,7,name.com,,,
-52d149e3-aa2c-4e02-a326-5ba50acd80ee,baking.irish,available,7.49,22.49,medium,low,6,namesilo,,,22/09/2026 16:25
-095d0d52-05f4-4791-aa0e-986068de8df0,company.irish,resell,,,medium,low,7,"GoDaddy.com, LLC",21/07/2020 22:23,21/07/2027 22:23,23/09/2026 03:31
-8dac64d6-0e7b-4015-85a3-2f3f65944f27,five.irish,available,5.98,31.98,medium,low,4,namecheap,,,
-0f39e8d3-8c4f-48c4-a4dd-e693cb9259cb,allstar.irish,available,9.99,,high,low,8,name.com,,,
+8dac64d6-0e7b-4015-85a3-2f3f65944f27,five.irish,available,5.98,31.98,high,low,4,namecheap,,,
 a482b9da-fc92-449b-a564-3a99b9016a29,heartthrob.irish,available,9.99,,high,low,10,name.com,,,
-3e416840-588b-4182-a841-fa2f3104858d,slight.irish,available,9.99,,medium,low,6,name.com,,,
+3e416840-588b-4182-a841-fa2f3104858d,slight.irish,available,9.99,,high,low,6,name.com,,,
 788084c0-2186-4f3d-a98f-923fe453c5c6,dislike.irish,available,9.99,,high,low,7,name.com,,,
-d7281714-cd8e-4d81-89a8-82e65eff9fe8,letoneloose.irish,available,9.99,,high,low,13,name.com,,,
-785df529-7735-46a1-b7ef-561a09c17e8c,atstake.irish,available,9.99,,medium,low,8,name.com,,,
-dc858ac1-0f70-4f2c-8c0d-d62272f2c509,accoutred.irish,available,5.98,31.98,low,low,9,namecheap,,,
-d2f7c7d1-9600-4f34-b822-974a8f1e49e5,authorityfigure.irish,available,9.99,,medium,low,16,name.com,,,
-be49181b-1a94-42e4-810d-b815f38e7804,upatree.irish,available,9.99,,low,low,9,name.com,,,
-0833786c-7aa1-4c37-97f2-f54ed1f5b814,nursery.irish,available,9.99,,medium,low,7,name.com,,,
-8d56924a-5f38-4877-8930-93967b35b407,democratic.irish,available,9.99,27.99,medium,low,10,name.com,,,
 d5afcab3-5b6b-4fee-ae61-66eea33882a6,lcd.irish,available,9.99,,high,low,3,name.com,,,
-f484b789-500f-4e5a-a8dd-a3095c012fc3,staugustine.irish,available,9.99,,medium,low,13,name.com,,,
 2a4913be-9f20-496a-8edd-2578b008f1c3,revered.irish,available,9.99,,high,low,7,name.com,,,
-13e74284-461a-41dc-bd2f-ff2e2d8847ad,tothinkthat.irish,available,9.99,,low,low,13,name.com,,,
-116e685f-ac53-47ae-bcd3-912a8ab18ae0,ardent.irish,available,5.98,31.98,medium,low,6,namecheap,,,06/08/2026 16:11
-f01cf7a3-2bab-436e-bcdd-560f7b12479a,grayheaded.irish,available,9.99,,medium,low,11,name.com,,,
+116e685f-ac53-47ae-bcd3-912a8ab18ae0,ardent.irish,available,5.98,31.98,high,low,6,namecheap,,,06/08/2026 16:11
 ff443af0-233a-46ce-99d6-bfeec8ffaaa2,stress.irish,available,9.99,,high,low,6,name.com,,,
-51cc72ba-9d79-4521-89ef-93cb9e0debfc,rheumatoid.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 23:10
+51cc72ba-9d79-4521-89ef-93cb9e0debfc,rheumatoid.irish,available,5.98,31.98,high,low,10,namecheap,,,06/08/2026 23:10
 949d1007-882d-45ad-b69e-a6ad0df85f64,superman.irish,available,9.99,,high,low,8,name.com,,,
 95f24df4-bf1b-407c-8270-d0c7d7556737,basketball.irish,available,9.99,,high,low,10,name.com,,,
 c2b3b0ab-9023-452c-85af-925e8ccfae86,inspirational.irish,available,9.99,,high,low,13,name.com,,,
 9ec48294-c817-404b-ba20-8ccc9aaa8cfd,fuckster.irish,available,9.99,,medium,low,8,name.com,,,
-d12769f8-0caa-406e-ad7a-341837d96d46,westend.irish,available,9.99,,medium,low,8,name.com,,,
 e3b310df-9832-4cae-8b5b-8495a668ec97,became.irish,available,9.99,,medium,low,6,name.com,,,
-b593832f-4567-4f67-be75-76b2214ee9e6,assertable.irish,available,5.98,31.98,low,low,10,namecheap,,,
 15d3e96c-0bd1-4f67-b33f-3eb1846dc76f,sensor.irish,available,9.99,,high,low,6,name.com,,,
-e5e6aa46-eb39-4274-8236-8a0dd38d2ac4,facts.irish,available,7.49,22.49,medium,low,5,namesilo,,,23/09/2026 17:41
-6e95422a-c455-4768-8497-5d891585b7a2,trounce.irish,available,5.98,31.98,low,low,7,namecheap,,,09/08/2026 05:27
-7020eea1-5c1f-4bb4-8859-8f2ac34b8156,circinate.irish,available,5.98,31.98,low,low,9,namecheap,,,
-2cb4ac45-eb61-4922-8485-3ab53fac4843,aflutter.irish,available,5.98,31.98,low,low,8,namecheap,,,
-b6381287-ab59-4429-97dd-562604730cdf,landscape.irish,available,9.99,,high,low,9,name.com,,,
+6e95422a-c455-4768-8497-5d891585b7a2,trounce.irish,available,5.98,31.98,medium,low,7,namecheap,,,09/08/2026 05:27
+7020eea1-5c1f-4bb4-8859-8f2ac34b8156,circinate.irish,available,5.98,31.98,high,low,9,namecheap,,,
+2cb4ac45-eb61-4922-8485-3ab53fac4843,aflutter.irish,available,5.98,31.98,medium,low,8,namecheap,,,
 8c6eb11c-2905-420b-b0cd-597bc4459d52,destructive.irish,available,9.99,,medium,low,11,name.com,,,
-dc398716-bd84-4bb6-8e32-22eb554b6771,inthethickofit.irish,available,9.99,,medium,low,18,name.com,,,
-48b0ee37-8a93-4310-ad20-279a4c6beeab,thewhile.irish,available,9.99,,low,low,9,name.com,,,
 cee52704-1764-4e78-b002-05a20b986623,warfare.irish,available,9.99,,high,low,7,name.com,,,
-f745c199-9938-4623-9c45-6d4f49a74c19,inquestion.irish,available,9.99,,medium,low,11,name.com,,,
-ad428ac5-37ab-4d9d-acd3-55a796dcea4c,portofentry.irish,available,9.99,,low,low,13,name.com,,,
-fa18f8af-8a38-4c14-a1c8-4de6fcabee21,sag.irish,available,9.99,,medium,low,3,name.com,,,
+fa18f8af-8a38-4c14-a1c8-4de6fcabee21,sag.irish,available,9.99,,high,low,3,name.com,,,
 e544ad66-4faa-43ef-91e6-37f3e63ca9ec,seated.irish,available,9.99,,high,low,6,name.com,,,
-798c818d-df0e-4415-8c37-0d1409d09969,abysmal.irish,available,5.98,31.98,low,low,7,namecheap,,,
+798c818d-df0e-4415-8c37-0d1409d09969,abysmal.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 3aa716b7-819c-429f-93a2-dab55c116807,playstation.irish,available,,,high,low,11,,,,
 065c1cf4-2ba8-48a2-9fd7-f7df7b109610,noon.irish,available,9.99,,high,low,4,name.com,,,
-48749892-fe80-42a5-b577-f3187af3482e,sadness.irish,available,9.99,,medium,low,7,name.com,,,
-6180364f-2b66-46a9-a79b-82b9ded90055,plush.irish,available,9.99,,medium,low,5,name.com,,,
+48749892-fe80-42a5-b577-f3187af3482e,sadness.irish,available,9.99,,high,low,7,name.com,,,
+6180364f-2b66-46a9-a79b-82b9ded90055,plush.irish,available,9.99,,high,low,5,name.com,,,
 20a47b77-7666-4db4-80c0-c2bca547e9ce,uncontrollable.irish,available,9.99,,medium,low,14,name.com,,,
-6cf5109a-ca20-45dc-9ff5-a2ee78efb7f2,tatafornow.irish,available,9.99,,low,low,13,name.com,,,
 90a360fd-b409-4a26-8602-58f12988a534,satisfy.irish,available,9.99,,high,low,7,name.com,,,
-85ef1514-ca82-494a-be28-33a1a9cbae83,playoff.irish,available,9.99,,high,low,8,name.com,,,
-74869bed-406b-4e1f-9b3d-273cba1425f9,atomic.irish,available,7.49,22.49,low,low,6,namesilo,,,22/09/2026 11:03
-5668b646-db55-4b85-8810-e192749cc903,showup.irish,available,9.99,,high,low,7,name.com,,,
-2e25fd98-5b22-4537-ae18-4ddeef525a20,wordofmouth.irish,available,9.99,,low,low,13,name.com,,,
-3e707896-3515-4cd9-bcb8-4f3ee61d05f0,ancestral.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+3e707896-3515-4cd9-bcb8-4f3ee61d05f0,ancestral.irish,available,5.98,31.98,high,low,9,namecheap,,,
 58548342-ecba-4e5b-b257-3e8fa370e979,compensate.irish,available,9.99,,high,low,10,name.com,,,
 76054d7c-7afd-4e32-b651-45ed3d62ff7d,corona.irish,available,,,high,low,6,,,,
-2ff55a7f-5573-4f6e-9c76-49060a3716d5,thirtyone.irish,available,5.98,31.98,low,low,10,namecheap,,,
-4059e0e6-8b2a-4db2-a5cb-c8935a5767ab,idiotic.irish,available,5.98,31.98,low,low,7,namecheap,,,24/09/2026 01:17
-a6bea9cb-f363-486a-ac2d-a6451b826edd,addicted.irish,available,7.49,22.49,medium,low,8,namesilo,,,21/09/2026 17:07
-9ba41696-ebb9-4d5c-9f74-ab0d6354c3ca,oneman.irish,available,9.99,,low,low,7,name.com,,,
 837c7547-d964-4bb3-9f39-22779cb7a8fd,pineapple.irish,available,9.99,,high,low,9,name.com,,,
-0225d4fb-1fe6-4bd6-99ef-f0cd21b0cd0c,baboonish.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 03:42
-641ac3d6-9ce7-40ab-b531-57079a9b660c,takeaknee.irish,available,9.99,,low,low,11,name.com,,,
-0ac46589-2210-4ad3-8010-281d4c703415,yubacity.irish,available,9.99,,medium,low,9,name.com,,,
 e80d43b6-824b-4eaa-bb42-24789fe4afa4,imagine.irish,available,9.99,,high,medium,7,name.com,,,
-b4aeee3c-cf55-4747-a474-6eab23f58109,complacently.irish,available,9.99,,medium,low,12,name.com,,,
 b0d5b2bc-c450-482f-a2bf-716442f3a4c2,most.irish,available,9.99,,high,low,4,name.com,,,
-6226103c-2c8b-4fb6-9ed7-fc8e05141976,rockmusic.irish,available,9.99,,medium,low,10,name.com,,,
-2a6e93ed-bcef-49c2-b3a1-00b40eadd07b,waitingroom.irish,available,9.99,,high,low,12,name.com,,,
 ef401158-2c0a-46f2-8c76-c5c8e82d44f6,attitude.irish,available,9.99,,high,low,8,name.com,,,
-220c8c28-c07a-43cd-b4d1-5b3a07d96ad1,intakesystem.irish,available,9.99,,medium,low,13,name.com,,,
-eed51bd1-8cfa-4872-8740-2d1cebb4bbbb,gelpen.irish,available,9.99,,high,low,7,name.com,,,
-3978dc1c-13c8-406c-90c4-bb00fd0468d5,agitating.irish,available,5.98,31.98,low,low,9,namecheap,,,
-0098bf5d-4183-43a9-a71b-8b4ddb6a7961,stateoftheart.irish,available,9.99,,high,low,16,name.com,,,
-2b49c2e8-72e4-4b6b-94b4-57e588adebfb,baseborn.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 21:34
-32067dfe-328e-4e04-83e9-56509ca229ed,alarm.irish,available,5.98,31.98,low,low,5,namecheap,,,
-77bd3f02-8503-4b6f-9ef7-851bba8f9f46,twothumbsup.irish,available,9.99,,low,low,13,name.com,,,
-eda4a5bf-12f4-4c63-bfd2-d99c43b52194,boomorbust.irish,available,9.99,,high,low,12,name.com,,,
+3978dc1c-13c8-406c-90c4-bb00fd0468d5,agitating.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+2b49c2e8-72e4-4b6b-94b4-57e588adebfb,baseborn.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/08/2026 21:34
+32067dfe-328e-4e04-83e9-56509ca229ed,alarm.irish,available,5.98,31.98,high,low,5,namecheap,,,
 2bbd56f2-fa52-446e-bed7-d33ebc6240c9,know.irish,available,9.99,,high,low,4,name.com,,,
-2cadaf38-439d-40b6-9260-69dd71d28022,excelat.irish,available,9.99,,high,low,8,name.com,,,
-6550ffe5-afa4-4c59-81c3-d2f8ee74f6fd,dowjones.irish,available,,,high,low,9,,,,
-d7a3dbf8-6850-4ff1-9d1b-bd7c32ad406c,commix.irish,available,5.98,31.98,low,low,6,namecheap,,,
-698e5035-f4e4-4aed-8a2a-d1a40bc5dcf2,abducting.irish,available,5.98,31.98,low,low,9,namecheap,,,
+d7a3dbf8-6850-4ff1-9d1b-bd7c32ad406c,commix.irish,available,5.98,31.98,high,low,6,namecheap,,,
 425ed3ec-0f93-41f7-a722-d0d42355934a,sequel.irish,available,9.99,,high,low,6,name.com,,,
-63ab5f67-b5ef-4ff0-aeea-cda1e60f4075,daft.irish,available,5.98,31.98,low,low,4,namecheap,,,06/08/2026 20:50
-ff5e6682-96dc-49ee-a042-15c85ff5beb3,quitea.irish,available,9.99,,medium,low,7,name.com,,,
-2f275a76-b732-4ebd-aa35-d16d1ee1c7cb,letthecatout.irish,available,9.99,,high,low,15,name.com,,,
-67e5298f-a3f1-4eff-8122-14f18fc02702,atbest.irish,available,9.99,,medium,low,7,name.com,,,
-d3e41133-b9fd-4bfb-95f0-5e21422a0408,front.irish,available,9.99,,high,low,5,name.com,,,
-5fffe014-e64c-40b5-88e2-bf1dc54fae88,pentad.irish,available,5.98,31.98,low,low,6,namecheap,,,
-99664be0-b040-4cb5-bb2b-f6dcdbfd92fb,germanrepublic.irish,available,9.99,,medium,low,15,name.com,,,
-5a14aeca-bec1-4169-bb81-9b5d17d3baba,jerking.irish,available,5.98,31.98,low,low,7,namecheap,,,06/08/2026 21:58
+63ab5f67-b5ef-4ff0-aeea-cda1e60f4075,daft.irish,available,5.98,31.98,high,low,4,namecheap,,,06/08/2026 20:50
+5fffe014-e64c-40b5-88e2-bf1dc54fae88,pentad.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+5a14aeca-bec1-4169-bb81-9b5d17d3baba,jerking.irish,available,5.98,31.98,high,low,7,namecheap,,,06/08/2026 21:58
 91a0fa36-aa76-49a4-a49d-c60932c85c78,bagdad.irish,available,9.99,,medium,low,6,name.com,,,
 4b713240-cb2b-4816-bfc3-e459de54cfd5,guide.irish,available,,,high,low,5,,,,
 ec26ac4a-cf7e-4374-8ae5-2eb87c9136d9,idk.irish,available,9.99,,medium,low,3,name.com,,,
-46360de4-05ec-461e-a425-de19aa7c9708,sweptback.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 06:42
-ca66052b-209c-4d4a-9bee-eaf40f2e5d59,whitevinegar.irish,available,9.99,,low,low,13,name.com,,,
 ac1ed4c6-7802-419f-bd4a-84ea2578c11e,minimum.irish,available,9.99,,high,low,7,name.com,,,
-b9fa1e7f-6e9d-4d9c-859c-28636557537c,robotic.irish,available,5.98,31.98,low,low,7,namecheap,,,22/09/2026 14:05
-cf4409b1-bd2d-4045-a039-46bd2d1ab67a,laboratory.irish,available,9.99,27.99,medium,low,10,name.com,,,24/09/2026 03:29
 375a6795-5697-4199-b2d4-c5ba9a69535b,midwinter.irish,available,9.99,,medium,low,10,name.com,,,
-21eb1ee5-7d9a-4087-b3e7-b47b9a15b61d,haven.irish,available,9.99,,medium,medium,5,name.com,,,
-7931e11f-6726-4c11-a697-76ca9f5ccef0,commonguineapig.irish,available,9.99,,medium,low,17,name.com,,,
-6d38d4f6-9abb-479a-96af-3d392aeb3720,accursed.irish,available,5.98,31.98,low,low,8,namecheap,,,
-0074eb8e-e947-4964-a0ac-5716bbd509c8,biggovernment.irish,available,9.99,,medium,low,14,name.com,,,
-6a3b1637-2983-4de7-b5ca-32d0201abfa8,opportunityclass.irish,available,9.99,,high,low,17,name.com,,,
-be2ed485-e17c-4d63-b0d8-7bfead89c9cc,arminian.irish,available,5.98,31.98,low,low,8,namecheap,,,06/08/2026 19:49
-e5c3cd3f-5e5d-4f81-b2e9-cea935438832,corrupted.irish,available,5.98,31.98,low,low,9,namecheap,,,23/09/2026 23:59
-7164f6fc-fc64-45a8-a145-895400d3d139,avaricious.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 21:48
+21eb1ee5-7d9a-4087-b3e7-b47b9a15b61d,haven.irish,available,9.99,,high,medium,5,name.com,,,
+6d38d4f6-9abb-479a-96af-3d392aeb3720,accursed.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+7164f6fc-fc64-45a8-a145-895400d3d139,avaricious.irish,available,5.98,31.98,medium,low,10,namecheap,,,07/08/2026 21:48
 6051dcf9-d2c2-4f80-8b45-ff3321a8f32b,lip.irish,available,9.99,,high,low,3,name.com,,,
-03185abf-6e42-482d-8736-924b2ecffa0c,archducal.irish,available,5.98,31.98,low,low,9,namecheap,,,06/08/2026 15:27
 08ac8516-9fd0-429c-8533-dceddaa5fba7,characteristics.irish,available,9.99,,medium,low,15,name.com,,,
-837945a1-4f48-4dff-addf-d02651afd430,central.irish,available,7.49,22.49,low,low,7,namesilo,,,23/09/2026 12:46
-030811f8-c67c-49ed-8e34-d64e90cdc732,bounce.irish,available,7.49,22.49,medium,low,6,namesilo,,,23/09/2026 01:22
-d5cccc6d-6e40-4a72-861f-9b506fcde3d3,algometric.irish,available,5.98,31.98,low,low,10,namecheap,,,
-84cb30b7-6d36-4fd7-95a2-2b76b30e73b6,asthedayislong.irish,available,9.99,,medium,low,18,name.com,,,
-12aa6d53-1b31-40ad-956f-a9418458774d,mobiletelephone.irish,available,9.99,,high,low,16,name.com,,,
-00052ab6-defb-47ff-b1dc-724402c39c73,politicalparty.irish,available,9.99,,medium,low,15,name.com,,,
-91afdbbb-52ac-46e4-92f3-6adbc6ba6bbd,prepacked.irish,available,9.99,,medium,low,9,name.com,,,
-1dff1672-c54d-40b6-a724-a2394256aa8b,fiery.irish,available,5.98,31.98,low,low,5,namecheap,,,06/08/2026 16:24
-be64b2ce-5404-4170-bc60-d59a1292032a,cut.irish,available,7.49,22.49,low,low,3,namesilo,,,24/09/2026 04:08
-602cb9f9-c3f1-4ee8-8ad8-85397791696c,recovering.irish,available,7.49,22.49,medium,low,10,namesilo,,,23/09/2026 22:44
-d3a44bc9-f0de-4229-9d8b-316acae56e23,alluring.irish,available,7.49,22.49,medium,low,8,namesilo,,,22/09/2026 01:34
-8c98161b-21d1-4f4b-8011-778245adfffd,withopenarms.irish,available,9.99,,low,low,14,name.com,,,
-467c011b-6b70-4a98-a1fa-39b2e8394cc3,appealable.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 05:46
-789bb8dc-f194-474d-bb04-85eeba1ebcbe,anti.irish,available,5.98,31.98,medium,low,4,namecheap,,,
-1e04055e-9d7a-4354-af5e-d984742a7faa,goodasnew.irish,available,9.99,,high,low,11,name.com,,,
-f8dbdc18-cc7e-4227-ba77-deb890e2d724,wrapped.irish,available,5.98,31.98,low,low,7,namecheap,,,
-143d2a4c-4bfc-4292-9498-bd777efc54b0,suntea.irish,available,9.99,,high,low,7,name.com,,,
-0abfb5ba-6ef6-4479-b335-48d29c1e61ff,worm.irish,available,9.99,,medium,low,4,name.com,,,
+d5cccc6d-6e40-4a72-861f-9b506fcde3d3,algometric.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+1dff1672-c54d-40b6-a724-a2394256aa8b,fiery.irish,available,5.98,31.98,high,low,5,namecheap,,,06/08/2026 16:24
+789bb8dc-f194-474d-bb04-85eeba1ebcbe,anti.irish,available,5.98,31.98,high,low,4,namecheap,,,
+f8dbdc18-cc7e-4227-ba77-deb890e2d724,wrapped.irish,available,5.98,31.98,high,low,7,namecheap,,,
+0abfb5ba-6ef6-4479-b335-48d29c1e61ff,worm.irish,available,9.99,,high,low,4,name.com,,,
 dd5fd055-4a91-40f9-9bf4-ca5533a0424f,cinderella.irish,available,9.99,,high,low,10,name.com,,,
-aa9d2810-8cf8-47d3-ab18-7cfdc57cf85a,fortified.irish,available,5.98,31.98,low,low,9,namecheap,,,09/08/2026 00:17
-bc372740-e967-4f03-9ea5-46886053b8ce,backhand.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 05:43
-9b029764-8a61-4250-90c1-7dccaee0c997,transitions.irish,available,9.99,,low,low,11,name.com,,,
+aa9d2810-8cf8-47d3-ab18-7cfdc57cf85a,fortified.irish,available,5.98,31.98,high,low,9,namecheap,,,09/08/2026 00:17
+bc372740-e967-4f03-9ea5-46886053b8ce,backhand.irish,available,5.98,31.98,high,low,8,namecheap,,,08/08/2026 05:43
+9b029764-8a61-4250-90c1-7dccaee0c997,transitions.irish,available,9.99,,medium,low,11,name.com,,,
 ae153128-5b1c-4daa-bf17-21c59088808f,steak.irish,available,9.99,,high,low,5,name.com,,,
-8a38e596-998c-4e87-a6d9-a1133ab8460c,spurious.irish,available,5.98,31.98,low,low,8,namecheap,,,09/08/2026 00:03
-ea89892d-5402-4298-9658-308c9eb5a9d8,comedian.irish,available,7.49,22.49,medium,low,8,namesilo,,,23/09/2026 15:26
-93e7cbcc-7920-4f0f-82ce-af10e7f36e4d,attimes.irish,available,9.99,,medium,low,8,name.com,,,
-88b3d746-ee3c-489f-83e4-ee8fb2e300c8,warofwords.irish,available,9.99,,low,low,12,name.com,,,
-502e6dbf-f153-4b37-a9b0-f42d3225fac7,twelfth.irish,available,5.98,31.98,low,low,7,namecheap,,,
-8f5c13e2-48b9-4b76-86e6-aa94d480d9ff,spherical.irish,available,5.98,31.98,low,low,9,namecheap,,,08/08/2026 10:21
-274e0d53-1934-4242-b81f-e9cf07ff0901,revised.irish,available,9.99,,medium,low,7,name.com,,,
-4b7f88b7-9e42-4b2f-bdcb-c3e9003ad11e,heroic.irish,available,9.99,,high,low,6,name.com,,,
-16f6b139-9d76-4568-ac5f-9e702fbf6b76,breastbone.irish,available,9.99,,medium,low,11,name.com,,,
-aba9f635-e150-42bb-b98e-31e3826d1dc2,ample.irish,available,5.98,31.98,low,low,5,namecheap,,,
+8a38e596-998c-4e87-a6d9-a1133ab8460c,spurious.irish,available,5.98,31.98,medium,low,8,namecheap,,,09/08/2026 00:03
+502e6dbf-f153-4b37-a9b0-f42d3225fac7,twelfth.irish,available,5.98,31.98,high,low,7,namecheap,,,
+8f5c13e2-48b9-4b76-86e6-aa94d480d9ff,spherical.irish,available,5.98,31.98,high,low,9,namecheap,,,08/08/2026 10:21
+274e0d53-1934-4242-b81f-e9cf07ff0901,revised.irish,available,9.99,,high,low,7,name.com,,,
+aba9f635-e150-42bb-b98e-31e3826d1dc2,ample.irish,available,5.98,31.98,high,low,5,namecheap,,,
 e69a49b4-732e-4b6e-b608-f681480fa3c6,tylenol.irish,available,,,high,low,7,,,,
-3fd0e16a-2423-4e71-abc1-b394842a6d53,whiskery.irish,available,5.98,31.98,low,low,8,namecheap,,,08/08/2026 16:20
-4e3d7d6d-3593-44e0-ad51-d22c4d05f8d3,crush.irish,available,5.98,31.98,medium,low,5,namecheap,,,09/08/2026 05:21
+4e3d7d6d-3593-44e0-ad51-d22c4d05f8d3,crush.irish,available,5.98,31.98,high,low,5,namecheap,,,09/08/2026 05:21
 1802cd3c-25ff-4d52-a2f5-a7cfe0831b64,affluence.irish,available,9.99,,high,low,9,name.com,,,
-63837068-adea-4e41-8dd2-62305f8b2e1b,newwave.irish,available,5.98,31.98,medium,low,8,namecheap,,,07/08/2026 21:44
-2362f5ab-e78e-4ec2-8c3e-1e0129d51def,attachable.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 15:36
-948e3ec6-f041-4248-b52c-6bb49298ef36,chiseling.irish,available,9.99,,medium,low,9,name.com,,,
-467a5a7d-477f-4303-ab16-815de397abc9,burnt.irish,available,7.49,22.49,low,low,5,namesilo,,,23/09/2026 11:41
-0bfcb426-a9b4-4bc2-a2c6-92bbdc7d004e,fulgid.irish,available,5.98,31.98,low,low,6,namecheap,,,
-631c1a16-60bd-4f78-9df2-76f5faf1a356,mahfugga.irish,available,9.99,,medium,low,8,name.com,,,
-6f0d1cf7-c379-486c-9f45-541a8a668aa7,open.irish,available,7.49,22.49,low,low,4,namesilo,,,22/09/2026 09:52
-a09b29dd-fa11-42e9-8c0c-dfd4fd249838,sportsfan.irish,available,9.99,,high,low,10,name.com,,,
-7fd63d94-80bf-4dac-a19c-e586f8299375,accuser.irish,available,9.99,,low,low,7,name.com,,,
+2362f5ab-e78e-4ec2-8c3e-1e0129d51def,attachable.irish,available,5.98,31.98,high,low,10,namecheap,,,07/08/2026 15:36
+0bfcb426-a9b4-4bc2-a2c6-92bbdc7d004e,fulgid.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+7fd63d94-80bf-4dac-a19c-e586f8299375,accuser.irish,available,9.99,,high,low,7,name.com,,,
 c23f5aad-936e-494c-9d71-e8c1f0c3f10e,ant.irish,available,,,high,low,3,,,,
-6f88e04f-2fd2-4de5-b8e0-2c2adfdbec6b,formal.irish,available,7.49,22.49,medium,low,6,namesilo,,,24/09/2026 00:47
-cb8aaaab-9267-4880-8742-664d6fc83351,completely.irish,available,5.98,31.98,low,low,10,namecheap,,,22/09/2026 00:16
 36b0061c-ff41-4a2c-b3ac-ee6da6669e81,halloween.irish,available,9.99,,high,low,9,name.com,,,
-ba780d1e-55f2-4830-950b-9441306242f1,datefrom.irish,available,9.99,,medium,low,9,name.com,,,
 1aeaa138-603c-4e59-85ba-f1d0b8a15d97,farm.irish,available,,,high,low,4,,,,
-0a548af2-21ca-4316-a9a6-c9cb3c8a1675,borrow.irish,available,9.99,,medium,low,6,name.com,,,
-7308bccd-b793-4ac9-a28f-6c58c9f5ef37,acidreflux.irish,available,9.99,,low,low,11,name.com,,,
-badda214-d2b5-4c7f-8396-6b05bdff9ac8,thisinstant.irish,available,9.99,,low,low,12,name.com,,,
-9b9e58d5-df2d-43c2-8545-09c3344f7c44,diminished.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 15:00
-c2e3625d-64a7-483a-967b-ab684ce1b7bf,rightatrium.irish,available,9.99,,low,low,12,name.com,,,
+0a548af2-21ca-4316-a9a6-c9cb3c8a1675,borrow.irish,available,9.99,,high,low,6,name.com,,,
+9b9e58d5-df2d-43c2-8545-09c3344f7c44,diminished.irish,available,5.98,31.98,medium,low,10,namecheap,,,07/08/2026 15:00
 d813280d-df9d-49cb-ab24-229d50b45a6e,stranger.irish,available,9.99,,high,low,8,name.com,,,
-042f3675-a332-49f3-a2ca-8d20b3ee2688,dry.irish,available,9.99,27.99,high,low,3,name.com,,,
-7a4d315f-b08c-4627-800f-1be7b95aa4a9,youneverknow.irish,available,9.99,,low,low,14,name.com,,,
-194669c1-e34d-4a1c-9b6d-6b85cef81868,argentic.irish,available,5.98,31.98,low,low,8,namecheap,,,06/08/2026 18:06
-c37c5596-6fc6-4e3d-8232-60f57c4b268b,definitely.irish,available,9.99,,medium,low,10,name.com,,,
-d7f001b2-2e34-463e-a017-4e572d71e036,neworleans.irish,available,9.99,,medium,low,11,name.com,,,
-efb360b1-21d7-436e-9cea-6956937ebae4,trio.irish,available,7.49,22.49,medium,low,4,namesilo,,,21/09/2026 13:05
-c47d73fb-1662-4108-a377-bc15e9bb2a0b,civilwar.irish,available,9.99,,medium,low,9,name.com,,,
-2aea2c8b-5959-449e-ac4c-f7e0b43257c2,amorphous.irish,available,5.98,31.98,low,low,9,namecheap,,,
-c05ea9e1-724b-4e4c-9322-f8426694d386,ternary.irish,available,5.98,31.98,low,low,7,namecheap,,,
+194669c1-e34d-4a1c-9b6d-6b85cef81868,argentic.irish,available,5.98,31.98,medium,low,8,namecheap,,,06/08/2026 18:06
+c37c5596-6fc6-4e3d-8232-60f57c4b268b,definitely.irish,available,9.99,,high,low,10,name.com,,,
+2aea2c8b-5959-449e-ac4c-f7e0b43257c2,amorphous.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+c05ea9e1-724b-4e4c-9322-f8426694d386,ternary.irish,available,5.98,31.98,high,low,7,namecheap,,,
 2c63ea8f-de0c-4ba0-a796-e2f2cc46b682,supermodel.irish,available,9.99,,high,low,10,name.com,,,
-f5591b4c-ff13-430a-8dff-44aea2863f5d,enlivening.irish,available,5.98,31.98,low,low,10,namecheap,,,
-92a4a631-6152-4829-88d2-dbf8fdca70c1,imaginable.irish,available,7.49,22.49,medium,low,10,namesilo,,,23/09/2026 18:44
+f5591b4c-ff13-430a-8dff-44aea2863f5d,enlivening.irish,available,5.98,31.98,medium,low,10,namecheap,,,
 c73e4150-c4f5-4b25-a747-986bf0567863,condense.irish,available,9.99,,high,low,8,name.com,,,
-aa075554-7f3d-4a33-b0d5-81fa0f78efb3,vexatious.irish,available,5.98,31.98,low,low,9,namecheap,,,
-b4e6d1cd-7474-41f9-8568-cc736ffd26a0,cutshort.irish,available,9.99,,medium,low,9,name.com,,,
-9f50df74-d61e-45c3-841c-ceed643ec921,broad.irish,available,5.98,31.98,medium,low,5,namecheap,,,19/09/2026 06:03
-f725f0a5-f342-481e-ac0d-a4e27a9bd02e,lover.irish,available,7.49,22.49,medium,low,5,namesilo,,,23/09/2026 10:15
-d842dd8b-c210-4484-b9a9-c88d5c4d79ea,acanthoid.irish,available,5.98,31.98,low,low,9,namecheap,,,
-f8001b84-e409-4b6d-b295-2bb492079a68,cloud.irish,resell,,,medium,medium,5,Dynadot Inc,24/04/2026 21:28,24/04/2027 21:28,08/09/2026 12:26
+aa075554-7f3d-4a33-b0d5-81fa0f78efb3,vexatious.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+f8001b84-e409-4b6d-b295-2bb492079a68,cloud.irish,resell,,,high,medium,5,Dynadot Inc,24/04/2026 21:28,24/04/2027 21:28,08/09/2026 12:26
 53499ad6-bc6b-4cc9-b810-a794d7022490,employer.irish,available,9.99,,high,low,8,name.com,,,
 d8192ecb-cdff-4865-92b0-9aff849bfb83,girth.irish,available,9.99,,high,low,5,name.com,,,
-45ef9134-8a85-494c-b61c-715bff0897af,setloose.irish,available,9.99,,low,low,9,name.com,,,
-bb6d416e-0215-4c77-849a-2b3b2a99de53,unreal.irish,available,7.49,22.49,low,low,6,namesilo,,,22/09/2026 09:00
 bbb4b560-8755-4030-94b5-b30c140fb3d4,notwithstanding.irish,available,9.99,,medium,low,15,name.com,,,
-76092b57-8046-4d65-834f-c7df201c2906,interior.irish,available,9.99,,medium,low,8,name.com,,,
-634a8758-8b27-426f-b475-6ce00c739e27,mixed.irish,available,7.49,22.49,low,low,5,namesilo,,,19/09/2026 12:23
-01d4748b-7ca0-4a38-954c-888d328209eb,anuric.irish,available,5.98,31.98,low,low,6,namecheap,,,05/08/2026 21:22
-1538c1fc-1c46-400f-a39f-9bc30b8a3704,buyfood.irish,available,9.99,,high,low,8,name.com,,,
-05f848ef-d0c5-4ef0-a48b-93b3f6e18996,godhead.irish,available,5.98,31.98,low,low,7,namecheap,,,
+76092b57-8046-4d65-834f-c7df201c2906,interior.irish,available,9.99,,high,low,8,name.com,,,
+05f848ef-d0c5-4ef0-a48b-93b3f6e18996,godhead.irish,available,5.98,31.98,high,low,7,namecheap,,,
 2c35af42-747c-4ee9-961b-dc09b050c065,jock.irish,available,9.99,,high,low,4,name.com,,,
-5c642f08-9da5-480b-8acd-d77698b077ac,amerciable.irish,available,5.98,31.98,low,low,10,namecheap,,,
-def8bed6-73e9-47fb-ae01-3198d552b4b2,social.irish,premium,260,260,medium,low,6,namecheap,,,19/09/2026 17:20
-9c2833a6-85d9-4d1a-916c-95a8bc49e567,goodandproper.irish,available,9.99,,medium,low,15,name.com,,,
-88138b70-19fa-4652-9e92-9e888fd9ef40,coffeemaker.irish,available,9.99,,high,low,12,name.com,,,
-08c55cc7-7bcc-4d3d-8f1d-ad65f226cb36,articled.irish,available,5.98,31.98,low,low,8,namecheap,,,06/08/2026 08:28
-42e6da95-3f8a-4145-bb50-b054adebe1fa,armorclad.irish,available,5.98,31.98,low,low,10,namecheap,,,06/08/2026 20:05
-629edf61-ce3b-449c-8c81-0e1b1c4f0677,airportnovel.irish,available,5.98,31.98,low,low,13,namecheap,,,08/09/2026 03:28
+08c55cc7-7bcc-4d3d-8f1d-ad65f226cb36,articled.irish,available,5.98,31.98,medium,low,8,namecheap,,,06/08/2026 08:28
 4a8f18a3-ab59-4f79-812d-5a4bb3952ab3,waterflow.irish,available,9.99,,high,low,9,name.com,,,
-d8b077cb-c078-4484-815c-bbe95c482b05,shaky.irish,available,9.99,,medium,low,5,name.com,,,
+d8b077cb-c078-4484-815c-bbe95c482b05,shaky.irish,available,9.99,,high,low,5,name.com,,,
 6b41b832-6eac-4b1d-955e-2ed502ef51e6,lesson.irish,available,9.99,,high,low,6,name.com,,,
-4eeb72ba-d261-4b79-a433-3feb1719bb3e,exercisebike.irish,available,9.99,,high,low,13,name.com,,,
-e7591787-d97c-43d3-8ee4-4f56b75b3b2a,dominating.irish,available,5.98,31.98,low,low,10,namecheap,,,07/08/2026 19:40
-2ca77a4f-b1b8-40e6-9cb4-5466a5f56156,activated.irish,available,7.49,22.49,medium,low,9,namesilo,,,21/09/2026 16:32
+e7591787-d97c-43d3-8ee4-4f56b75b3b2a,dominating.irish,available,5.98,31.98,medium,low,10,namecheap,,,07/08/2026 19:40
 62514530-808f-467b-ade3-98848e7b0058,pregnant.irish,available,9.99,,high,low,8,name.com,,,
-98f9717a-37d3-4b4e-bae3-dead005589ec,sixtysix.irish,available,5.98,31.98,low,low,9,namecheap,,,
-cd4bfdcd-cfc3-4350-bd49-bf13e95306a8,readfor.irish,available,9.99,,low,low,8,name.com,,,
-813fbdbf-6c51-4847-9b0b-f174e43afec5,germanreich.irish,available,9.99,,medium,low,12,name.com,,,
 f1097922-cda9-4e49-b86a-1c8dd8431308,poolside.irish,available,9.99,,high,low,8,name.com,,,
 14987fdf-ae17-4dcc-9de2-d893d1bc6f84,tomorrow.irish,available,9.99,,high,medium,8,name.com,,,
-e6b6d78f-9a40-42ba-82a2-88fafaa9bcef,pronouncing.irish,available,9.99,,medium,low,11,name.com,,,
-256e5771-de7e-4400-bc9c-1230931cf85a,sincerely.irish,available,9.99,,medium,low,9,name.com,,,
+256e5771-de7e-4400-bc9c-1230931cf85a,sincerely.irish,available,9.99,,high,low,9,name.com,,,
 4442ce12-820b-462d-a803-6b50fcfeea24,await.irish,available,9.99,,high,low,5,name.com,,,
 d919a3a5-dfff-4614-b37b-e621703d2125,workings.irish,available,9.99,,high,low,8,name.com,,,
 ecded7bf-e695-40ee-92ba-98d188c6f923,arbitrarily.irish,available,9.99,,medium,low,11,name.com,,,
 c400c814-ec8d-4c02-98e8-29d872eb90aa,include.irish,available,9.99,,high,low,7,name.com,,,
-eeef42c6-831c-4262-9ce5-764c7c30ccba,fannyadams.irish,available,9.99,,medium,low,11,name.com,,,
-850449df-23de-482b-bb00-7b37a8a25ad7,queens.irish,available,9.99,,medium,low,6,name.com,,,
-ffd472f1-ab0c-4dd2-ae17-4342f0ebaddd,substitution.irish,available,9.99,,low,low,12,name.com,,,
+850449df-23de-482b-bb00-7b37a8a25ad7,queens.irish,available,9.99,,high,low,6,name.com,,,
+ffd472f1-ab0c-4dd2-ae17-4342f0ebaddd,substitution.irish,available,9.99,,high,low,12,name.com,,,
 ecdd4721-5e2d-45fd-8c0b-7e73ebb689a0,tower.irish,available,9.99,,high,low,5,name.com,,,
 2d5728d1-ee1d-412b-ada7-5d4de017235e,trained.irish,available,9.99,,high,low,7,name.com,,,
-ba0fce9e-7130-430a-8703-481337d85297,agrologic.irish,available,5.98,31.98,low,low,9,namecheap,,,
-21e8ecf1-4d23-479d-bcae-428a031733e9,westbranch.irish,available,9.99,,low,low,11,name.com,,,
-cce95f89-afda-480f-9b64-00b2d2ab6b23,makegoodtime.irish,available,9.99,,high,low,14,name.com,,,
+ba0fce9e-7130-430a-8703-481337d85297,agrologic.irish,available,5.98,31.98,medium,low,9,namecheap,,,
 adcbb480-fc3f-490e-b3e6-fa40bebc0313,primitive.irish,available,9.99,,high,low,9,name.com,,,
-48fd0ad2-90ac-43bb-96d0-375afce89c99,spinous.irish,available,5.98,31.98,low,low,7,namecheap,,,
+48fd0ad2-90ac-43bb-96d0-375afce89c99,spinous.irish,available,5.98,31.98,medium,low,7,namecheap,,,
 2c12a70c-9dcb-4929-85e2-314ae809ab66,practicing.irish,available,9.99,,high,low,10,name.com,,,
-d4224662-85ca-4dde-93d6-0ff114b5fea2,inlightof.irish,available,9.99,,medium,low,11,name.com,,,
 dcf13ce9-d389-4299-8e20-235e277700bb,setting.irish,available,9.99,,high,low,7,name.com,,,
-fe4696a4-4b60-41ef-97b6-5e508691201d,alkalotic.irish,available,5.98,31.98,low,low,9,namecheap,,,
 96fef04e-1502-4636-9a93-68f0d9541965,interview.irish,available,9.99,,high,low,9,name.com,,,
-cb383f66-ee80-4364-96e9-044d0e2ac644,alive.irish,available,7.49,22.49,medium,low,5,namesilo,,,22/09/2026 05:04
-94656567-0882-4721-8c57-edd4288648cc,locally.irish,available,9.99,,medium,low,7,name.com,,,
-eef03ca2-4910-481a-9aea-2ff112625adc,whoever.irish,available,9.99,,low,low,7,name.com,,,
-985e7e99-465b-4679-846e-b1b759093678,gutcheck.irish,available,9.99,,medium,low,9,name.com,,,
-3c4d7ba3-3888-4ec1-ae2c-e7bbcd9eec47,alberteinstein.irish,available,9.99,,high,low,15,name.com,,,
-43a916ba-8990-43ba-9457-a7b60c206ed0,thanksto.irish,available,9.99,,medium,low,9,name.com,,,
-f3be589d-bf56-4834-b1fd-6a285ef5e94f,attainable.irish,available,7.49,22.49,medium,low,10,namesilo,,,19/09/2026 04:15
+94656567-0882-4721-8c57-edd4288648cc,locally.irish,available,9.99,,high,low,7,name.com,,,
+eef03ca2-4910-481a-9aea-2ff112625adc,whoever.irish,available,9.99,,medium,low,7,name.com,,,
 3ad4ab25-42d5-4687-bf69-8f28d866356f,cap.irish,available,9.99,,high,low,3,name.com,,,
-f6bae623-4deb-435c-8c03-b97d759ac55b,based.irish,available,9.99,27.99,medium,low,5,name.com,,,22/09/2026 17:49
 42141192-a734-49a5-bc38-bf1a0dd98944,sounding.irish,available,9.99,,high,low,8,name.com,,,
-a6f20f0d-6a21-4393-9ae2-1b8f69ab5369,rhoda.irish,available,9.99,,medium,low,5,name.com,,,
-0696381d-dee2-4fbe-90b5-4aea85c77195,proficient.irish,available,7.49,22.49,medium,low,10,namesilo,,,21/09/2026 17:23
-8a2bab86-b3bb-4d46-9c1e-684ad14e21e5,mass.irish,available,7.49,22.49,medium,low,4,namesilo,,,21/09/2026 22:50
+a6f20f0d-6a21-4393-9ae2-1b8f69ab5369,rhoda.irish,available,9.99,,high,low,5,name.com,,,
+d93deec8-29e3-477a-adb2-60cf6eb7c70d,cxv.irish,available,5.98,31.98,high,low,3,namecheap,,,
+8d3f2512-5380-4fea-b6d9-f7791cb4ae97,ennead.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+6eee4b3b-488b-4e07-b6e3-98ceaf45e184,weave.irish,available,9.99,,high,low,5,name.com,,,
+23d38724-5eee-4cf1-9bec-cb6302a321be,snapping.irish,available,9.99,,high,low,8,name.com,,,
+f3048dbd-4686-4281-85b2-28085dfc3bc2,environmental.irish,available,9.99,,high,low,13,name.com,,,
+37acf5d2-c26e-46c2-a707-9308ebe1e1fe,vie.irish,available,9.99,,high,low,3,name.com,,,
+0da933f6-f049-42cc-a754-f8be3c95c599,repulsive.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+4fd3aa68-2994-436c-91c3-a1d02e4d3eaa,more.irish,available,9.99,,high,medium,4,name.com,,,
+c9b0b932-0e75-4951-b9a0-e34ebfefc01d,astern.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+71a2f4c5-5ecc-4c26-a6ea-29cec0d17542,roof.irish,available,9.99,,high,low,4,name.com,,,
+a8e974d0-e343-44fc-81ea-fe9697907788,bed.irish,available,9.99,,high,low,3,name.com,,,
+33f1e217-16cb-47b1-bb83-433ec247eafd,naturally.irish,available,9.99,,high,low,9,name.com,,,
+ab0076a8-7131-4674-bf0b-e089cf2d31e5,awhile.irish,available,9.99,,medium,low,6,name.com,,,
+a212fb83-7996-4bcb-a1ce-d18829aa8b5b,pyrenees.irish,available,9.99,,high,low,8,name.com,,,
+56c75553-5ab4-408f-ba4d-405124bc82f1,unassuming.irish,available,9.99,,high,low,10,name.com,,,
+17945c0b-171c-406c-9861-29c5096cac55,dough.irish,available,5.98,31.98,high,low,5,namecheap,,,08/09/2026 03:53
+bf7e4783-3cb5-4999-a129-68e409ec9277,alkalic.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+37f35821-ecda-4e99-a26c-e6b8e35f2284,barbecued.irish,available,5.98,31.98,high,low,9,namecheap,,,08/08/2026 16:25
+840732fb-e617-4225-8d9e-2ff0e8aa3534,closer.irish,available,9.99,,high,low,6,name.com,,,
+59ede01f-2c87-4505-a0d8-13f41dbc7f4b,kansas.irish,available,9.99,,high,low,6,name.com,,,
+ec54ad9f-8c03-41a5-a454-5aa6236fbce2,vector.irish,available,9.99,,high,low,6,name.com,,,
+32b5709f-3531-4f80-bfd6-c7e711e5f6a7,stable.irish,available,9.99,,high,low,6,name.com,,,
+72975905-b84b-4e99-bff9-7ad877a5c4e4,fatigue.irish,available,9.99,,high,low,7,name.com,,,
+cba252f0-d566-4ed1-97b8-803ad5890b71,hic.irish,available,9.99,,high,low,3,name.com,,,
+ddd5add4-796a-4b26-a0d2-fe5ce00eb410,heads.irish,available,9.99,,high,low,5,name.com,,,
+095f6735-7e4f-47e3-bed8-277ecfa80291,navy.irish,available,9.99,,high,low,4,name.com,,,
+6ae1a7cb-d647-4cb8-9613-3ae3ff2acba6,toast.irish,available,9.99,,high,low,5,name.com,,,
+f3dca5b5-ef06-4633-b64f-97c2f803cb15,pointy.irish,available,9.99,,high,low,6,name.com,,,
+fdabc74b-c97b-4c44-be48-10fc5e186a20,yelled.irish,available,9.99,,high,low,6,name.com,,,
+d5eb3636-780e-49a1-bc49-afdd9b317b66,revolt.irish,available,9.99,,high,low,6,name.com,,,
+8545d716-b947-436f-b43c-cd1e8120c415,chairman.irish,available,9.99,,high,low,8,name.com,,,
+24e59a9b-cf9a-43d8-a3e5-9d7668f24120,bedewed.irish,available,5.98,31.98,low,low,7,namecheap,,,09/08/2026 06:46
+9cee469c-628a-4636-aba1-435c49ba7e07,abounding.irish,available,5.98,31.98,high,low,9,namecheap,,,
+715d2544-1ba1-4d0f-8068-a0f485800495,loved.irish,available,9.99,,high,low,5,name.com,,,
+49ea2df9-566e-47e6-9d87-64e802351fc2,retina.irish,available,9.99,,high,low,6,name.com,,,
+3cbfeb47-48c1-428f-8ed9-188554b60ac0,campaign.irish,available,9.99,,high,low,8,name.com,,,
+8f859d98-9373-46d9-8125-e19ec2dfc5a7,soup.irish,available,9.99,,high,low,4,name.com,,,
+319a031c-fd13-4f52-9cb3-2c64e2e2dbf7,suspect.irish,available,9.99,,high,low,7,name.com,,,
+1be70c97-60b6-4bcd-aef3-8a38b45ab74b,armenian.irish,available,5.98,31.98,high,low,8,namecheap,,,06/08/2026 19:39
+8071ecdf-20e7-497b-ae0e-291f474ac226,major.irish,available,9.99,,high,low,5,name.com,,,
+0a49c16f-c227-4ed3-9c00-45aa9b9428dd,memorise.irish,available,9.99,,high,low,8,name.com,,,
+0424f3b5-1bd3-416d-8653-8ea4e8e1b310,commission.irish,available,9.99,,high,low,10,name.com,,,
+98754d3d-d7d4-4bff-920f-beae368d461d,starred.irish,available,5.98,31.98,medium,low,7,namecheap,,,07/08/2026 08:52
+4829dac6-776d-4d41-b6be-ef8800d46e9e,approach.irish,available,5.98,31.98,high,low,8,namecheap,,,06/08/2026 08:44
+ed575345-3d6c-4ddd-8877-9210c87e4d84,conflicted.irish,available,9.99,,medium,low,10,name.com,,,
+dea3e680-4f87-4ebc-8048-b0a544bf544c,proceed.irish,available,9.99,,high,low,7,name.com,,,
+ec5a58a2-dcb2-41e8-86bc-f8bd6cb31f08,diminutive.irish,available,5.98,31.98,high,low,10,namecheap,,,08/08/2026 14:10
+0d3097e5-1aff-4f34-bd9c-88fa94313e73,crayola.irish,available,,,high,low,7,,,,
+715baa9c-89f6-4714-8117-8d2c244194d5,sunlight.irish,available,9.99,,high,low,8,name.com,,,
+24291c5c-7c22-4058-9101-20920af75f6b,pad.irish,available,9.99,,high,low,3,name.com,,,
+ea7c9300-d3d6-4f2b-8748-d5ad59b33108,latter.irish,available,9.99,,high,low,6,name.com,,,
+fdbefb84-4caf-4a7b-b1ef-fd5db80f1131,volvo.irish,available,9.99,,high,low,5,name.com,,,
+4023af7b-be2c-4099-9dfc-941bada150aa,therefore.irish,available,9.99,,high,low,9,name.com,,,
+8aea1f6b-8023-4672-ba61-20f6729cd294,towed.irish,available,9.99,,medium,low,5,name.com,,,
+e5f19be6-6d1b-49b5-b31e-df0ffb601911,wordplay.irish,available,9.99,,high,low,9,name.com,,,
+a524ea75-2b87-48a9-9a5b-c791af115018,peeking.irish,available,9.99,,high,low,7,name.com,,,
+f8ed9931-357a-4e5a-8373-f3d7f645656f,normal.irish,available,,,high,low,6,,,,
+bdbc5120-3b53-4127-af5c-743ba2431c48,greet.irish,available,9.99,,high,low,5,name.com,,,
+829c72f8-03ce-4c18-8c1a-bbe660638cd4,cautionary.irish,available,5.98,31.98,high,low,10,namecheap,,,
+7536cfdd-7a16-44e8-a768-02522387e7bb,stations.irish,available,9.99,,high,low,8,name.com,,,
+4c19a025-c74f-4f32-84a7-10701812e840,singletree.irish,available,9.99,,medium,low,11,name.com,,,
+c92436aa-2c91-4ea5-a9dd-a59ae06c18de,unbeatable.irish,available,9.99,,high,low,10,name.com,,,
+fa178438-5167-4778-9072-4002bb28e27d,arcuate.irish,available,5.98,31.98,medium,low,7,namecheap,,,06/08/2026 14:49
+076732f7-94c3-4fe4-b73a-a3b5d880910c,snore.irish,available,9.99,,high,low,5,name.com,,,
+b9fe93c7-ed66-45e4-96a1-d8933ec37934,sitting.irish,available,9.99,,high,low,7,name.com,,,
+168448e7-17d4-4224-993b-dd34f69a9233,trial.irish,available,9.99,,high,low,5,name.com,,,
+11512f7b-7eb0-4773-bef5-6f59358833e3,least.irish,available,9.99,,high,low,5,name.com,,,
+aae4670b-730f-41c4-8847-73cda53981ee,picked.irish,available,9.99,,high,low,6,name.com,,,
+c80f420e-09c8-4ef2-be8d-f11544676943,critic.irish,available,9.99,,high,low,6,name.com,,,
+73003e86-4ef9-46d1-98d1-b57f4233a961,condition.irish,available,9.99,,high,low,9,name.com,,,
+6e99545a-3268-4012-843a-d70caa060a9b,sloppy.irish,available,5.98,31.98,high,low,6,namecheap,,,08/08/2026 08:22
+503da6ac-6b74-4286-a9e3-dcbb4a1d8e4c,barky.irish,available,5.98,31.98,medium,low,5,namecheap,,,08/08/2026 19:46
+7c3b9f49-e9c4-45e4-ac79-d7c2ae12b203,advisor.irish,available,9.99,,high,low,7,name.com,,,
+2993365d-a3cd-4af4-a018-3c8301b6130b,fig.irish,available,9.99,,high,low,3,name.com,,,
+5d44c22c-9fb8-4486-ae43-177e9c946b08,adjective.irish,available,5.98,31.98,high,low,9,namecheap,,,
+665f4a95-f5e3-492e-adaa-5d5929c61dd3,childhood.irish,available,9.99,,high,low,9,name.com,,,
+5d526018-bca5-41b3-b2f3-1ef0cb7c20da,jar.irish,available,9.99,,high,low,3,name.com,,,
+4bc8514c-fff0-4ac2-822f-3ebf2d082cfb,citizenship.irish,available,9.99,,high,low,11,name.com,,,
+9f15293e-0507-44d5-a2bf-af1abff1f9f5,http.irish,available,,,high,low,4,,,,
+2223b6f6-e1ac-4ade-baed-89949e4785cb,miserable.irish,available,5.98,31.98,high,low,9,namecheap,,,
+a7a07539-228f-4a0b-b687-d77c05c6849c,breakfast.irish,available,5.98,31.98,high,low,9,namecheap,,,04/09/2026 13:27
+e9c38937-d135-489b-8c5d-c8fb7a942cd8,trolling.irish,available,9.99,,high,low,8,name.com,,,
+40c1b4e5-8a41-408f-8744-1428809e4f81,barometric.irish,available,5.98,31.98,medium,low,10,namecheap,,,08/08/2026 20:06
+47e9b6e8-4a25-42c4-9490-6648193f19d9,barn.irish,available,9.99,,high,low,4,name.com,,,
+a07dbaeb-81be-4a33-b192-a1b1aededb5f,carrier.irish,available,9.99,,high,low,7,name.com,,,
+c07eae9e-4d66-4d81-a077-ccb5579b9189,anaclitic.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+5900c86a-79c3-4066-aee6-4cd986480400,stray.irish,available,9.99,,high,low,5,name.com,,,
+faadc061-4300-4a04-85f5-a61fefd3cae6,canada.irish,available,,,high,low,6,,,,
+4782630a-9609-4631-bb5b-e510fd8996a5,masters.irish,available,9.99,,high,low,7,name.com,,,
+c167d3fd-2d6c-401d-91f0-5b0c2473a0dd,nitrous.irish,available,5.98,31.98,high,low,7,namecheap,,,08/08/2026 03:03
+b84be585-a20a-463d-8198-d9f4890b429a,adviseable.irish,available,9.99,,high,low,10,name.com,,,
+1593ab64-4e1c-4dbe-8d83-a6f5cb1d8873,treasure.irish,available,9.99,,high,low,8,name.com,,,
+08ac403a-2e1b-497d-837d-29ebef367e4c,tormented.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+11054e89-113b-40a9-bfcc-5dd749769753,philips.irish,available,,,high,low,7,,,,
+1790c254-41fa-4188-9c90-02080d454a22,paddle.irish,available,,,high,low,6,,,,
+468681bd-a3d8-4e00-9407-b5f6b596c13a,roasted.irish,available,9.99,,high,low,7,name.com,,,
+a1b359c0-8f4f-40d2-8f5d-df115d95408d,zooming.irish,available,9.99,,high,low,7,name.com,,,
+07a01976-644c-42de-be54-8812115b42bf,occasion.irish,available,9.99,,high,low,8,name.com,,,
+944f3838-d01f-485c-9824-4383d353dbf1,westlake.irish,available,9.99,,high,low,8,name.com,,,
+0d48ef01-85a1-4589-b40d-15e43e7c96a9,reliability.irish,available,9.99,,high,low,11,name.com,,,
+9ce1b371-f2cd-400a-bba5-be9f167e2bb3,higher.irish,available,9.99,,high,low,6,name.com,,,
+c5a49ffd-cfdc-4e02-9685-acb3cde4e852,state.irish,available,,,high,low,5,,,,
+22630745-9ae4-4c93-9717-8e8a35fea327,incorrect.irish,available,9.99,,high,low,9,name.com,,,
+b7ac17b1-b044-4f94-ad2e-bfc0130f421a,psychologist.irish,available,9.99,,high,low,12,name.com,,,
+95e58bbf-d969-469a-95c6-81faae76e8f1,seaside.irish,available,9.99,,high,low,7,name.com,,,
+66e472d9-3ab7-448d-813e-ef8b803bf62a,adamantine.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+f4dc96d3-6195-49c9-9163-055b5762ab49,valid.irish,available,9.99,,high,low,5,name.com,,,
+29d3140d-9f79-4dee-82d4-f3cda2699554,barbed.irish,available,5.98,31.98,medium,low,6,namecheap,,,08/08/2026 16:36
+b46dd52d-00ed-4635-a103-81f06f5095e1,prolife.irish,available,9.99,,high,low,8,name.com,,,
+f38259e1-345a-42e3-97f4-7e01aacf1ad8,sanctioned.irish,available,5.98,31.98,high,low,10,namecheap,,,06/08/2026 09:24
+be732230-e818-4943-9780-34fea9a1bbb5,panic.irish,available,9.99,,high,low,5,name.com,,,
+70588732-1320-4fc3-9f31-3de9d94d1296,hawaii.irish,available,9.99,,high,low,6,name.com,,,
+8c970c80-2983-41fd-9f5c-887f3262a0d9,sore.irish,available,5.98,31.98,high,low,4,namecheap,,,
+6d7419fe-6716-48ea-9a83-c8645f40eb49,abridged.irish,available,5.98,31.98,high,low,8,namecheap,,,
+7efc3d85-07db-41c9-b37a-d3fda1abe0ab,fort.irish,available,9.99,,high,low,4,name.com,,,
+ff54741d-d954-4cd6-a63c-572be08005a1,pain.irish,available,9.99,,high,low,4,name.com,,,
+ce960394-fe75-4e9e-a98e-fd8337bd32d1,jay.irish,available,9.99,,high,low,3,name.com,,,
+ad717b41-4b17-42cc-95a8-009113f93aeb,print.irish,available,9.99,,high,medium,5,name.com,,,
+50c0d714-0e9c-4a58-b7b5-7760e84b5f61,risk.irish,available,5.98,31.98,high,low,4,namecheap,,,08/09/2026 12:49
+5a86e5be-e904-4f12-95e2-0f9f6190cb01,say.irish,available,9.99,,high,low,3,name.com,,,
+f4c808fe-8555-47c5-a86f-f38535a89f3e,attract.irish,available,9.99,,high,low,7,name.com,,,
+268811c8-06cc-4a47-86a7-5665e2c8049b,pinging.irish,available,9.99,,high,low,7,name.com,,,
+3dbfa2c6-99ec-49ac-89a4-48cb09ac529e,rgb.irish,available,9.99,,high,low,3,name.com,,,
+43d37faf-8a6f-4869-a338-433c63337159,monopoly.irish,available,9.99,,high,low,8,name.com,,,
+b2a5b030-7450-49fb-ac74-b169ee16b1e7,lie.irish,available,9.99,,high,low,3,name.com,,,
+37faa81b-d236-4180-b090-5473a694b329,shoeless.irish,available,5.98,31.98,medium,low,8,namecheap,,,08/08/2026 19:04
+a46f4c87-5b73-44d1-af15-99ff2f5b3c88,affinal.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+92a81311-97d6-490c-9688-fe90e608bf00,amphibian.irish,available,5.98,31.98,high,low,9,namecheap,,,
+3d8c38d0-740d-4b7b-9a21-48fb9f969985,demonstration.irish,available,9.99,,high,low,13,name.com,,,
+b13973f0-6729-4887-b6c1-ed60dae97ac5,learnt.irish,available,9.99,,medium,low,6,name.com,,,
+36e8a691-96e0-4038-a467-b69a6fca30f8,flourishing.irish,available,9.99,,high,low,11,name.com,,,
+25c7f714-49a1-45c8-ae15-138429ed6185,piano.irish,available,9.99,,high,low,5,name.com,,,
+61ec73cf-fc8b-4f6d-b9a7-0173cd4a19ec,sharply.irish,available,9.99,,medium,low,7,name.com,,,
+293f5785-a5ce-4a36-b42e-311da99ca56f,wallet.irish,resell,,,high,medium,6,Dynadot Inc,22/10/2025 21:27,22/10/2026 21:27,
+1348455f-c5ee-43c0-bb00-50676d843d21,supported.irish,available,9.99,,high,low,9,name.com,,,
+1c92feab-af2a-416f-808c-84d57a87c12b,guys.irish,available,9.99,,high,low,4,name.com,,,
+f8da0429-2ff5-4edf-8450-19fa4d916eb2,meaningful.irish,available,9.99,,high,low,10,name.com,,,
+355d81e0-fdc9-4236-8388-65f3d6cdac00,coffeeman.irish,available,9.99,,high,low,9,name.com,,,
+e63e2ee8-23f3-4166-bf91-b348b55fd711,remington.irish,available,9.99,,high,low,9,name.com,,,
+c327ec90-429f-4abd-84d1-11b835814ede,grandchild.irish,available,9.99,,high,low,10,name.com,,,
+15e0fb24-c211-4a8a-a58f-943e7cb5c1a0,disco.irish,available,9.99,,high,low,5,name.com,,,
+71912f84-f1fe-44ba-b112-5b2440a67e59,wintertime.irish,available,9.99,,high,low,11,name.com,,,
+a17ee289-9134-4ff6-894f-d7c34920824b,fought.irish,available,9.99,,high,low,6,name.com,,,
+ab3da11b-eddb-4f16-8efc-76c8ce951bcc,publicity.irish,available,9.99,,high,low,9,name.com,,,
+18ee09f7-5294-4851-b8dc-bb424ed43ead,sighted.irish,available,9.99,,high,low,7,name.com,,,
+485974c6-1fc0-4377-9a1b-f9e15e118e1e,blanket.irish,available,5.98,31.98,high,low,7,namecheap,,,08/09/2026 07:17
+d20de456-ebc9-47f8-b244-2abf3f2f3e13,acetonic.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+7a610225-2875-4dba-904a-1467328a1ce5,fruit.irish,available,9.99,,high,low,5,name.com,,,
+fad66473-627c-45e7-8063-cdd016a730a3,crocodile.irish,available,9.99,,high,low,9,name.com,,,
+bc99cac5-fae6-4704-abd9-1bc79a36b99b,wikileaks.irish,available,9.99,,medium,low,9,name.com,,,
+09e6adbb-140b-4ee2-ba40-28f4a24b4d01,cognisant.irish,available,5.98,31.98,medium,low,9,namecheap,,,08/08/2026 00:18
+5416fd69-9c93-4958-a2e0-78e64e4f81a3,mazed.irish,available,5.98,31.98,medium,low,5,namecheap,,,07/08/2026 12:07
+ee386d95-3077-4395-acba-f70d637dbccb,dice.irish,available,9.99,,high,low,4,name.com,,,
+1f3d3d0f-3c3b-4530-a8f2-f4d3e971b7ac,retiring.irish,available,9.99,,high,low,8,name.com,,,
+0492f8c1-0822-4064-bfa4-8c25da7b5c34,estimate.irish,available,9.99,,high,low,8,name.com,,,
+4052d46d-893c-4e74-a305-416cf7fc4479,heptad.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+a3c836c9-086a-4e9e-8108-71b5ffb788df,citizen.irish,available,9.99,,high,low,7,name.com,,,
+107d1543-a43c-4924-a6e3-f94d68c6adde,panoplied.irish,available,5.98,31.98,medium,low,9,namecheap,,,06/08/2026 21:42
+147da66b-12bb-4c88-8e84-85861c321cb0,chagrined.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+da04ef68-411f-450d-aa0f-d4727cff230c,airport.irish,available,9.99,,high,low,7,name.com,,,
+112bee59-9635-4960-af28-d3910ffb53b5,alamo.irish,available,,,high,low,5,,,,
+49adb802-fc4c-4ede-9a5d-ec957296a771,thanks.irish,available,9.99,,high,low,6,name.com,,,
+95aac21f-112f-498f-b82c-4568d533cd8c,spreadsheet.irish,available,9.99,,high,low,11,name.com,,,
+d3690c24-f75f-486e-bb9c-dcc438a02fb9,league.irish,available,9.99,,high,low,6,name.com,,,
+f498bbd7-ac0b-41e9-87be-051a91e0fd33,almighty.irish,available,5.98,31.98,high,low,8,namecheap,,,
+d9489b5e-85d7-40b3-a136-8b5ae9f934e3,jacket.irish,available,9.99,,high,low,6,name.com,,,
+ebba2ad2-4553-4ede-bbc2-da5d62398baa,rep.irish,available,9.99,,high,low,3,name.com,,,
+69081d4c-a54e-4cb7-94ec-f7e1328eed36,chairperson.irish,available,9.99,,high,low,11,name.com,,,
+7270980c-a344-411f-8dea-6c76d618191c,prickly.irish,available,5.98,31.98,high,low,7,namecheap,,,08/08/2026 17:34
+137dfd8f-6537-42f5-a062-c99d6cc50434,athenian.irish,available,5.98,31.98,medium,low,8,namecheap,,,07/08/2026 13:08
+6d077304-44b3-4648-8fe5-93797a00182f,shoulders.irish,available,9.99,,high,low,9,name.com,,,
+7057fa02-86e6-4e65-bba1-41463da6c88c,acts.irish,available,9.99,,high,low,4,name.com,,,
+0054ad3a-d70d-45c7-9f0d-49016d42c671,newfound.irish,available,5.98,31.98,medium,low,9,namecheap,,,08/09/2026 04:48
+084e128d-b0a4-48a4-80dd-376c69252913,loaded.irish,available,5.98,31.98,high,low,6,namecheap,,,
+214cf0ab-70c0-4f1e-bd76-967b70a4ea24,stranded.irish,available,9.99,,high,low,8,name.com,,,
+92471ef2-75fd-486a-a640-4740c8f9f26a,significant.irish,available,9.99,,high,low,11,name.com,,,
+aa1c57b3-9c51-4ef9-86a4-012405fb72e1,nun.irish,available,9.99,,high,low,3,name.com,,,
+b9cd48ab-4c58-456c-89c8-dab80ccc12c6,location.irish,available,9.99,,high,low,8,name.com,,,
+bb12b2cd-4bb1-4874-925d-44dd0f96295d,corresponding.irish,available,9.99,,high,low,13,name.com,,,
+2b5c9940-0d97-41f4-98e4-eacf9c4b0137,lot.irish,available,9.99,,high,low,3,name.com,,,
+26a541e4-b835-44cc-891e-ba8fb19cbf26,captive.irish,available,5.98,31.98,high,low,7,namecheap,,,
+31f801ea-f110-49e2-938f-21048223ebdd,album.irish,available,9.99,,high,low,5,name.com,,,
+64998ba8-e7ec-4a43-9f6d-98aaab1bf9e5,plier.irish,available,9.99,,high,low,5,name.com,,,
+99ed77c0-a572-4024-91e8-bcd6328092aa,feb.irish,available,9.99,,high,low,3,name.com,,,
+5944d56b-ef30-40be-81c4-9c2b4353b792,digits.irish,available,9.99,,high,low,6,name.com,,,
+2b6a671d-20b4-4383-b808-405bcf81c58a,scratchy.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+81e33d30-1d40-42be-a7cc-773ff46b06a2,endowment.irish,available,9.99,,high,low,9,name.com,,,
+143b245f-5c74-46e0-8ec5-2561f765f806,barber.irish,available,9.99,,high,low,6,name.com,,,
+9ca56963-49fc-4d18-bbc5-eae5f43028fb,areal.irish,available,5.98,31.98,medium,low,5,namecheap,,,06/08/2026 17:21
+beb8e8a0-dfaa-48e7-a29f-1c4bfcd9511a,beaten.irish,available,5.98,31.98,medium,low,6,namecheap,,,09/08/2026 05:47
+80674dac-74c1-4aba-86d4-696cbe063be7,abstinent.irish,available,5.98,31.98,high,low,9,namecheap,,,
+b6c0b332-b585-4559-967f-23d4ad6ffbb7,exposure.irish,available,5.98,31.98,high,low,8,namecheap,,,08/09/2026 13:44
+ef98eec3-c69a-4ecb-be82-2590a101bf7e,intrinsic.irish,available,9.99,,high,low,9,name.com,,,
+e0038306-9df6-4edb-820a-53f8c08db9db,pamela.irish,available,9.99,,high,low,6,name.com,,,
+e9d8d6db-7257-41ea-91ad-2af19160fd9c,start.irish,available,9.99,,high,medium,5,name.com,,,
+8342ce33-601e-4082-a565-f70303f8c075,marihuana.irish,available,9.99,,high,low,9,name.com,,,
+7bcf2062-071a-483b-aae6-e067693775c4,promoter.irish,available,9.99,,high,low,8,name.com,,,
+da60e38c-cc84-49db-84b4-f204cebe5f5c,babies.irish,available,9.99,,high,low,6,name.com,,,
+8e7c249e-4e3d-419b-bc47-4f90e00dde8e,cheerfully.irish,available,9.99,,high,low,10,name.com,,,
+8e90dc0e-81c2-4b8f-9c4c-e0d58b3c8b34,hassle.irish,available,9.99,,high,low,6,name.com,,,
+7aa34218-137c-4ac0-87bb-aa8dd4806ee3,toddler.irish,available,9.99,,high,low,7,name.com,,,
+0aff1d2c-e97c-4103-bc1b-63ff31ac519f,rod.irish,available,9.99,,high,low,3,name.com,,,
+00420daa-0576-437f-9e8d-3c3e9183fbb8,ttyl.irish,available,9.99,,medium,low,4,name.com,,,
+b149d00e-167c-489c-8b3c-101a1276602d,bars.irish,available,7.49,22.49,high,low,4,namesilo,,,24/09/2026 08:25
+0401b8a6-4134-4d20-8521-f6c6862ca71b,reader.irish,available,9.99,,high,low,6,name.com,,,
+f0783abd-eef9-4308-8dca-9efdde0ca75c,ilx.irish,available,5.98,31.98,medium,low,3,namecheap,,,
+70f91d31-711e-4398-9aee-036a0367a3a4,melt.irish,available,9.99,,high,low,4,name.com,,,
+8c63b3b1-4445-473f-939a-91804c195298,refrigerator.irish,available,9.99,,high,low,12,name.com,,,
+2f05e693-b45c-4c73-b913-b1026bef0c7a,influential.irish,available,5.98,31.98,high,low,11,namecheap,,,08/09/2026 05:20
+e02a7e60-6993-4538-bb44-5ae74f562cfe,loop.irish,available,,,high,low,4,,,,
+25323f86-1d13-4978-b6e2-82f9c2ad60c3,arterial.irish,available,5.98,31.98,high,low,8,namecheap,,,06/08/2026 22:29
+21f1f216-8f60-4bde-ad96-c7fbc4fee86b,shall.irish,available,9.99,,high,low,5,name.com,,,
+cd878fe7-7ac4-4a39-9895-bbf9d18c33f4,bought.irish,available,9.99,,high,low,6,name.com,,,
+46fe4ca5-f0bf-43ab-83f4-b8e904d45f6d,vanity.irish,available,9.99,,high,low,6,name.com,,,
+5ada6b5c-5a1a-43bf-b295-ca906cd7f6e9,stink.irish,available,9.99,,high,low,5,name.com,,,
+8be5204c-9917-4cef-bfda-133584059a60,swim.irish,available,9.99,,high,low,4,name.com,,,
+8f4c5632-07ce-41d1-92bc-165ef8960274,unhappiness.irish,available,9.99,,medium,low,11,name.com,,,
+38e8e9ec-a9db-4d6c-a45a-4107932e1af8,especially.irish,available,9.99,,high,low,10,name.com,,,
+26cb7e9f-cf93-48e9-bd4e-8ac1452cb74f,mat.irish,available,5.98,31.98,high,low,3,namecheap,,,08/09/2026 07:48
+d9769671-5d39-488b-a9d7-fcfbb1b5aea2,formalize.irish,available,9.99,,high,low,9,name.com,,,
+37c7e432-64a0-47b6-99a1-a5a90ee8f6cd,squirrel.irish,available,9.99,,high,low,8,name.com,,,
+1560dc53-8509-4e5f-ac0e-b00896bcd7f7,aurorean.irish,available,5.98,31.98,medium,low,8,namecheap,,,07/08/2026 18:12
+e1d1131d-e5b3-44a9-8ac3-fab9bb9af642,write.irish,available,9.99,,high,low,5,name.com,,,
+a28b0932-3f37-413e-82b2-eef236b62271,irritation.irish,available,5.98,31.98,high,low,10,namecheap,,,
+4dd9ff67-a7fa-4c7c-a5ce-fed18dc58852,sunrise.irish,available,9.99,,high,low,7,name.com,,,
+0bcdcf31-a1c5-4d8e-8175-71893d17eff9,ideas.irish,available,9.99,,high,low,5,name.com,,,
+e8b2b58b-caed-464c-a386-73f2d4ce612e,confused.irish,available,5.98,31.98,high,low,8,namecheap,,,07/08/2026 12:02
+6d944d16-1634-4f85-9f5a-a28264c9ea07,kooky.irish,available,5.98,31.98,high,low,5,namecheap,,,06/08/2026 21:04
+42ed0957-a227-4ff4-9a12-e2a5b4fcfe8c,million.irish,available,9.99,,high,low,7,name.com,,,
+2b80148f-837e-4485-9430-a5491c5c9043,codes.irish,available,9.99,,high,low,5,name.com,,,
+c602af65-73f9-4582-bf3d-f78a66e2743c,thirtieth.irish,available,5.98,31.98,high,low,9,namecheap,,,
+2d98c3a5-2db4-4aa8-8d5b-21ac56907933,aggravated.irish,available,5.98,31.98,high,low,10,namecheap,,,
+15f58dcf-8218-4480-b755-7c6e2a3a44ea,europe.irish,available,9.99,,high,low,6,name.com,,,
+e86d71fc-b168-4521-80d6-de5f97d0d6b3,impossible.irish,available,9.99,,high,low,10,name.com,,,
+826b0bdd-2a53-4b53-831c-04dcc47034b0,community.irish,available,5.98,31.98,high,medium,9,namecheap,,,08/09/2026 12:57
+e9365740-db24-4b57-9cd3-314d3908e9cc,mostly.irish,available,9.99,,high,low,6,name.com,,,
+d8019ea5-b202-4465-82be-6c95ce927010,affine.irish,available,5.98,31.98,high,low,6,namecheap,,,
+cfb7d01c-0b2b-42c1-9161-2c7c550de0a5,lying.irish,available,9.99,,high,low,5,name.com,,,
+dad5f131-68b3-4ba7-8fd1-c0f3e45b90a7,beatable.irish,available,5.98,31.98,medium,low,8,namecheap,,,09/08/2026 05:37
+9441918e-edff-469f-9fa7-59fe37b78c52,marks.irish,available,9.99,,high,low,5,name.com,,,
+68e3d9e7-2666-4745-93ea-5eba256cf536,noticed.irish,available,9.99,,high,low,7,name.com,,,
+7447e759-aae3-402c-90cf-3d15305b3809,canadas.irish,available,9.99,,medium,low,7,name.com,,,
+7cd1b709-857a-412d-83ad-6254993290a9,prick.irish,available,5.98,31.98,high,low,5,namecheap,,,08/08/2026 23:38
+f20d0e61-636b-486c-920b-a51f3defaadb,nickelodeon.irish,available,9.99,,high,low,11,name.com,,,
+79f65e4f-068c-4a58-9820-64efdf88f32b,everyone.irish,available,9.99,,high,low,8,name.com,,,
+b027c052-141f-4384-9160-1ef3d172aa5c,proclaiming.irish,available,9.99,,high,low,11,name.com,,,
+f7644d55-ce49-4bd8-b1d1-23989a9ca151,movies.irish,available,9.99,,high,low,6,name.com,,,
+795dafed-7a6d-49ee-b172-7c0d842f2cbd,happening.irish,available,9.99,,high,low,9,name.com,,,
+6a12ef08-6541-49cd-b852-d13858759fc4,antipodean.irish,available,5.98,31.98,medium,low,10,namecheap,,,
+74dba8ea-ab80-4ad3-80b9-efc2ad2c7bee,captivated.irish,available,5.98,31.98,medium,low,10,namecheap,,,09/08/2026 09:52
+132a04d6-ce78-4155-a9c7-421a29d61499,ding.irish,available,9.99,,high,low,4,name.com,,,
+7f0fd237-30dc-464d-ab90-e545a7c6c512,ninth.irish,available,5.98,31.98,high,low,5,namecheap,,,
+8594bd2d-0b51-416f-b72b-fad99c50bece,plentiful.irish,available,9.99,,high,low,9,name.com,,,
+afb41dc3-155d-4bd0-8070-b03e4bd8f7ba,diligence.irish,available,9.99,,high,low,9,name.com,,,
+08ec7584-80ce-48da-9af0-e8b784bfe71b,spray.irish,available,9.99,,high,low,5,name.com,,,
+202c0727-d040-441e-b947-4bbda6f3daa3,storyteller.irish,available,9.99,,high,low,11,name.com,,,
+b3c79bd5-c0ab-4ef5-9d12-b8e691e2f085,overflow.irish,available,9.99,,high,low,8,name.com,,,
+01a818e2-02cb-4d56-9360-b3da3e900f58,barren.irish,available,5.98,31.98,medium,low,6,namecheap,,,08/08/2026 20:57
+4a8d0c1e-5daf-447a-aec6-795b1497af5f,ebay.irish,available,,,high,low,4,,,,
+9190ffb8-0302-47ca-87b5-a12d4be64046,longitude.irish,available,9.99,,high,low,9,name.com,,,
+619271b9-db1c-414f-954d-da711c154b1d,wakening.irish,available,9.99,,high,low,8,name.com,,,
+216be2f5-afc1-461e-ad7a-4484e662ce7c,poverty.irish,available,9.99,,medium,low,7,name.com,,,
+6750b064-7fb9-4c2f-aa89-de13fe08eeda,bless.irish,available,9.99,,high,low,5,name.com,,,
+dc40a52e-194c-4d84-921e-7ffaf12cf3d4,recorded.irish,available,9.99,,high,low,8,name.com,,,
+46470018-bc45-4913-a764-459c4b3e09ab,verbal.irish,available,9.99,,high,low,6,name.com,,,
+36f5a4bb-e2b8-41cf-ba9f-5ec1d06dec3f,avestan.irish,available,5.98,31.98,high,low,7,namecheap,,,07/08/2026 23:07
+118d5323-36db-4a15-a242-9d93017ea6ad,antifungal.irish,available,5.98,31.98,high,low,10,namecheap,,,
+aa6e235b-a6ee-4da8-b852-b4a566ab006d,auric.irish,available,5.98,31.98,medium,low,5,namecheap,,,07/08/2026 17:36
+e81c6888-daf3-4251-8848-394dfe79a56e,fifth.irish,available,5.98,31.98,high,low,5,namecheap,,,
+a15f6998-e7bb-49f4-ad75-60ecebf50f8a,surfboard.irish,available,9.99,,high,low,9,name.com,,,
+2849666f-9191-4780-9c5d-a0743ed1dd5e,ike.irish,available,9.99,,high,low,3,name.com,,,
+cb7c2ebf-b0e9-47fd-802e-0d9207458737,bravery.irish,available,9.99,,high,low,7,name.com,,,
+3c5b3a9f-3b20-475b-b180-792236bf674c,sink.irish,available,9.99,,high,low,4,name.com,,,
+b03e824a-96ad-44e1-b3e3-f2f4913df2f8,bogus.irish,available,5.98,31.98,medium,low,5,namecheap,,,08/08/2026 22:58
+b54788d1-e699-4e45-befa-3afe0a6de0b6,marine.irish,available,9.99,,high,low,6,name.com,,,
+2bf54697-e6a7-41e6-b9c1-ebd6eb6e2a95,anterior.irish,available,5.98,31.98,high,low,8,namecheap,,,
+02b04f12-7bb3-482a-b76e-230ec285ea31,unemployed.irish,available,9.99,,medium,low,10,name.com,,,
+b646429f-d608-40ea-9ffe-eddb63b7abb0,barbeque.irish,available,9.99,,high,low,8,name.com,,,
+fa1571a7-b25e-4784-abf6-8ecc98350ceb,beg.irish,available,9.99,,high,low,3,name.com,,,
+e08a6384-47d9-43c8-98f1-5f17da0ffcc8,genuinely.irish,available,9.99,,high,low,9,name.com,,,
+5ed263a8-8ea6-4d21-a547-2fd35d6044c4,untrustworthy.irish,available,9.99,,medium,low,13,name.com,,,
+25f21f28-0133-4d79-90bc-db5294df04ac,barefaced.irish,available,5.98,31.98,medium,low,9,namecheap,,,08/08/2026 09:20
+918e7095-2f85-4f80-8547-d04b02db2a09,befuddled.irish,available,5.98,31.98,medium,low,9,namecheap,,,07/08/2026 11:41
+8f54bd78-647a-43a3-a791-c13f578d5d0b,jersey.irish,available,,,high,low,6,,,,
+29729168-8412-4564-b417-69d4a6a37f93,assiduous.irish,available,5.98,31.98,medium,low,9,namecheap,,,07/08/2026 06:09
+df942efc-d86b-493b-9973-b7a25fd2d428,noise.irish,available,9.99,,high,low,5,name.com,,,
+a3a0b99e-7d15-4031-9328-66ff772300a7,abasic.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+b9528979-dd16-4596-bac2-08ee6640ff73,supper.irish,available,9.99,,high,low,6,name.com,,,
+1b9f9983-daa9-4be8-8aaa-051791ed784b,cons.irish,available,9.99,,high,low,4,name.com,,,
+661d76a9-b117-479a-ad54-9593b9689a72,theirs.irish,available,9.99,,medium,low,6,name.com,,,
+954f64d4-6487-499e-ac45-cc287728d42b,banana.irish,available,9.99,,high,medium,6,name.com,,,
+6b47deb3-72c4-47ba-bec8-945f31938634,expedition.irish,available,9.99,,high,low,10,name.com,,,
+a759596f-7e85-494d-b869-6d7b37b836f7,implausible.irish,available,9.99,,medium,low,11,name.com,,,
+2bc8739d-b762-4e27-82a7-632401017b52,abo.irish,available,5.98,31.98,high,low,3,namecheap,,,
+fcdbbf19-ee13-4348-adca-9c037cdb7c41,youre.irish,available,9.99,,medium,low,5,name.com,,,
+0514b2e2-9c36-4add-a707-1df2c84c21a6,mouthguard.irish,available,9.99,,medium,low,11,name.com,,,
+e68b0ab4-40fc-4d92-adf8-f617939eea20,objectively.irish,available,9.99,,high,low,11,name.com,,,
+a34503e4-6c8d-48f4-be93-3fb45661c3f2,bead.irish,available,9.99,,high,low,4,name.com,,,
+1f03f67d-92f1-41be-89e8-218bf5379d65,wannabee.irish,available,5.98,31.98,medium,low,8,namecheap,,,07/08/2026 05:22
+d4541fef-3de8-4e19-88c5-004cb7a2e6bc,vincible.irish,available,5.98,31.98,medium,low,8,namecheap,,,09/08/2026 05:42
+1d219e5e-f917-40fb-b724-0106da826628,ashen.irish,available,5.98,31.98,medium,low,5,namecheap,,,07/08/2026 02:09
+5a34f081-ae22-4fbf-8cd8-20f0e37ee6aa,stroke.irish,available,9.99,,high,low,6,name.com,,,
+44396e57-654f-4a21-87a5-4f0fac3ecd42,sugar.irish,available,9.99,,high,low,5,name.com,,,
+a1206028-5a98-43fd-ba18-ac005751a1c3,protein.irish,available,5.98,31.98,high,low,7,namecheap,,,08/09/2026 08:51
+027fc19a-b83f-40a5-b00b-d645d1cdd414,ocean.irish,available,9.99,,high,low,5,name.com,,,
+bfe4fd80-0639-4eb1-a1a3-2445785235a7,direction.irish,available,9.99,,high,low,9,name.com,,,
+a1494ce1-a203-450b-ab17-b946ee573866,facilitating.irish,available,9.99,,medium,low,12,name.com,,,
+a5042b6c-b4ca-4cdd-aafd-99d0c85b5f58,recondite.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+448cbf20-9fff-4e38-a01a-a8cc4bc991eb,dose.irish,available,9.99,,high,low,4,name.com,,,
+e4b73925-0eb5-438e-9581-6e9953a8f21e,seriously.irish,available,9.99,,high,low,9,name.com,,,
+5db27ddf-7d5f-45aa-bdbe-ffb011c49861,philadelphia.irish,available,9.99,,high,low,12,name.com,,,
+2885527f-b775-4ec3-9e3e-4ea5578ab7f0,advertisement.irish,available,9.99,,high,low,13,name.com,,,
+fe577cf5-4424-4dd7-bfee-964c86a31aff,victorian.irish,available,9.99,,high,low,9,name.com,,,
+461e0794-2796-47b4-8b77-d46414019d2a,inverse.irish,available,9.99,,high,low,7,name.com,,,
+9e038a17-5e70-4b92-8213-3dfb32851a2a,soupy.irish,available,5.98,31.98,medium,low,5,namecheap,,,09/08/2026 01:20
+2ce0bbe2-23dc-49cf-adf2-dc45ebf433a5,wore.irish,available,9.99,,medium,low,4,name.com,,,
+132e33e0-6ecc-4647-80bd-601a6a0e514e,propagated.irish,available,9.99,,medium,low,10,name.com,,,
+3f3d5e25-df85-4584-b3c1-28759b0d2d0a,testimony.irish,available,9.99,,high,low,9,name.com,,,
+3da80f00-425e-441c-b6dd-b86dced81789,sheraton.irish,available,,,high,low,8,,,,
+7d60082e-a5a6-428b-8e24-85104250937e,database.irish,available,9.99,,high,low,8,name.com,,,
+f4c75db4-1baa-4d9e-a67f-ddfc4f879c7e,supplies.irish,available,9.99,,medium,low,8,name.com,,,
+b6a0f06f-f663-4b27-9c46-7e26617f493d,language.irish,available,9.99,,high,low,8,name.com,,,
+5014983c-6c1e-4265-bfe3-4afb24b32baa,outlander.irish,available,5.98,31.98,high,low,9,namecheap,,,
+627b5038-9f86-4bfe-b0e2-a914f2c5e68e,triad.irish,available,5.98,31.98,high,low,5,namecheap,,,
+0c0eb1fe-a06c-4647-ba0d-50f67a3b3bd9,assuming.irish,available,5.98,31.98,high,low,8,namecheap,,,07/08/2026 08:16
+9bf347c3-0787-4b1f-81ce-ed8d6695080f,performing.irish,available,5.98,31.98,high,low,10,namecheap,,,
+d46d0b14-3c8c-4121-8a19-88128febe980,shortly.irish,available,9.99,,high,low,7,name.com,,,
+6a024d3f-82cd-4386-ad27-7da8635b787b,fold.irish,available,9.99,,high,low,4,name.com,,,
+62154953-f18b-4fab-a5f5-bc9518be48f2,suv.irish,available,9.99,,high,low,3,name.com,,,
+104b5bda-495b-495b-acf3-3004d31c33bf,streetcleaner.irish,available,9.99,,low,low,14,name.com,,,
+1536b55e-b6ba-4e7d-9cac-c36899c2bcd7,having.irish,available,9.99,,high,low,6,name.com,,,
+37241abe-6ca8-4610-ab58-eafc433ff60c,currently.irish,available,9.99,,high,low,9,name.com,,,
+dd462731-1828-4308-b93a-f5b905e30624,their.irish,available,9.99,,high,low,5,name.com,,,
+3db08f39-c936-4410-8607-ac81f096aaa7,basilar.irish,available,5.98,31.98,medium,low,7,namecheap,,,08/08/2026 22:16
+f46702c4-b933-4bc3-a4ab-8685572c3ad1,seeing.irish,available,9.99,,high,low,6,name.com,,,
+eb9b6fc9-474b-4812-b086-77b383b2ecbe,mum.irish,available,9.99,,high,low,3,name.com,,,
+5093e636-73c5-422d-8482-c5c4da63260b,condiment.irish,available,9.99,,high,low,9,name.com,,,
+0518ccfd-5339-4256-8c95-93c441a1679f,detailing.irish,available,9.99,,high,low,9,name.com,,,
+fcc533a2-5d99-40a1-9a1e-0687988e2d64,unstoppable.irish,available,9.99,,high,low,11,name.com,,,
+7b4a2cc3-6774-4f5e-9f65-331a290c0e65,stands.irish,available,9.99,,medium,low,6,name.com,,,
+6479a10d-df12-48a2-9c5e-94c0c629a5bb,yearbook.irish,available,9.99,,high,low,8,name.com,,,
+278aec8b-3e3f-4c79-b232-5fc43baf4181,yeasty.irish,available,5.98,31.98,medium,low,6,namecheap,,,08/08/2026 19:56
+693ec686-b9da-48b9-a417-0c604ffa69f4,beginning.irish,available,5.98,31.98,high,low,9,namecheap,,,09/08/2026 09:06
+cd748e28-68b4-482a-b826-f4220135255d,sloped.irish,available,5.98,31.98,medium,low,6,namecheap,,,07/08/2026 04:26
+55d82781-b180-41b1-87df-9ac4bab9de53,onion.irish,available,9.99,,high,low,5,name.com,,,
+d7acfa93-890c-4816-bd78-f2558f17855d,caustic.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+b1c7c70f-f36c-4e83-bb78-a06169c79e6c,quite.irish,available,9.99,,high,low,5,name.com,,,
+94649ddc-95bd-4001-bb99-0ccd65554b2c,undergraduate.irish,available,9.99,,high,low,13,name.com,,,
+c6e810db-c8d0-4ff0-b810-f0e54066ee67,kilometer.irish,available,9.99,,high,low,9,name.com,,,
+79dd2201-2823-4bea-adda-035209d7034f,confide.irish,available,9.99,,high,low,7,name.com,,,
+0f977ec2-5e20-4160-a33f-02a53f8792e7,rock.irish,available,9.99,,high,low,4,name.com,,,
+71ff3bc1-bde6-4e27-8e40-f70c10a468dc,twice.irish,available,9.99,,high,low,5,name.com,,,
+a0278bb7-b663-4e7b-ae5a-f0afd5668090,armoured.irish,available,5.98,31.98,high,low,8,namecheap,,,06/08/2026 20:10
+2bf5a1d3-78b6-4a87-a40f-7e2f5d9b6874,lizard.irish,available,9.99,,high,low,6,name.com,,,
+36d3d5f7-f7fb-4312-a4fb-0a3a2d3f7c02,pal.irish,available,9.99,,high,low,3,name.com,,,
+a0e0bd49-1116-4a02-8700-ef84d1d3be25,dentist.irish,available,9.99,,high,low,7,name.com,,,
+ce448e8b-2c6f-430e-af40-f19cf283e1c5,ohmygosh.irish,available,9.99,,high,low,8,name.com,,,
+b7e8cae6-212b-49d7-8a53-ea1282e59aad,topnotch.irish,available,5.98,31.98,high,low,8,namecheap,,,
+7021da79-a573-4c97-96c3-ae622ca4bb06,wrong.irish,available,9.99,,high,low,5,name.com,,,
+40ee5e52-7c7e-4d3d-b836-8b6e8bce7d32,froze.irish,available,9.99,,medium,low,5,name.com,,,
+53051819-3960-41a5-97ee-d10e39b9c441,pulled.irish,available,9.99,,high,low,6,name.com,,,
+9467590b-a601-452c-a610-4fbfd932f10b,panda.irish,available,9.99,,high,medium,5,name.com,,,
+980be92d-61b9-4e25-8b2a-5fa52ce6a199,tertiary.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+06ef547c-ca22-4947-8a16-b63f0e87179b,timer.irish,available,9.99,,high,low,5,name.com,,,
+1b28d3b2-0e23-4d7a-acc7-1f8885a473ff,unskilled.irish,available,5.98,31.98,medium,low,9,namecheap,,,
+4213977c-600a-4a60-b530-578d5ef015f3,cone.irish,available,9.99,,high,low,4,name.com,,,
+80932b6a-c60a-48ff-9846-d12e035deba4,beaded.irish,available,5.98,31.98,medium,low,6,namecheap,,,09/08/2026 03:18
+954d3604-8cf3-49d2-b116-d739634aaad4,january.irish,available,9.99,,high,low,7,name.com,,,
+830d62c5-360c-406f-892f-3d35f869641a,detail.irish,available,9.99,,high,low,6,name.com,,,
+d04a1dd0-4a69-4e65-97ef-cca9b0b3155e,vague.irish,available,9.99,,high,low,5,name.com,,,
+855418b5-4c12-4672-a09c-cc49239d8412,frequently.irish,available,9.99,,high,low,10,name.com,,,
+6cfa9fac-2a7c-4722-904a-c3060c8f9486,loopy.irish,available,5.98,31.98,medium,low,5,namecheap,,,06/08/2026 21:22
+533da33b-5fa6-404b-a158-6ff4d3db68c2,bear.irish,available,9.99,,high,low,4,name.com,,,
+2eeb69d4-f7d7-4291-9968-6d878cab7e4c,mall.irish,available,9.99,,high,low,4,name.com,,,
+a9502d91-ac13-4e4d-ac00-d33df6e4a78c,jeep.irish,available,,,high,low,4,,,,
+518740f0-a884-4da5-89fa-e9c83b495451,bull.irish,available,9.99,,high,low,4,name.com,,,
+96f92a60-6efb-4199-a8ca-bca24f7ccd60,solvable.irish,available,9.99,,high,low,8,name.com,,,
+a7d9e4f7-44f0-46b9-8df2-7347c23edb1e,leaders.irish,available,9.99,,high,low,7,name.com,,,
+0a5c505f-1d83-437f-8821-30dcbe78f4ce,facilitate.irish,available,9.99,,high,low,10,name.com,,,
+c334dee0-fcda-42c6-9a14-12118221064c,victoria.irish,available,9.99,,high,low,8,name.com,,,
+db81f52d-cb00-4a85-ae67-1c2d5a3ce43a,undeveloped.irish,available,9.99,,high,low,11,name.com,,,
+48113185-5b74-4fee-ad9e-4042835c4130,antlered.irish,available,5.98,31.98,medium,low,8,namecheap,,,05/08/2026 20:11
+39c28a03-12ce-4278-9a81-f352df2d08bf,pissed.irish,available,5.98,31.98,medium,low,6,namecheap,,,
+f7e74446-e59f-44ee-a3c4-6ec11318d6b4,channels.irish,available,9.99,,high,low,8,name.com,,,
+cc8c9d1d-71b1-455d-9ca6-6c854b5ca959,pretense.irish,available,9.99,,high,low,8,name.com,,,
+5a6cf1cd-7e0b-4bcc-a358-8776be959866,must.irish,available,9.99,,high,low,4,name.com,,,
+e3390c90-41bc-4292-b8c3-0f8d9712c21c,amative.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+39b6335e-28ba-45bb-a65c-0715db1a08ae,condolence.irish,available,9.99,,high,low,10,name.com,,,
+059a3682-7e66-4d46-ba29-0de37e4d7dd4,crimes.irish,available,9.99,,high,low,6,name.com,,,
+d5fb0049-b9f8-44f7-8d8c-af3f86d089a8,moldy.irish,available,9.99,,medium,low,5,name.com,,,
+b258261a-493e-4aea-abb4-72c2c7eb3299,reserve.irish,available,5.98,31.98,high,low,7,namecheap,,,06/08/2026 09:16
+70603141-0d89-42e9-a09e-19ea2aa1ded0,satan.irish,available,9.99,,high,low,5,name.com,,,
+50fb84db-a025-4ec1-a934-6f1fd61251b6,lindsay.irish,available,9.99,,high,low,7,name.com,,,
+ccc8ce07-55f5-46d3-b5d6-aa37cd2fd62c,wondered.irish,available,9.99,,high,low,8,name.com,,,
+1d561984-23ba-4a3d-99fa-365cf8f7fb5f,acidic.irish,available,5.98,31.98,high,low,6,namecheap,,,
+c89a82fc-bc90-4d42-8377-5e22b58b8097,sheet.irish,available,9.99,,high,low,5,name.com,,,
+f5ae6cd8-d847-42e7-8595-a6fdcf7a6d98,ambrosian.irish,available,5.98,31.98,high,low,9,namecheap,,,
+16a277db-91e7-4b30-bde1-4e03783eb92b,secured.irish,available,9.99,,high,low,7,name.com,,,
+664aead0-fe11-4207-bb90-c7b5870ed954,disneyland.irish,available,9.99,,high,low,10,name.com,,,
+54a48d41-2d18-476b-bca5-e8a1506e7f75,affirm.irish,available,,,high,low,6,,,,
+e5ed5c1c-48cc-41e4-b5c1-025d970c3c56,canal.irish,available,9.99,,high,low,5,name.com,,,
+2813dc2e-4f6e-40d2-a8f0-254fab334889,lorry.irish,available,9.99,,high,low,5,name.com,,,
+44246aa2-9444-47f9-84d2-c09a062061e3,coverage.irish,available,9.99,,high,low,8,name.com,,,
+0de52e10-3abe-4028-bf81-5939a2a37c13,scandal.irish,available,9.99,,high,low,7,name.com,,,
+56e0aef9-fd1f-43ca-9776-de9a518a0af7,exhale.irish,available,9.99,,high,low,6,name.com,,,
+0f137b2b-6f2c-4f9c-9f18-94d54b17b50a,brought.irish,available,9.99,,medium,low,7,name.com,,,
+7a434504-1133-4c2c-9c4c-c9a212da5f85,sympathetic.irish,available,9.99,,high,low,11,name.com,,,
+ae6f7d01-fd27-4094-b71b-0490dba71d8a,nitid.irish,available,5.98,31.98,medium,low,5,namecheap,,,
+e47917b8-804e-4b0a-b773-c544d470554d,talk.irish,available,9.99,,high,low,4,name.com,,,
+4428fa48-d805-457a-b9c5-3aa9cce9ea6f,member.irish,available,9.99,,high,low,6,name.com,,,
+3ac41979-79ab-4ab1-a60c-c758ac65c94d,view.irish,available,9.99,,high,low,4,name.com,,,
+50fe220c-bf01-476e-b6e0-9f164d8ea110,concluded.irish,available,5.98,31.98,high,low,9,namecheap,,,
+aaaf5066-eaac-44c7-a9e4-323f4cd4ec32,appalled.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+9a976f0d-3aac-4c7c-9b33-f1c1fd407710,rage.irish,available,9.99,,high,low,4,name.com,,,
+d7b6257c-e258-4f0c-a4ca-14f376b892d8,nature.irish,available,5.98,31.98,high,low,6,namecheap,,,08/09/2026 02:43
+73cd0fbb-607b-4d37-8eed-74aa6685a114,isle.irish,available,9.99,,high,low,4,name.com,,,
+1e584352-0c8d-41e5-aea8-c6d97478fcec,touch.irish,available,9.99,,high,low,5,name.com,,,
+f4eb6fe6-6488-426d-9741-ddf79faaba22,notions.irish,available,9.99,,medium,low,7,name.com,,,
+af7cad85-405a-4163-90c5-4530d042a259,appreciative.irish,available,9.99,,high,low,12,name.com,,,
+37f3512a-c2f9-491a-a808-67420965298f,roll.irish,available,9.99,,high,low,4,name.com,,,
+baae00d1-ed0e-4236-b544-37771547d88d,indifferent.irish,available,9.99,,high,low,11,name.com,,,
+391a5336-bfc5-42f4-ad6e-e289aefb7e0e,vehicle.irish,available,9.99,,high,low,7,name.com,,,
+63e3666e-7e51-4e7b-9017-339fd4855060,algal.irish,available,5.98,31.98,high,low,5,namecheap,,,
+46cc90b9-8cee-425b-9ac1-3b6d64fd5720,velvet.irish,available,9.99,,high,low,6,name.com,,,
+7c8b61e7-a1f6-46f8-9ae5-2086d9d4446e,audio.irish,available,9.99,,high,low,5,name.com,,,
+c949ca52-c32f-4c52-967f-e94ccd625ca7,whiteboard.irish,available,9.99,,high,low,10,name.com,,,
+f714e247-2118-41c2-ab1e-f3c786674ed5,mavin.irish,available,5.98,31.98,high,low,5,namecheap,,,
+725959cf-b936-4757-85ff-875405eff3f8,ability.irish,available,9.99,,high,low,7,name.com,,,
+33b5e5be-b5ab-4d90-a174-a7736e980d9d,call.irish,available,9.99,,high,low,4,name.com,,,
+27db97c4-5a43-4544-a019-eb62091d3fe3,dime.irish,available,9.99,,high,low,4,name.com,,,
+78acf991-358d-4974-babd-3067f095632b,paunchy.irish,available,5.98,31.98,medium,low,7,namecheap,,,
+6f63ec8f-5eee-4ef4-9686-e582d7c19b84,ensure.irish,available,9.99,,high,low,6,name.com,,,
+4fd5be5e-1c85-4839-a342-2f30e52bfa71,antecedent.irish,available,5.98,31.98,high,low,10,namecheap,,,
+d0b419d4-beb6-49d3-8f94-93d4652ffc2d,oregon.irish,available,9.99,,high,low,6,name.com,,,
+3d532077-95b5-4f6a-bdd7-15a90748b131,rejected.irish,available,9.99,,medium,low,8,name.com,,,
+9aa51b9e-052f-49de-96b1-9a7219d5e689,triplet.irish,available,5.98,31.98,high,low,7,namecheap,,,
+045f0460-8989-4541-9f07-4bc22c13ff39,negotiable.irish,available,5.98,31.98,medium,low,10,namecheap,,,07/08/2026 06:30
+56e94b2e-89cb-4815-aa96-53cefc34f691,eased.irish,available,5.98,31.98,high,low,5,namecheap,,,
+14c1ab5f-982c-411f-b1a3-5386082d90dd,explorer.irish,available,9.99,,high,low,8,name.com,,,
+aea2bef1-de6b-4512-9653-c404a8b92c00,unending.irish,available,5.98,31.98,high,low,8,namecheap,,,
+4b6b0791-2491-444b-b2bb-930b9977fcfc,terms.irish,available,9.99,,high,low,5,name.com,,,
+051afbc0-86da-4bf1-99dc-0403e3e7a4ea,midday.irish,available,9.99,,high,low,6,name.com,,,
+df6fd037-e328-4697-a3f0-1cc9205c40a3,hbo.irish,available,,,high,low,3,,,,
+385e15f5-477c-472d-ae70-9dd016ecaada,plants.irish,available,9.99,,high,low,6,name.com,,,
+a5938712-0aa7-4868-b395-5dbbf8d9192c,passionate.irish,available,9.99,,high,low,10,name.com,,,
+0cc8a1f3-7a9e-4cb8-817f-7d97396413a5,similarly.irish,available,9.99,,medium,low,9,name.com,,,
+0ed47bab-78f5-497e-9339-3f8f2d0e056b,axenic.irish,available,5.98,31.98,high,low,6,namecheap,,,08/08/2026 01:51
+08e7ee1e-0e35-45b9-bece-9bb0f0430dd9,abkhaz.irish,available,5.98,31.98,high,low,6,namecheap,,,
+082cf7e4-c275-4c99-8ad5-e032e6b30402,spheric.irish,available,5.98,31.98,medium,low,7,namecheap,,,08/08/2026 10:16
+e825414f-77f0-45c0-9459-44f836a5ce58,ink.irish,available,,,high,low,3,,,,
+872f62a7-6d60-4413-a8e2-c19af4050f80,apropos.irish,available,,,high,low,7,,,,
+dc1d56d8-da61-480c-933e-fd9073128083,regional.irish,available,9.99,,high,low,8,name.com,,,
+ea50d053-1827-4734-a5cd-0408bcf3151a,campaigner.irish,available,9.99,,high,low,10,name.com,,,
+d0c3bf2c-ca5f-4053-ae61-04270cadec06,perhaps.irish,available,9.99,,high,low,7,name.com,,,
+393365ec-668e-4786-961c-afa5b0eaec3f,promotion.irish,available,9.99,,high,low,9,name.com,,,
+bf211533-51ec-49d7-a30c-af40ef105709,update.irish,available,9.99,,high,low,7,name.com,,,
+ea665c2a-70b9-4266-be5b-df39597dc420,maledict.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+22d0c704-17b5-4bb3-aed1-0536a08c82bf,initially.irish,available,9.99,,high,low,9,name.com,,,
+c820abc1-24a9-4d90-9bf7-72c81f05fbe6,modeller.irish,available,9.99,,high,low,8,name.com,,,
+9643ccbf-8f82-458f-8247-9b6f2ebdc3a6,sep.irish,available,9.99,,high,low,3,name.com,,,
+610b1742-5d90-4d45-9ff0-dcb559e4287a,ticking.irish,available,9.99,,high,low,7,name.com,,,
+b712e1d8-24fc-41d5-bc55-7f30dab1f8cd,axiomatic.irish,available,5.98,31.98,high,low,9,namecheap,,,05/08/2026 23:27
+e912d458-aad1-4361-b326-b580277f0d97,bunny.irish,available,9.99,,high,low,5,name.com,,,
+e86c437e-fc45-45d4-a7dd-afe272d715c4,buzzing.irish,available,5.98,31.98,high,low,7,namecheap,,,
+db3a2d78-de3b-4015-888d-ee34d83b1e61,adducent.irish,available,5.98,31.98,medium,low,8,namecheap,,,
+9b3bc85f-d43c-4634-a107-ad79b532fee0,buck.irish,available,9.99,,high,low,4,name.com,,,
+b7fdd1f7-a9f1-48fc-8ca8-740a6a0c9091,pastoral.irish,available,5.98,31.98,high,low,8,namecheap,,,06/08/2026 14:20
+aba62aee-5995-4e1a-9707-9a4b0b69bf73,produce.irish,available,9.99,,high,low,7,name.com,,,
+e4511e6a-16fc-4ce1-8db0-4877d580ccd9,yeah.irish,available,9.99,,high,low,4,name.com,,,
